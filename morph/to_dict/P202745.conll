@@ -1,6 +1,6 @@
 #new_text=P202745													
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC							
-o.1.1	pisan-dub-ba	bisagdubak[archivist]	N	pisandubak[archivist]	N	bisagdubak[archivist]	N	pisaGdubak[archivist]	N				
+o.1.1	pisan-dub-ba	bisagdubak[archivist]	N _  _ _
 o.2.1	sze	sze[barley]	N	sze[barley][-ø]	N.ABS								
 o.2.2	erin2-e	erin[people]-e	N.ERG										
 o.3.1	szu	szu[hand]	N	_[_]	_	szu[hand]-e	N.DAT-NH	szu[hand][-ø]	N.ABS	szu[hand]-ta	N.ABL		
