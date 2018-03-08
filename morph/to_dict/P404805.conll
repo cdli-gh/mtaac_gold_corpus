@@ -1,0 +1,18 @@
+#new_text=P404805											
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC					
+o.1.1	pisan-dub-ba	pisagdubak[archivist]	N								
+o.2.1	e2-tum	bitum[~administration]	N								
+o.3.1	sag-nig2-gur11-ra	sagnigGAra[assets]	N								
+o.4.1	u3	u[and]	CNJ	u[sleep][-ø]	N.ABS						
+o.4.2	zi-ga	zig[rise]-a[-ak]	V.SUB.GEN	zig[rise]-a[-ø]	V.SUB.ABS						
+o.5.1	lu2-{d}ba-ba6	Lubaba[1][-ak]	PN.GEN								
+o.6.1	iti	iti[month]	N								
+o.6.2	masz-da3-gu7-ta	Maszdagu[1]-ta	MN.ABL								
+r.1.1	iti	iti[month]	N								
+r.1.2	sze-sag11-ku5-sze3	Szesagkud[1]-sze	MN.TERM								
+r.2.1	iti	iti[month]	N								
+r.2.2	1(u)	1(u)[ten]	NU	_[_]	_						
+r.2.3	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG								
+r.3.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.3.2	en-unu6-gal-{d}inanna	Enunugalinanna[1][-ø]	PN.ABS								
+r.3.3	ba-hun	ba-hug[hire][-ø]	MID.V.3-SG-S	ba-hun[hire][-ø]	MID.V.3-SG-S						

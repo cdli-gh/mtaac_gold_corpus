@@ -1,0 +1,14 @@
+#new_text=P212179											
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC					
+o.1.1	pisan-dub-ba	pisagdubak[archivist]	N								
+o.2.1	e2-tum	bitum[~administration]	N								
+o.3.1	sag-nig2-gur11-ra	sagnigGAra[assets]	N								
+o.4.1	u3	u[and]	CNJ	u[sleep][-ø]	N.ABS						
+o.4.2	zi-ga	zig[rise]-a[-ak]	V.SUB.GEN	zig[rise]-a[-ø]	V.SUB.ABS						
+o.5.1	szu-ma-ma	Szumana[1][-ak]	PN.GEN								
+r.1.1	iti	iti[month]	N								
+r.1.2	1(u)	1(u)[ten]	NU	_[_]	_						
+r.1.3	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG								
+r.2.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.2.2	sza-asz-ru{ki}	Szaszru[1][-ø]	SN.ABS								
+r.2.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S								

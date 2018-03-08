@@ -1,0 +1,18 @@
+#new_text=P340100																	
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC											
+o.1.1	pisan-dub-ba	pisagdubak[archivist]	N														
+o.2.1	im	im[clay]	N														
+o.2.2	e2-tum	bitum[~administration][-ak]	N.GEN														
+o.3.1	sze	sze[barley]	N	sze[barley][-ø]	N.ABS												
+o.3.2	gesz	gesz[tree]	N	gesz[tree]	N	gesz[tree][-ø]	N.ABS										
+o.3.3	e3-a	e[leave]-a[-ak][-ak]	V.SUB.GEN.GEN	e[leave]-'a	V.SUB												
+o.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS						
+o.4.2	us2-sa	us[follow]-a	V.SUB	us[follow]-a	V.SUB												
+o.4.3	{d}szu-{d}suen	Szusuen[1]	RN	Szusuen[1][-ak][-ø]	RN.GEN.ABS												
+o.4.4	lugal	lugal[king]	N	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H
+o.4.5	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN.GEN.ERG														
+o.4.6	bad3	bad[wall]	N	bad[wall][-ak][-ø]	N.GEN.ABS	bad[wall]	N										
+o.4.7	mar-tu	Martu[Amorite]	AJ	Martu[Amorite]	AJ												
+o.4.8	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON.ABS														
+o.4.9	mu-du3-a	mu[-n]-du-ø[-ø]	VEN.3-SG-H-A.V.3-SG-P.ABS	mu-n-du-ø-'a[-e]	VEN.3-SG-H-A.V.3-SG-P.SUB.ERG	mu-n-du[-ø]-'a[-ø]	VEN.3-SG-H-A.V.3-SG-P.SUB.ABS	mu-n-du-ø-'a	VEN.3-SG-H-A.V.3-SG-P.SUB								
+r.1.1	i3-gal2	i-gal[be][-ø]	FIN.V.3-SG-S														

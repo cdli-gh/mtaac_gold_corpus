@@ -1,0 +1,12 @@
+#new_text=P356066																	
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC											
+o.1.1	pisan-dub-ba	pisagdubak[archivist]	N														
+o.2.1	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS								
+o.2.2	tag-tag	tuku[beat][-a]	V.RDP.SUB														
+o.3.1	e2-tum-e	bitum[~adminitration]-e[-ø]	V.L3-NH.ABS														
+r.1.1	i3-gal2	i-gal[be][-ø]	FIN.V.3-SG-S														
+r.2.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS						
+r.2.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	Ibbisuen[1][-ø]	RN.ABS	Ibbisuen[1]	RN										
+r.2.3	lugal	lugal[king][-e]	N.ERG	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H
+r.2.4	bad3-gal-bi	bad[wall]-gal[big]-bi[-ø]	N.AJ.DEM2.ABS														
+r.2.5	mu-du3	mu[-n]-du[build]-ø	VEN.3-SG-H-A.V.3-SG-P	mu-n-du-ø-'a-'a	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	mu-n-du-ø	VEN.3-SG-H-A.V.3-SG-P	mu-ni-n-du-ø	VEN.L1.3-SG-H-A.V.3-SG-P	mu-nn-a-n-du-ø-'a-'a	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	mu-nn-a-n-du-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P				
