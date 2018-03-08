@@ -1,1 +1,1 @@
-Here goes the chosen texts after having been processed through the ATF2CoNLL converter.
+Here go the chosen texts after having been processed through the ATF2CoNLL converter.
