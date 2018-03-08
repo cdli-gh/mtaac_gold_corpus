@@ -1,6 +1,6 @@
 #new_text=P340047																							
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC																	
-o.1.1	pisan-dub-ba	bisagdubak[archivist]	N	pisandubak[archivist]	N	bisagdubak[archivist]	N	pisaGdubak[archivist]	N														
+o.1.1	pisan-dub-ba	bisagdubak[archivist]	N _  _ _
 o.2.1	nig2-ka9-ak	nigSZID[account]	N																				
 o.2.2	lu2	lu[person]	N	lu[person][-e]	N.ERG	lu[person][-ø]	N.ABS																
 o.2.3	nig2-dab5-ba-ke4-ne	nig[thing]-dab[seize]-a-ak-ene[-ø]	N.V.SUB.GEN.PL.ABS																				
