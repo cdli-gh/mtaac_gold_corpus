@@ -1,80 +1,80 @@
-#new_text=P101357															
-# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC									
-o.1.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.1.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS								
-o.1.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-o.1.4	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU								
-o.1.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.1.6	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-o.2.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.2.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.2.3	u2	u[plants]	N												
-o.3.1	ma2	ma[ship]	N	N	ma[ship][-ø]	N.ABS									
-o.3.2	an-na-sze3	An[1]-ak-sze	DN.GEN.TERM												
-o.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.4.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.4.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-o.4.4	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS						
-o.4.5	{d}na-na-a	Nanaya[1][-ak]	DN.GEN												
-o.5.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.5.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.5.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-o.5.4	esz3	esz[shrine]	N												
-o.5.5	ge6-zal-sze3(KU)	Gezal[1][-ak]-sze	DN.GEN.TERM												
-o.6.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.6.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS										
-o.6.3	nig2-ki-zah3	nig[thing]-kizah[locus][-ak]	N.N.GEN												
-o.6.4	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS						
-o.6.5	{d}na-na-a	Nanaya[1][-ak]	DN.GEN												
-o.7.1	2(disz)	2(disz)[one]	NU	_[_]	_										
-o.7.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.7.3	gu4-e-us2-sa	gud[ox]-e-us[follow]-a	N.L3-NH.V.SUB												
-o.8.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.8.2	masz2	masz[goat]	N	masz[goat][-ø]	N	masz[goat][-ø]	N.ABS								
-o.8.3	siskur2	siszkur[prayer]	N												
-o.8.4	u4-sakar	usakar[moon][-ak]	N.GEN												
-o.8.5	sza3	szag[heart]	N	szag[heart]	N										
-o.8.6	unu{ki}-ga	Unug[1]-ak	SN.GEN												
-o.9.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS								
-o.9.2	a2-bi2-la-ti	Abilati[1]	PN												
-o.10.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-o.10.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-o.10.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-o.10.4	sa2-du11	sadug[offerings]	N												
-o.11.1	gi-ra-num2	giranum[wailing]	N												
-o.11.2	{d}inanna	Inanna[1][-ak][-ak]	DN.GEN.GEN												
-r.1.1	2(disz)	2(disz)[one]	NU	_[_]	_										
-r.1.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-r.1.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-r.1.4	sa2-du11	sadug[offerings]	N												
-r.2.1	siskur2	siszkur[prayer]	N												
-r.2.2	{d}be-la-at-suh-ner	Belatsuhner[1]	DN												
-r.3.1	u3	u[and]	CNJ	u[sleep][-ø]	N.ABS										
-r.3.2	{d}be-la-at-dar-ra-ba-an	Belatdarraban[1][-ak]	DN.GEN												
-r.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-r.4.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS										
-r.4.3	nig2-ki-zah2	nig[thing]-kizah[locus][-ak]	N.N.GEN												
-r.4.4	e2-gal-la	Egal[palace]-'a	N.L1												
-r.5.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-r.5.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS										
-r.5.3	AN	_[_]	_	_											
-r.5.4	...-x	_[_]	_												
-r.6.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_								
-r.6.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS						
-r.6.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V								
-r.6.4	siskur2	siszkur[prayer]	N												
+#new_text=P101357
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.1.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
+o.1.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+o.1.4	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+o.1.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.1.6	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+o.2.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.2.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.2.3	u2	u[plants]	N
+o.3.1	ma2	ma[ship]	N	N	ma[ship][-ø]	N.ABS
+o.3.2	an-na-sze3	An[1]-ak-sze	DN.GEN.TERM
+o.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.4.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.4.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+o.4.4	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS
+o.4.5	{d}na-na-a	Nanaya[1][-ak]	DN.GEN
+o.5.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.5.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.5.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+o.5.4	esz3	esz[shrine]	N
+o.5.5	ge6-zal-sze3(KU)	Gezal[1][-ak]-sze	DN.GEN.TERM
+o.6.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.6.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS
+o.6.3	nig2-ki-zah3	nig[thing]-kizah[locus][-ak]	N.N.GEN
+o.6.4	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS
+o.6.5	{d}na-na-a	Nanaya[1][-ak]	DN.GEN
+o.7.1	2(disz)	2(disz)[one]	NU	_[_]	_
+o.7.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.7.3	gu4-e-us2-sa	gud[ox]-e-us[follow]-a	N.L3-NH.V.SUB
+o.8.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.8.2	masz2	masz[goat]	N	masz[goat][-ø]	N	masz[goat][-ø]	N.ABS
+o.8.3	siskur2	siszkur[prayer]	N
+o.8.4	u4-sakar	usakar[moon][-ak]	N.GEN
+o.8.5	sza3	szag[heart]
+o.8.6	unu{ki}-ga	Unug[1]-ak[-a]	SN.GEN.L1
+o.9.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
+o.9.2	a2-bi2-la-ti	Abilati[1]	PN
+o.10.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.10.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+o.10.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+o.10.4	sa2-du11	sadug[offerings]	N
+o.11.1	gi-ra-num2	giranum[wailing]	N
+o.11.2	{d}inanna	Inanna[1][-ak][-ak]	DN.GEN.GEN
+r.1.1	2(disz)	2(disz)[one]
+r.1.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+r.1.3	niga	niga[fattened][-a]	V.SUB
+r.1.4	sa2-du11	sadug[offerings]	N
+r.2.1	siskur2	siszkur[prayer]	N
+r.2.2	{d}be-la-at-suh-ner	Belatsuhner[1]	DN
+r.3.1	u3	u[and]	CNJ	u[sleep][-ø]	N.ABS
+r.3.2	{d}be-la-at-dar-ra-ba-an	Belatdarraban[1][-ak]	DN.GEN
+r.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.4.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS
+r.4.3	nig2-ki-zah2	nig[thing]-kizah[locus][-ak]	N.N.GEN
+r.4.4	e2-gal-la	Egal[palace]-'a	N.L1
+r.5.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.5.2	sila4	sila[lamb]	N	sila[lamb][-ø]	N.ABS
+r.5.3	AN	_[_]	_	_
+r.5.4	...-x	_[_]	_
+r.6.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.6.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
+r.6.3	niga	niga[fattened][-a]	V.SUB	niga[fattened][-ø]	V.ABS	niga[fattened]	V
+r.6.4	siskur2	siszkur[prayer]	N
 r.6.5	{d}nanna	Nanna[1][-ak]	DN.GEN	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-ak][-ak][-ø]	DN.GEN.GEN.ABS	Nanna[1][-ak]	DN.GEN	Nanna[1][-e]	DN.ERG	Nanna[1][-ø]	DN.ABS	Nanna[1][-ra]	DN.DAT-H
-r.7.1	ur-{d}dumu-zi-da	Urdumuzida[1]	PN												
-r.7.2	maszkim	maszkim[administrator]	N	maszkim[administrator][-ø]	N.ABS										
-r.8.1	zi-ga	zig[rise]-a	V.SUB	zig[rise]-a[-ak]	V.SUB.GEN	zig[rise]-a[-ø]	V.SUB.ABS								
-r.8.2	be-li2-du10	Belidu[1]	PN												
-r.8.3	kuruszda	kuruszda[fattener][-ak]	N.GEN												
-r.9.1	sza3	szag[heart]	PRP	szag[heart]	N										
-r.9.2	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS						
-r.9.3	sag-da-na	Sagdana[1][-ak]	PN.GEN												
-r.10.1	iti	iti[month]	N												
-r.10.2	a2-ki-ti	Akiti[1]	MN												
-r.11.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS				
-r.11.2	bad3	bad[wall]	N	Bad[1][-ak][-ra]	GN.GEN.DAT-H	bad[wall][-ak][-ø]	N.GEN.ABS	bad[wall]	GN						
-r.11.3	ma-da	mada[land][-ak][-ø]	N.GEN	mada[land]	N										
-r.11.4	ba-du3	ba-du[build][-ø]	MID.V.3-SG-S												
+r.7.1	ur-{d}dumu-zi-da	Urdumuzida[1]	PN
+r.7.2	maszkim	maszkim[administrator]	N	maszkim[administrator][-ø]	N.ABS
+r.8.1	zi-ga	zig[rise]-a	V.SUB	zig[rise]-a[-ak]	V.SUB.GEN	zig[rise]-a[-ø]	V.SUB.ABS
+r.8.2	be-li2-du10	Belidu[1]	PN
+r.8.3	kuruszda	kuruszda[fattener][-ak]	N.GEN
+r.9.1	sza3	szag[heart]	N
+r.9.2	e2	e[house]	N
+r.9.3	sag-da-na	Sagdana[1][-ak][-ak][-a]	PN.GEN.GEN.L1
+r.10.1	iti	iti[month]	N
+r.10.2	a2-ki-ti	Akiti[1]	MN
+r.11.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.11.2	bad3	bad[wall]	N	Bad[1][-ak][-ra]	GN.GEN.DAT-H	bad[wall][-ak][-ø]	N.GEN.ABS	bad[wall]	GN
+r.11.3	ma-da	mada[land][-ak][-ø]	N.GEN	mada[land]	N
+r.11.4	ba-du3	ba-du[build][-ø]	MID.V.3-SG-S

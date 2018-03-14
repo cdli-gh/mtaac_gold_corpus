@@ -1,24 +1,24 @@
-#new_text=P101018													
-# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC							
-o.1.1	5(ban2)	5(ban)[unit]	N										
-o.1.2	8(disz)	8(disz)[one]	NU										
-o.1.3	sila3	sila[unit]	N										
-o.1.4	zi3	zid[flour]	N										
-o.1.5	gazx(KUM)	gaz[kill][-a]	V.SUB										
-o.2.1	sa2-du11	sadug[offerings]	N										
-o.2.2	ku5-da	kud[cut]-a	V.SUB										
-o.3.1	bala	bala[turn]	N	bala[turn]	V								
-o.3.2	er3-ra-gar3	Erragar[1][-ak]	PN.GEN										
-o.4.1	mu	mu[name]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS		
-o.4.2	szu-szu-mu-dar	Szuszumudar[1]	PN										
-r.1.1	kiszib3	kiszib[seal]	N										
-r.1.2	tu-ra-am-i3-li2	Turamili[1]	PN										
-r.2.1	...	_[_]	_										
-r.2.2	x	_[_]	_	_									
-r.3.1	iti	iti[month]	N										
-r.3.2	a2-ki-ti	Akiti[1]	MN										
-r.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS		
-r.4.2	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS				
+#new_text=P101018
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(ban2)	5(ban)[unit]	N
+o.1.2	8(disz)	8(disz)[one]	NU
+o.1.3	sila3	sila[unit]	N
+o.1.4	zi3	zid[flour]	N
+o.1.5	gazx(KUM)	gaz[kill][-a]	V.SUB
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	ku5-da	kud[cut]-a	V.SUB
+o.3.1	bala	bala[tax]	N
+o.3.2	er3-ra-gar3	Erragar[1][-ak]	PN.GEN
+o.4.1	mu	mu[name]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.4.2	szu-szu-mu-dar	Szuszumudar[1]	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	tu-ra-am-i3-li2	Turamili[1]	PN
+r.2.1	...	_[_]	_
+r.2.2	x	_[_]	_	_
+r.3.1	iti	iti[month]	N
+r.3.2	a2-ki-ti	Akiti[1]	MN
+r.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.4.2	e2	e[house]	N	e[house]-ani[-ø]	N.3-SG-H-POSS.ABS	e[house]-e	N.L3-NH	e[house][-ø]	N=N.ABS
 r.4.3	{d}szara2	Szara[1]	DN	Szara[1]	DN	Szara[1][-e]	DN.ERG	Szara[1][-ra]	DN.DAT-H	Szara[1]-ra	DN.L3-H	Szara[1][-ak]	DN.GEN
-r.4.4	umma{ki}-ka	Umma[1]-ak-ak[-ø]	SN.GEN.GEN.ABS	Umma[1]-ak-ak	SN.GEN.GEN	Umma[1]-ak-'a	SN.GEN.L1						
+r.4.4	umma{ki}-ka	Umma[1]-ak-ak[-ø]	SN.GEN.GEN.ABS	Umma[1]-ak-ak	SN.GEN.GEN	Umma[1]-ak-'a	SN.GEN.L1
 r.4.5	mu-du3	mu-du-ø	VEN.V.3-SG-S	mu-n-du-ø-'a-'a	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	mu-n-du-ø	VEN.3-SG-H-A.V.3-SG-P	mu-ni-n-du-ø	VEN.L1.3-SG-H-A.V.3-SG-P	mu-nn-a-n-du-ø-'a-'a	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	mu-nn-a-n-du-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
