@@ -1,6 +1,6 @@
 #new_text=P340098											
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC					
-o.1.1	pisan-dub-ba	bisagdubak[archivist]	N	pisandubak[archivist]	N	bisagdubak[archivist]	N	bisagdubak[archivist]	N		
+o.1.1	pisan-dub-ba	bisagdubak[archivist]	N	pisandubak[filing_basket]	N	bisagdubak[archivist]	N	bisagdubak[archivist]	N		
 o.2.1	kiszib3	kiszib[seal]	N								
 o.2.2	dabx(U8)-ba	dab[seize]-a	V.SUB								
 o.2.3	a2	a[arm]	N	a[arm][-ø]	N.ABS	a[time]	N				
