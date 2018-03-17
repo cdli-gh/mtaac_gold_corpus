@@ -3,9 +3,9 @@
 o.1.1	pisan-dub-ba	bisagdubak[archivist]	N _  _ _
 o.2.1	sze	sze[barley]	N	sze[barley][-ø]	N.ABS								
 o.2.2	erin2-e	erin[people]-e	N.ERG										
-o.3.1	szu	szu[hand]	N	_[_]	_	szu[hand]-e	N.DAT-NH	szu[hand][-ø]	N.ABS	szu[hand]-ta	N.ABL		
+o.3.1	szu	szu[hand]	N	szu[hand]-e	N.DAT-NH	szu[hand][-ø]	N.ABS	szu[hand]-ta	N.ABL		
 o.3.2	ti-a	ti[receive]-a	V.SUB										
-o.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS		
+o.4.1	mu	mu[year]	N		
 o.4.2	en	en[priest]	N	_	en[lord]	N	en[lord][-ø]	N.ABS	en[priest][-ø]	N.ABS			
 o.4.3	eridu{ki}-ga	Eridug[1]-ak[-ø]	SN.GEN.ABS										
 o.4.4	ba-hun-ga2-sze3	ba-hug[hire][-ø]-sze	MID.V.3-SG-S.TERM										
@@ -15,7 +15,7 @@ o.5.3	he2-dab5-me	hedab[worker]-mesz	N.COP-3-PL
 o.6.1	gu2	gu[neck]	N	gu[entirety]	N	gu[neck]-'a	N.L2-NH	gu[neck]	N	gu[neck][-ø]	N.ABS	gun[load]	N
 o.6.2	i7	id[river]	N										
 o.6.3	nigin6{ki}-sze3-du	Niginszedu[1][-ak]	WN.GEN										
-o.7.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS		
+o.7.1	mu	mu[year]	N		
 o.7.2	us2-sa	us[follow]-a	V.SUB	us[follow]-'a	V.SUB								
 o.7.3	bad3	bad[wall]	N	Bad[1][-ak][-ra]	GN.GEN.DAT-H	bad[wall][-ak][-ø]	N.GEN.ABS	bad[wall]	GN				
 o.7.4	ma-da	mada[land][-ak][-ø]	N.GEN	mada[land]	N								

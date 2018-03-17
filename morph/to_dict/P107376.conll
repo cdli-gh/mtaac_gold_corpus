@@ -4,15 +4,15 @@ o.1.1	pisan-dub-ba	bisagdubak[archivist]	N
 o.2.1	e2-tum	bitum[~administration]	N
 o.2.2	kiszib3	kiszib[seal]	N
 o.2.3	bala	bala[tax][-ak]	N.GEN							
-o.3.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.3.1	mu	mu[year]	N
 o.3.2	en	en[priest]	N	_	en[lord]	N	en[lord][-ø]	N.ABS	en[priest][-ø]	N.ABS
 o.3.3	{d}nanna	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-ak][-ak][-ø]	DN.GEN.GEN.ABS	Nanna[1][-ak]	DN.GEN	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-e]	DN.ERG	Nanna[1][-ø]	DN.ABS	Nanna[1][-ra]	DN.DAT-H
 o.3.4	masz-e	masz[goat]-e	N.L3-NH
 o.3.5	i3-pa3	i-pad[find][-ø]	FIN.V.3-SG-S
-o.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.4.1	mu	mu[year]	N
 o.4.2	ha-ar-szi{ki}	Harszi[1][-ø]	SN.ABS
 o.4.3	ba-hul-sze3	ba-hulu[bad][-ø]-sze	MID.V.3-SG-S.TERM
-r.1.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.1.1	mu	mu[year]	N
 r.1.2	{d}amar-{d}suen	Amarsuen[1]	RN	Amarsuenak[1][-ak][-ø]	RN.GEN.ABS	Amarsuenak[1]	RN
 r.1.3	lugal-e	lugal[king]-e	N.ERG	lugal[king]-ani[-da]	N.3-SG-H-POSS.COM
 r.1.4	ur-bi2-lum{ki}	Urbillum[1][-ø]	SN.ABS	Urbillum[1][-ak]	SN.GEN

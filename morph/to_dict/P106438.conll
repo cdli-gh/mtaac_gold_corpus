@@ -1,63 +1,63 @@
 #new_text=P106438
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
-o.col1.1.1	1(u)	1(u)[ten]	NU	_[_]	_
+o.col1.1.1	1(u)	1(u)[ten]	NU
 o.col1.1.2	la2	lal[small]	N	la[hang][-ø]	V.ABS
-o.col1.1.3	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col1.1.3	1(disz)	1(disz)[one]	NU
 o.col1.1.4	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col1.1.5	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.1.6	saga	sag[good]-a	V.SUB
-o.col1.2.1	1(gesz2)	1(gesz)[sixty]	NU	_[_]	_
-o.col1.2.2	1(u)	1(u)[ten]	NU	_[_]	_
-o.col1.2.3	4(disz)	4(disz)[one]	NU	_[_]	_
+o.col1.2.1	1(gesz2)	1(gesz)[sixty]	NU
+o.col1.2.2	1(u)	1(u)[ten]	NU
+o.col1.2.3	4(disz)	4(disz)[one]	NU
 o.col1.2.4	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col1.2.5	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.2.6	us2	us[follow][-a]	V.SUB
-o.col1.3.1	1(u)	1(u)[ten]	NU	_[_]	_
-o.col1.3.2	5(disz)	5(disz)[one]	NU	_[_]	_
+o.col1.3.1	1(u)	1(u)[ten]	NU
+o.col1.3.2	5(disz)	5(disz)[one]	NU
 o.col1.3.3	ab2	ab[cow]	N	ab[cow][-ø]	N	ab[cow][-ø]	N.ABS
-o.col1.3.4	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.col1.3.4	mu	mu[year]	N
 o.col1.3.5	2(asz)	2(asz)[one]	NU
 o.col1.3.6	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
-o.col1.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col1.4.1	1(disz)	1(disz)[one]	NU
 o.col1.4.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col1.4.3	u2	u[plants]	N
-o.col1.5.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col1.5.1	1(disz)	1(disz)[one]	NU
 o.col1.5.2	eme3-mah2	eme[donkey]-mah[cow][-a]	N.V.SUB
-o.col1.6.1	5(disz)	5(disz)[one]	NU	_[_]	_
+o.col1.6.1	5(disz)	5(disz)[one]	NU
 o.col1.6.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.6.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.6.4	saga	sag[good]-a	V.SUB
 o.col1.7.1	5(gesz2)	5(gesz)[sixty]	NU
-o.col1.7.2	2(u)	2(u)[ten]	NU	_[_]	_
+o.col1.7.2	2(u)	2(u)[ten]	NU
 o.col1.7.3	7(disz)	7(disz)[one]	NU
 o.col1.7.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.7.5	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.7.6	us2	us[follow][-a]	V.SUB
-o.col1.8.1	2(u)	2(u)[ten]	NU	_[_]	_
-o.col1.8.2	5(disz)	5(disz)[one]	NU	_[_]	_
+o.col1.8.1	2(u)	2(u)[ten]	NU
+o.col1.8.2	5(disz)	5(disz)[one]	NU
 o.col1.8.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.8.4	u2	u[plants]	N
 o.col1.8.5	bar-gal2	bargal[~sheep]	N
 o.col1.9.1	6(gesz2)	6(gesz)[sixty]	NU
-o.col1.9.2	1(u)	1(u)[ten]	NU	_[_]	_
-o.col1.9.3	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+o.col1.9.2	1(u)	1(u)[ten]	NU
+o.col1.9.3	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.col1.9.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.9.5	u2	u[plants]	N
 o.col1.9.6	bar-su-ga	barsuga[~sheep]	N
 o.col1.10.1	5(gesz2)	5(gesz)[sixty]	NU
 o.col1.10.2	4(u)	4(u)[ten]	NU	4(u)[ten]	NU
-o.col1.10.3	4(disz)	4(disz)[one]	NU	_[_]	_
+o.col1.10.3	4(disz)	4(disz)[one]	NU
 o.col1.10.4	sila4	sila[lamb]	N	sila[lamb]	N
-o.col1.11.1	1(gesz2)	1(gesz)[sixty]	NU	_[_]	_
+o.col1.11.1	1(gesz2)	1(gesz)[sixty]	NU
 o.col1.11.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 o.col1.11.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.12.1	4(gesz2)	4(gesz)[sixty]	NU	4(gesz)[sixty]	NU	4(gesz2)[sixty]	NU
-o.col1.12.2	1(u)	1(u)[ten]	NU	_[_]	_
+o.col1.12.2	1(u)	1(u)[ten]	NU
 o.col1.12.3	la2	lal[small]	N	la[hang][-ø]	V.ABS
-o.col1.12.4	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col1.12.4	1(disz)	1(disz)[one]	NU
 o.col1.12.5	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 o.col1.12.6	u2	u[plants]	N
-o.col1.13.1	zi-ga	zig[rise]-a	V.SUB	zig[rise]-a[-ø]	V.SUB.ABS
+o.col1.13.1	zi-ga	ziga[expenditure] N	
 o.col1.13.2	bala-a	bala[tax]-a	N.L1
 o.col1.13.3	sza3	szag[heart]	N
 o.col1.13.4	nibru{ki}	Nibru[1][-ak][-a]	SN.GEN.L1
@@ -67,75 +67,75 @@ o.col1.13.7	uri5{ki}-ma	Urim[1][-ak]-'a	SN.GEN.L1
 o.col1.14.1	2(u)	2(u)[ten]	NU
 o.col1.14.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col1.14.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
-o.col1.15.1	3(u)	3(u)[ten]	NU	_[_]	_
+o.col1.15.1	3(u)	3(u)[ten]	NU
 o.col1.15.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.15.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.15.4	bar-su-ga	barsuga[~sheep]	N
-o.col1.16.1	1(u)	1(u)[ten]	NU	_[_]	_
+o.col1.16.1	1(u)	1(u)[ten]	NU
 o.col1.16.2	7(disz)	7(disz)[one]	NU
 o.col1.16.3	masz2-gal	maszgal[goat]	N	maszgal[goat][-ø]	N.ABS
 o.col1.16.4	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
-o.col1.17.1	1(u)	1(u)[ten]	NU	_[_]	_
-o.col1.17.2	2(disz)	2(disz)[one]	NU	_[_]	_
+o.col1.17.1	1(u)	1(u)[ten]	NU
+o.col1.17.2	2(disz)	2(disz)[one]	NU
 o.col1.17.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.17.4	u2	u[plants]	N
 o.col1.17.5	bar-gal2	bargal[~sheep]	N
 o.col1.18.1	5(u)	5(u)[ten]	NU	5(u)[ten]	NU
-o.col1.18.2	6(disz)	6(disz)[one]	NU	_[_]	_
+o.col1.18.2	6(disz)	6(disz)[one]	NU
 o.col1.18.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.18.4	u2	u[plants]	N
 o.col1.18.5	bar-su-ga	barsuga[~sheep]	N
 o.col1.19.1	4(u)	4(u)[ten]	NU	4(u)[ten]	NU
-o.col1.19.2	5(disz)	5(disz)[one]	NU	_[_]	_
+o.col1.19.2	5(disz)	5(disz)[one]	NU
 o.col1.19.3	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 o.col1.20.1	kasz-de2-a	kaszdea[banquet]	N
 o.col1.20.2	lugal	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H
 o.col1.21.1	u3	u[and]	CNJ	u[sleep][-ø]	N.ABS
 o.col1.21.2	nin-kal-la	Ninkalla[1]	PN
-o.col1.22.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+o.col1.22.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.col1.22.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col1.22.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.22.4	saga	sag[good]-a	V.SUB
-o.col1.23.1	2(disz)	2(disz)[one]	NU	_[_]	_
+o.col1.23.1	2(disz)	2(disz)[one]	NU
 o.col1.23.2	ab2	ab[cow]	N	ab[cow][-ø]	N	ab[cow][-ø]	N.ABS
-o.col1.23.3	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.col1.23.3	mu	mu[year]	N
 o.col1.23.4	2(asz)	2(asz)[one]	NU
 o.col1.23.5	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
-o.col1.24.1	4(disz)	4(disz)[one]	NU	_[_]	_
+o.col1.24.1	4(disz)	4(disz)[one]	NU
 o.col1.24.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col1.24.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col1.24.4	saga	sag[good]-a	V.SUB
 o.col1.24.5	bar-su-ga	barsuga[~sheep]	N
-o.col2.1.1	2(u)	2(u)[ten]	NU	_[_]	_
+o.col2.1.1	2(u)	2(u)[ten]	NU
 o.col2.1.2	la2	lal[small]	N	la[hang][-ø]	V.ABS
-o.col2.1.3	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.1.3	1(disz)	1(disz)[one]	NU
 o.col2.1.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col2.1.5	u2	u[plants]	N
 o.col2.1.6	bar-gal2	bargal[~sheep]	N
-o.col2.2.1	1(u)	1(u)[ten]	NU	_[_]	_
-o.col2.2.2	5(disz)	5(disz)[one]	NU	_[_]	_
+o.col2.2.1	1(u)	1(u)[ten]	NU
+o.col2.2.2	5(disz)	5(disz)[one]	NU
 o.col2.2.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col2.2.4	u2	u[plants]	N
 o.col2.2.5	bar-su-ga	barsuga[~sheep]	N
-o.col2.3.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.3.1	1(disz)	1(disz)[one]	NU
 o.col2.3.2	sila4	sila[lamb]	N	sila[lamb]	N
 o.col2.3.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col2.3.4	bar-su-ga	barsuga[~sheep]	N
-o.col2.4.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+o.col2.4.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.col2.4.2	sila4	sila[lamb]	N	sila[lamb]	N
 o.col2.4.3	bar-su-ga	barsuga[~sheep]	N
 o.col2.5.1	masz2-da-re6-a	maszdarea[payment]	N
 o.col2.5.2	lugal	lugal[king][-ra]	N.DAT	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H
 o.col2.6.1	kiszib3	kiszib[seal]	N
 o.col2.6.2	ensi2-ka	ensik[ruler][-ak]	N.GEN	ensik[ruler][-ak][-ø]	N.GEN.ABS
-o.col2.7.1	1(u)	1(u)[ten]	NU	_[_]	_
-o.col2.7.2	2(disz)	2(disz)[one]	NU	_[_]	_
+o.col2.7.1	1(u)	1(u)[ten]	NU
+o.col2.7.2	2(disz)	2(disz)[one]	NU
 o.col2.7.3	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.7.4	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col2.8.1	sa2-du11	sadug[offerings]	N
 o.col2.8.2	{d}szara2	Szara[1]	DN	Szara[1]	DN	Szara[1][-e]	DN.ERG	Szara[1][-ra]	DN.DAT-H	Szara[1]-ra	DN.L3-H	Szara[1][-ak]	DN.GEN
 o.col2.8.3	umma{ki}	Umma[1][-ak][-ak]	SN.GEN.GEN	Umma[1][-ak][-ø]	SN.GEN.ABS	Umma[1][-ak]-ra	SN.GEN.L2-H	Umma[1][-ak]	SN.GEN	Umma[1]-'a	SN.L2-NH	Umma[1][-e]	SN.ERG	Umma[1][-ø]	SN.ABS	Umma[1]	SN
-o.col2.9.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.9.1	1(disz)	1(disz)[one]	NU
 o.col2.9.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.9.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col2.9.4	{d}szul-gi	Szulgi[1]	RN	Szulgir[1][-ak]	RN.GEN	Szulgir[1]	RN
@@ -144,64 +144,64 @@ o.col2.10.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.10.3	niga	niga[fattened][-a]	V.SUB	niga[fattened]	V
 o.col2.11.1	nig2-{gesz}tag-ga	nig[thing]-gesztaga[sacrifice][-ak]	N.N.GEN
 o.col2.11.2	lugal	lugal[king][-ra]	N.DAT	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H
-o.col2.12.1	x	_[_]	_	_
+o.col2.12.1	x	_
 o.col2.12.2	...
-o.col2.12.3	x	_[_]	_	_
-o.col2.12.4	x	_[_]	_	_
+o.col2.12.3	x	_
+o.col2.12.4	x	_
 o.col2.12.5	...
-o.col2.13.1	2(disz)	2(disz)[one]	NU	_[_]	_
+o.col2.13.1	2(disz)	2(disz)[one]	NU
 o.col2.13.2	ab2-mah2	ab[cow]-mah[cow]-a	N.V.SUB
-o.col2.14.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.14.1	1(disz)	1(disz)[one]	NU
 o.col2.14.2	ab2	ab[cow]	N	ab[cow][-ø]	N	ab[cow][-ø]	N.ABS
 o.col2.14.3	ga	ga[milk]	ADJ
-o.col2.14.4	(x)	_[_]	_
-o.col2.15.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.14.4	(x)
+o.col2.15.1	1(disz)	1(disz)[one]	NU
 o.col2.15.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.15.3	ga	ga[milk]	ADJ
-o.col2.15.4	(x)	_[_]	_
-o.col2.16.1	2(u)	2(u)[ten]	NU	_[_]	_
-o.col2.16.2	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.15.4	(x)
+o.col2.16.1	2(u)	2(u)[ten]	NU
+o.col2.16.2	1(disz)	1(disz)[one]	NU
 o.col2.16.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 o.col2.16.4	bar-gal2	bargal[~sheep]	N
-o.col2.17.1	2(u)	2(u)[ten]	NU	_[_]	_
-o.col2.17.2	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.17.1	2(u)	2(u)[ten]	NU
+o.col2.17.2	1(disz)	1(disz)[one]	NU
 o.col2.17.3	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
-o.col2.18.1	4(disz)	4(disz)[one]	NU	_[_]	_
+o.col2.18.1	4(disz)	4(disz)[one]	NU
 o.col2.18.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
-o.col2.18.3	mu	mu[name]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.col2.18.3	mu	mu[name]	N
 o.col2.18.4	masz-da3	maszda[gazelle]	N
 o.col2.18.5	szeg9-bar-sze3	szegbar[animal]-sze	N.TERM
 o.col2.19.1	nesag	nesag[offering]	N
 o.col2.19.2	{d}en-lil2-la2-sze3	Enlil[1]-ak-sze	DN.GEN.TERM
-o.col2.20.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+o.col2.20.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.col2.20.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.20.3	ri-ri-ga	deg[collect]-deg[collect]-a	V.RDP.SUB
 o.col2.21.1	kiszib3	kiszib[seal]	N
 o.col2.21.2	da-da-ga	Dadaga[1][-ak]	PN.GEN	Dadaga[1]	PN
-o.col2.22.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+o.col2.22.1	1(disz)	1(disz)[one]	NU
 o.col2.22.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 o.col2.22.3	KA-a
 o.col2.22.4	lu2-pa3-da	Lupada[1]	PN
 o.col2.22.5	dub-sar	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak][-ø]	N.GEN.ABS	dubsar[scribe]	N	dubsar[scribe][-ø]	N.ABS	dubsar[scribe][-e]	N.ERG
-o.col2.22.6	szu	szu[hand]	N	_[_]	_	szu[hand]-e	N.DAT-NH	szu[hand][-ø]	N.ABS	szu[hand]-ta	N.ABL
+o.col2.22.6	szu	szu[hand]	N	szu[hand]-e	N.DAT-NH	szu[hand][-ø]	N.ABS	szu[hand]-ta	N.ABL
 o.col2.22.7	ba-ra	bar[release]-a	V.SUB
 o.col2.23.1	inim	inim[word]	N	inim[word]	N	inim[word][-ø]	N.ABS
 o.col2.23.2	ensi2-ka-ta	ensik[ruler]-ak-ta	N.GEN.ABL
-o.col2.24.1	4(disz)	4(disz)[one]	NU	_[_]	_
+o.col2.24.1	4(disz)	4(disz)[one]	NU
 o.col2.24.2	ab2	ab[cow]	N	ab[cow][-ø]	N	ab[cow][-ø]	N.ABS
-o.col2.24.3	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+o.col2.24.3	mu	mu[year]	N
 o.col2.24.4	2(asz)	2(asz)[one]	NU
-r.col1.1.1	4(disz)	4(disz)[one]	NU	_[_]	_
+r.col1.1.1	4(disz)	4(disz)[one]	NU
 r.col1.1.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
-r.col1.1.3	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.col1.1.3	mu	mu[year]	N
 r.col1.1.4	3(asz)	3(asz)[one]	NU
 r.col1.2.1	la2-ia3	la’u[arreas]	N
 r.col1.2.2	su-ga	sug[replace]-a	V.SUB.
 r.col1.2.3	lugal-dub-la2	Lugaldubla[-ak]	PN.GEN
-r.col1.3.1	4(disz)	4(disz)[one]	NU	_[_]	_
+r.col1.3.1	4(disz)	4(disz)[one]	NU
 r.col1.3.2	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS
 r.col1.3.3	e2-gu4-ta	egud[ox-barn]-ta	N.ABL
-r.col1.4.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.col1.4.1	1(disz)	1(disz)[one]	NU
 r.col1.4.2	ab2-mah2	ab[cow]-mah[cow]-a	N.V.SUB
 r.col1.4.3	e2-ta	e[house]-ta	N.ABL
 r.col1.4.4	gur-ra	gur[turn]-a	V.SUB
@@ -211,36 +211,36 @@ r.col1.5.3	ba-a-gar	ba-a-gar[place][-a]	MID.DAT.V.SUB
 r.col1.6.1	kiszib3	kiszib[seal]	N
 r.col1.6.2	ur-{d}szara2	Urszara[1]	PN
 r.col1.6.3	sza13-dub-ba	bisagdubak[archivest][-ak]	N.GEN
-r.col1.7.1	5(disz)	5(disz)[one]	NU	_[_]	_
+r.col1.7.1	5(disz)	5(disz)[one]	NU
 r.col1.7.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.7.3	bar-gal2	bargal[~sheep]	N
-r.col1.8.1	3(u)	3(u)[ten]	NU	_[_]	_
-r.col1.8.2	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+r.col1.8.1	3(u)	3(u)[ten]	NU
+r.col1.8.2	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.8.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.8.4	bar-su-ga	barsuga[~sheep]	N
-r.col1.9.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+r.col1.9.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.9.2	sila4	sila[lamb]	N	sila[lamb]	N
-r.col1.10.1	2(u)	2(u)[ten]	NU	_[_]	_
-r.col1.10.2	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.col1.10.1	2(u)	2(u)[ten]	NU
+r.col1.10.2	1(disz)	1(disz)[one]	NU
 r.col1.10.3	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 r.col1.11.1	mu-kux(DU)	mu[-n]-kur[enter][-ø][-a]	VEN.L1-SYN.V.3-SG-S.SUB
 r.col1.11.2	{d}szara2	Szara[1]	DN	Szara[1]	DN	Szara[1][-e]	DN.ERG	Szara[1][-ra]	DN.DAT-H	Szara[1]-ra	DN.L3-H	Szara[1][-ak]	DN.GEN
 r.col1.11.3	|KI.AN|{ki}	Ki'an[1][-ak][-ak]	SN.GEN.GEN
-r.col1.12.1	6(disz)	6(disz)[one]	NU	_[_]	_
+r.col1.12.1	6(disz)	6(disz)[one]	NU
 r.col1.12.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.12.3	bar-gal2	bargal[~sheep]	N
 r.col1.13.1	4(u)	4(u)[ten]	NU	4(u)[ten]	NU
-r.col1.13.2	2(disz)	2(disz)[one]	NU	_[_]	_
+r.col1.13.2	2(disz)	2(disz)[one]	NU
 r.col1.13.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.13.4	bar-su-ga	barsuga[~sheep]	N
-r.col1.14.1	2(disz)	2(disz)[one]	NU	_[_]	_
+r.col1.14.1	2(disz)	2(disz)[one]	NU
 r.col1.14.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 r.col1.15.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
 r.col1.15.2	ur-e11-e	Ure'e[1]	PN
 r.col1.16.1	ugu2	ugu[skull]	N
 r.col1.16.2	lu2-{d}suen	Lusuen[1][-ak]	PN.GEN	Lusuen[2]	PN	Lusuen[3]	PN	Lusuen[4][-ak][-ø]	PN.GEN.ABS
-r.col1.17.1	1(u)	1(u)[ten]	NU	_[_]	_
-r.col1.17.2	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+r.col1.17.1	1(u)	1(u)[ten]	NU
+r.col1.17.2	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.17.3	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 r.col1.18.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
 r.col1.18.2	ba-sa6	Basa[1]	PN
@@ -253,23 +253,23 @@ r.col1.21.2	ur-{d}nisaba	Urnisaba[1][-ra]	PN.DAT
 r.col1.21.3	ba-a-gar	ba-a-gar[place][-a]	MID.DAT.V.SUB
 r.col1.22.1	kiszib3	kiszib[seal]	N
 r.col1.22.2	lu2-banda3{da}	Lubanda[1]	PN
-r.col1.23.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+r.col1.23.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.23.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.23.3	bar-gal2	bargal[~sheep]	N
-r.col1.24.1	2(disz)	2(disz)[one]	NU	_[_]	_
+r.col1.24.1	2(disz)	2(disz)[one]	NU
 r.col1.24.2	sila4	sila[lamb]	N	sila[lamb]	N
 r.col1.24.3	bar-gal2	bargal[~sheep]	N
-r.col1.25.1	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU	_[_]	_
+r.col1.25.1	1(disz)	1(disz)[one]	NU
 r.col1.25.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	N.ABS
 r.col1.25.3	bar-su-ga	barsuga[~sheep]	N
-r.col1.26.1	3(disz)	3(disz)[one]	NU	_[_]	_	3(dish)[one]	NU
+r.col1.26.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.26.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 r.col2.1.1	kiszib3	kiszib[seal]	N
 r.col2.1.2	ur-{d}nisaba	Urnisaba[1][-ak]	PN.GEN
-r.col2.2.1	zi-ga	zig[rise]-a	V.SUB	zig[rise]-a[-ø]	V.SUB.ABS
+r.col2.2.1	zi-ga	ziga[expenditure] N
 r.col2.2.2	sza3-bi	szag[heart]-bi	N.3-SG-NH-POSS
 r.col2.2.3	su-ga	sug[replace]-a	V.SUB
 r.col2.3.1	ba-sa6	Basa[1][-ak][-ak]	PN.GEN.GEN
-r.col2.4.1	mu	mu[year]	N	mu[name]	N	mu[name][-ø]	N.ABS	mu[name]-sze	N.TERM	mu[year][-ø]	N.ABS
+r.col2.4.1	mu	mu[year]	N
 r.col2.4.2	sza-asz-ru{ki}	Szaszru[1][-ø]	SN.ABS
 r.col2.4.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S

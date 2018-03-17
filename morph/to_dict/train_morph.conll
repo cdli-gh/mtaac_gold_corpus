@@ -1,75 +1,75 @@
 #new_text=P000000
 #ID	FORM	MORPH	XPOSTAG
 o.0.0		[]	_
-o.0.0	1/2(asz@c)	_[_]	_
-o.0.0	1/2(disz)	_[_]	_
-o.0.0	1(asz)	_[_]	_
-o.0.0	1(asz@c)	_[_]	_
-o.0.0	1(asz@c)-am6	_[_]	_
-o.0.0	1(ban2)	_[_]	_
-o.0.0	1(barig@c)	_[_]	_
-o.0.0	1(bur3@c)	_[_]	_
-o.0.0	1(bur'u@c)	_[_]	_
-o.0.0	1(disz)	_[_]	_
-o.0.0	1(disz@t)	_[_]	_
-o.0.0	1(gesz2)	_[_]	_
-o.0.0	1(gesz2@c)	_[_]	_
-o.0.0	1(gesz'u)	_[_]	_
-o.0.0	1(gesz'u@c)	_[_]	_
-o.0.0	1(szar2)	_[_]	_
-o.0.0	1(szar2@c)	_[_]	_
-o.0.0	1(szar2)-ta	_[_]	_
-o.0.0	1(szargal){gal}	_[_]	_
-o.0.0	1(szar'u@c)-ta	_[_]	_
-o.0.0	1(u)	_[_]	_
-o.0.0	1(u@c)	_[_]	_
-o.0.0	2(asz)	_[_]	_
-o.0.0	2(asz@c)	_[_]	_
-o.0.0	2(barig@c)	_[_]	_
-o.0.0	2(bur'u@c)	_[_]	_
-o.0.0	2(disz)	_[_]	_
-o.0.0	2(disz@t)	_[_]	_
-o.0.0	2(gesz'u@c)	_[_]	_
-o.0.0	2(iku@c)	_[_]	_
-o.0.0	2(u)	_[_]	_
-o.0.0	2(u@c)	_[_]	_
-o.0.0	2(u@c)-am6	_[_]	_
-o.0.0	3(asz)	_[_]	_
-o.0.0	3(asz@c)	_[_]	_
-o.0.0	3(ban2@c)	_[_]	_
-o.0.0	3(disz)	_[_]	_
-o.0.0	3(gesz2@c)	_[_]	_
-o.0.0	3(gesz'u)	_[_]	_
-o.0.0	3(u)	_[_]	_
-o.0.0	3(u@c)	_[_]	_
-o.0.0	4(asz)	_[_]	_
-o.0.0	4(asz@c)	_[_]	_
-o.0.0	4(disz)	_[_]	_
-o.0.0	4(gesz2)	_[_]	_
-o.0.0	4(gesz2@c)	_[_]	_
-o.0.0	4(gesz2@c)-am6	_[_]	_
-o.0.0	4(szar'u@c)	_[_]	_
-o.0.0	4(u)	_[_]	_
-o.0.0	4(u@c)	_[_]	_
-o.0.0	5(asz)	_[_]	_
-o.0.0	5(asz@c)	_[_]	_
-o.0.0	5(asz@c)-am6	_[_]	_
-o.0.0	5(bur3@c)	_[_]	_
-o.0.0	5(disz)	_[_]	_
-o.0.0	5(u)	_[_]	_
-o.0.0	6(asz)	_[_]	_
-o.0.0	6(asz@c)	_[_]	_
-o.0.0	6(asz@c)-am6	_[_]	_
-o.0.0	6(bur3)	_[_]	_
-o.0.0	6(disz)	_[_]	_
-o.0.0	6(gesz2@c)	_[_]	_
-o.0.0	7(asz)	_[_]	_
-o.0.0	7(asz@c)	_[_]	_
-o.0.0	7(gesz2@c)	_[_]	_
+o.0.0	1/2(asz@c)
+o.0.0	1/2(disz)
+o.0.0	1(asz)
+o.0.0	1(asz@c)
+o.0.0	1(asz@c)-am6
+o.0.0	1(ban2)
+o.0.0	1(barig@c)
+o.0.0	1(bur3@c)
+o.0.0	1(bur'u@c)
+o.0.0	1(disz)
+o.0.0	1(disz@t)
+o.0.0	1(gesz2)
+o.0.0	1(gesz2@c)
+o.0.0	1(gesz'u)
+o.0.0	1(gesz'u@c)
+o.0.0	1(szar2)
+o.0.0	1(szar2@c)
+o.0.0	1(szar2)-ta
+o.0.0	1(szargal){gal}
+o.0.0	1(szar'u@c)-ta
+o.0.0	1(u)
+o.0.0	1(u@c)
+o.0.0	2(asz)
+o.0.0	2(asz@c)
+o.0.0	2(barig@c)
+o.0.0	2(bur'u@c)
+o.0.0	2(disz)
+o.0.0	2(disz@t)
+o.0.0	2(gesz'u@c)
+o.0.0	2(iku@c)
+o.0.0	2(u)
+o.0.0	2(u@c)
+o.0.0	2(u@c)-am6
+o.0.0	3(asz)
+o.0.0	3(asz@c)
+o.0.0	3(ban2@c)
+o.0.0	3(disz)
+o.0.0	3(gesz2@c)
+o.0.0	3(gesz'u)
+o.0.0	3(u)
+o.0.0	3(u@c)
+o.0.0	4(asz)
+o.0.0	4(asz@c)
+o.0.0	4(disz)
+o.0.0	4(gesz2)
+o.0.0	4(gesz2@c)
+o.0.0	4(gesz2@c)-am6
+o.0.0	4(szar'u@c)
+o.0.0	4(u)
+o.0.0	4(u@c)
+o.0.0	5(asz)
+o.0.0	5(asz@c)
+o.0.0	5(asz@c)-am6
+o.0.0	5(bur3@c)
+o.0.0	5(disz)
+o.0.0	5(u)
+o.0.0	6(asz)
+o.0.0	6(asz@c)
+o.0.0	6(asz@c)-am6
+o.0.0	6(bur3)
+o.0.0	6(disz)
+o.0.0	6(gesz2@c)
+o.0.0	7(asz)
+o.0.0	7(asz@c)
+o.0.0	7(gesz2@c)
 o.0.0	7(gesz2)-nam	geszdumin[fourhundred-twenty]-ø-am	NU.ABS.COP-3-SG
-o.0.0	8(gesz2@c)	_[_]	_
-o.0.0	A	_[_]	_
-o.0.0	a	_[_]	_
+o.0.0	8(gesz2@c)
+o.0.0	A
+o.0.0	a
 o.0.0	a2	a[arm]	N
 o.0.0	a2	a[arm][-ø]	N.ABS
 o.0.0	a2-an	a'an[spadix]	N
@@ -149,7 +149,7 @@ o.0.0	a-bi2-sa-re-e	Abisare[1][-ak][-ø]	RN.GEN.ABS
 o.0.0	a-bi2-si2-im-ti	Abisimti[1][-ak]	PN.GEN
 o.0.0	a-bi-sa-re-e	Abisare[1]	RN
 o.0.0	a-bi-si2-im-ti	Abisimti[1][-ak]	PN.GEN
-o.0.0	|AB×LAK178|	_[_]	_
+o.0.0	|AB×LAK178|
 o.0.0	absin3-na-na	absin[furrow]-ani-'a	N.3-SG-H-POSS.L2.NH
 o.0.0	ab-szag4-ga	abszag[sea-midst]-'a	N.L1
 o.0.0	ab-ta-gu7-a	a-b-ta-gu-e-'a[-ø]	FIN.3-NH.ABL.V.3-SG-A.SUB.ABS
@@ -217,7 +217,7 @@ o.0.0	ad-sze3	ad[log]-sze	N.TERM
 o.0.0	a-du3	a-b-ø-du-ø	FIN.3-NH.L2-SYN.V.3-SG-S
 o.0.0	a-dul5	aa-b[-ø]-dul[-ø][-ø]	FIN-L2.3-NH.L2-SYN.V.3-SG-S.ABS
 o.0.0	ad-us2	adus[plank][-ø]	N.ABS
-o.0.0	ad-x-x	_[_]	_
+o.0.0	ad-x-x
 o.0.0	a-e	a[water]-e	N.L3-NH
 o.0.0	a-eden	Aeden[1][-ø]	TN.ABS
 o.0.0	ag2	ag[measure]	V
@@ -303,7 +303,7 @@ o.0.0	akszak{ki}-ka	Akszak[1]-ak[-ø]	SN.GEN.ABS
 o.0.0	akszak{ki}-ka-ke4	Akszak[1]-ak-e	SN.GEN.ERG
 o.0.0	akszak{ki}-sze3	Akszak[1]-sze	SN.TERM
 o.0.0	a-ku5-re6	a-b-ø-kud-=e	FIN.3-NH.L2-SYN.V.=3-SG-A
-o.0.0	AL	_[_]	_
+o.0.0	AL
 o.0.0	al	_	
 o.0.0	al	al[cvne][-ø]	N.ABS
 o.0.0	al	al[hoe][-ø]	N.ABS
@@ -335,7 +335,7 @@ o.0.0	al-la	Alla[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	al-la	Alla[2]	PN
 o.0.0	al-la-gu10	Allagu[1]	PN
 o.0.0	a-lu	Alu[1]	PN
-o.0.0	AL.UR3.RA	_[_]	_
+o.0.0	AL.UR3.RA
 o.0.0	al-ur3-ra	al-ur-ø-'a-'a	FIN.V.3-SG-S.SUB.L2-NH
 o.0.0	alurax(BAHAR2)	al-ur-ø-'a-'a	FIN.V.3-SG-S.SUB.L1
 o.0.0	alurx(BAHAR2)-ra	al-ur[-ø]-'a[-ak][-ø]	FIN.V.3-SG-S.SUB.GEN.ABS
@@ -396,9 +396,9 @@ o.0.0	am-gin7	am[bull]-gin	N.EQU
 o.0.0	am-na-nu-um	Amnanum[1][-ak][-e]	GN.GEN.ERG
 o.0.0	am-na-nu-um	Amnanum[1][-ak]	GN.GEN
 o.0.0	a-musz-sza4	amusz[unmng]	N
-o.0.0	AN	_[_]	_
+o.0.0	AN
 o.0.0	AN	_	
-o.0.0	a-na	_[_]	_
+o.0.0	a-na
 o.0.0	a-na-{d}da-mu-tak2-la-ku	Anadamutaklaku[1]	PN
 o.0.0	an-am3	Anam[1]	RN
 o.0.0	an	AN	DN
@@ -535,7 +535,7 @@ o.0.0	a-tum2	aa-b-ø-tum-ø	FIN-L2.3-NH.L2-SYN.V.3-SG-S
 o.0.0	a-wa-al{ki}	Awal[1][-ak]	SN.GEN
 o.0.0	a-wa-al{ki}	Awal[1]	SN
 o.0.0	a-wa-an{ki}-ka	Awan[1]-ak-'a	GN.GEN.L2-NH
-o.0.0	a-x	_[_]	_
+o.0.0	a-x
 o.0.0	A-x	A-X[1]	PN
 o.0.0	aya2-an-ne2-pad3-da	Ayaanepada[1]	RN
 o.0.0	aya2-an-ne2-pad3-da-sze3	Ayaanepada[1]-ak-sze	RN.GEN.TERM
@@ -555,7 +555,7 @@ o.0.0	aya2-szurmen-sze3	Ayaszurmen[1]-ak-sze	PN.GEN.TERM
 o.0.0	aya2-szu-sikil-an	Ayaszusikilanak[1]	PN
 o.0.0	aya2-ul4-gal	Ayaulgal[1]	PN
 o.0.0	a-zu	azu[doctor][-e]	N.ERG
-o.0.0	BA	_[_]	_
+o.0.0	BA
 o.0.0	ba4-ba4-ti	Babati[1]	PN
 o.0.0	ba-a-a	Baya[1]	PN
 o.0.0	ba-ab-us2	ba-b-us[-ø]	MID.3-SG-NH-L3.V.3-SG-S
@@ -597,7 +597,7 @@ o.0.0	bad-a-gu10	bad[open]-'a-ta	V.SUB.ABL
 o.0.0	ba-da-kar	ba-da-kar[-ø]	MID.COM.V.3-SG-S
 o.0.0	ba-da-kur2	ba-da-n-kur-ø	MID.COM.3-SG-H-A.V.3-SG-P
 o.0.0	bad	bad[open][-ø]	V.ABS
-o.0.0	BAD-bi	_[_]	_
+o.0.0	BAD-bi
 o.0.0	ba-de2	b-a-1-de-ø	3-NH.DAT.1-SG-A.V.3-SG-P
 o.0.0	ba-de2	b-a-n-de-ø	3.NH.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	ba-de6-a	ba-n-de-ø-'a	MID.3-SG-H-A.V.3-SG-P.SUB
@@ -708,8 +708,8 @@ o.0.0	be2-seg10	b-i-n-sig-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	be2-sze21	b-i-n-sze-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	be-li2-a-ri-ik	Beliarik[1]	PN
 o.0.0	be-li2-DU10	Belit,ab[1]	PN
-o.0.0	BI	_[_]	_
-o.0.0	bi	_[_]	_
+o.0.0	BI
+o.0.0	bi
 o.0.0	bi2-du3-a	b-i-n-du-ø-'a-'a	3-NH.L2.3-SG-H-A.V.3-SG-P.SUB.L2-NH
 o.0.0	bi2-du3-a	b-i-n-du-ø-'a[-da]	3-NH.L2.3-SG-H-A.V.3-SG-P.SUB.COM
 o.0.0	bi2-du3	b-i-1-du-ø	3-NH.L2.1-SG-A.V.3-SG-P
@@ -749,7 +749,7 @@ o.0.0	bi2-in-uru12	b-i-n-ur-e-'a-ø	3-NH.L2.3-SG-H-P.V.3-SG-A.SUB.ABS
 o.0.0	bi2-in-us2	b-i-n-us-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-kesze2	b-i-n-keszed-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-mu2	b-i-n-mu-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
-o.0.0	bi2-mu7-mu7	_[_]	_
+o.0.0	bi2-mu7-mu7
 o.0.0	bi2-nag	b-i-n-nag-ø	b.X.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-nu2-nu2	b-i-n-nunu-ø	3-NH.L2.3-SG-H-A.V-PL.3-SG-P
 o.0.0	bi2-pad3	b-i-n-pad-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
@@ -762,7 +762,7 @@ o.0.0	bi2-szusz	b-i-n-szusz-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-tag	b-i-n-tag-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-tam	b-i-n-tam-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	bi2-us2	b-i-n-us-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
-o.0.0	bi2-X	_[_]	_
+o.0.0	bi2-X
 o.0.0	bi2-zu	b-i-n-zu-ø	3-NH.L3.3-SG-H-A.V.3-SG-P
 o.0.0	bi3-lu5-da	biluda[rituals]	N
 o.0.0	bi-du3	b-i-n-du-ø	3-NH.L2.3-SG-H-A.V.3-SG-P
@@ -778,7 +778,7 @@ o.0.0	bisag-dub-ba	bisagdubak[archivist][-ø]	N.ABS
 o.0.0	bisag-dub-ba-ka	bisagdubak[archivist][-ak][-ø]	N.GEN.N5.ABS
 o.0.0	bu11-bu11	Bubu[1]	RN
 o.0.0	bulug-bi	bulug[needle]-bi[-ø]	N.3-SG-NH-POSS.ABS
-o.0.0	BUR	_[_]	_
+o.0.0	BUR
 o.0.0	buranun-bi	Buranun[1]-ø	WN.ABS
 o.0.0	bur-ba	bur[bowl]-bi-ak	N.DEM2.GEN
 o.0.0	bur	bur[bowl]	N
@@ -789,8 +789,8 @@ o.0.0	bur-sag	bursag[bowl][-ø]	N.ABS
 o.0.0	bur-sag	Bursaĝ	TN
 o.0.0	buru4-sig17{muszen}	burusig[bird][-ak][-ø]	N.GEN.ABS
 o.0.0	bu-u2-za-a	Buzaya[1]	PN
-o.0.0	DA	_[_]	_
-o.0.0	da	_[_]	_
+o.0.0	DA
+o.0.0	da
 o.0.0	da-a-a	Dayya[1]	PN
 o.0.0	da-a-a-ti	Dayyati[1]	PN
 o.0.0	dab4-ru-um{ki}-ma	Dabrum[1]-'a	SN.L1
@@ -1010,7 +1010,7 @@ o.0.0	{d}hendur-sag	Hendursagak[1]	DN
 o.0.0	{d}hendur-sag-ka	Hendursagak[1]-ak	DN.GEN
 o.0.0	{d}hendur-sag-ka-ke4	Hendursagak[1]-ak-e	DN.GEN.ERG
 o.0.0	{d}hendur-sag-ra	Hendursagak[1]-ra	DN.DAT-H
-o.0.0	DI	_[_]	_
+o.0.0	DI
 o.0.0	di3-ma-at-{d}en-lil2-la2	Dimatenlilak[1][-ak]	SN.GEN
 o.0.0	di4-di4	didila[smaller][-ø]	V.ABS
 o.0.0	DI-abgal	DI-abgal[1]	PN
@@ -1088,7 +1088,7 @@ o.0.0	dili-ne2	dili[single]-ani-e	V.3-SG-H-POSS.L3-NH
 o.0.0	dilmun	Dilmun[1]	GN
 o.0.0	dilmun	Dilmun[1][-ø]	GN.ABS
 o.0.0	dilmun{ki}	Dilmun[1][-ø]	GN.ABS
-o.0.0	DIM	_[_]	_
+o.0.0	DIM
 o.0.0	dim2-ma	dim[create]-'a[-ø]	V.SUB.ABS
 o.0.0	dim2-ma-gu10	dim[create]-'a-gu[-ø]	V.SUB.1-SG-POSS.ABS
 o.0.0	dim	dim[post]	N
@@ -1214,7 +1214,7 @@ o.0.0	{d}nanna-ta	Nanna[1]-ak-ta	DN.GEN.ABL
 o.0.0	{d}nanna-zi-szag4-gal2	Nannaziszaggal[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	{d}nanna-zi-szag4-gal2	Nannaziszaggal[1]	PN
 o.0.0	{d}nanna-zu	Nannazu[1]	PN
-o.0.0	{d}nansze	_[_]	_
+o.0.0	{d}nansze
 o.0.0	{d}nansze-ka-ke4	Nansze[1]-ak-ak-e	DN.GEN.GEN.ERG
 o.0.0	{d}nansze-ka	Nansze[1]-ak-'a	DN.GEN.L2-NH
 o.0.0	{d}nansze-ka-sze3	Nansze[1]-ak-ak-sze	DN.GEN.GEN.TERM
@@ -1375,7 +1375,7 @@ o.0.0	{d}nin-ur4-ra	Ninura[1]	DN
 o.0.0	{d}nin-urim5{ki}-ma	Ninurimak[1]	DN
 o.0.0	{d}nin-urta	Ninurta[1][-ak][-ak][-ø]	DN.GEN.GEN.ABS
 o.0.0	{d}nin-urta	Ninurta[1]	DN
-o.0.0	{d}nin-x	_[_]	_
+o.0.0	{d}nin-x
 o.0.0	{d}nin-x	Nin-X[1]	DN
 o.0.0	{d}nin-x	Nin-X[2]	DN
 o.0.0	{d}nin-zag-ga-da	Ninzagak[1]-da	DN.COM
@@ -1469,10 +1469,10 @@ o.0.0	{d}szul-szag4-ga-na	Szulszaganak[1][-ø]	DN.ABS
 o.0.0	{d}szul-szag4-ga	Szulszaganak[1]	DN
 o.0.0	{d}szul-szag4-ga	Szulszaganak[1][-ø]	DN.ABS
 o.0.0	{d}szul-x	Szul-X[1]	DN
-o.0.0	DU	_[_]	_
+o.0.0	DU
 o.0.0	du10-us2-sa	dusa[friend]	N
-o.0.0	DU3	_[_]	_
-o.0.0	du3	_[_]	_
+o.0.0	DU3
+o.0.0	du3
 o.0.0	du3-a-bi	du[all]-'a-bi[-ø]	V.SUB.3-SG-NH-POSS.ABS
 o.0.0	du3-a	du[build]-'a[-ak]	V.SUB.GEN
 o.0.0	du3-a	du[build]-'a[-ø]	V.SUB.ABS
@@ -1504,7 +1504,7 @@ o.0.0	dub	dub[heap]	V
 o.0.0	dub	dub[tablet]	N
 o.0.0	dub-la2-bi	dub-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	dub-la2-mah	Dublamah[1]	TN
-o.0.0	DUB.SAR	_[_]	_
+o.0.0	DUB.SAR
 o.0.0	dub-sar	dubsar[scribe][-ak][-e]	N.GEN.ERG
 o.0.0	dub-sar	dubsar[scribe][-ak][-ø]	N.GEN.ABS
 o.0.0	dub-sar	dubsar[scribe]	N
@@ -1558,7 +1558,7 @@ o.0.0	dugud-ta	dugud[heavy]-ta	V.ABL
 o.0.0	du₈-hu-ba	duh[loosen]-ed-bi-'a	V.PF.3-SG-NH-POSS.X
 o.0.0	dul-la2	dul[cover]-'a	V.SUB
 o.0.0	{d}ul-ma-szi-tum-ma	Ulmaszitum[1]-ak[-ø]	DN.GEN.ABS
-o.0.0	DUMU	_[_]	_
+o.0.0	DUMU
 o.0.0	dumu-dab5-ba	dumudaba[worker][-ak]	N.GEN
 o.0.0	dumu	dumu[child][-ak]	N.GEN
 o.0.0	dumu	dumu[child]	N
@@ -1625,9 +1625,9 @@ o.0.0	{d}utu	Utu[1]	DN
 o.0.0	{d}utu	Utu[1][-e]	DN.ERG
 o.0.0	{d}utu	Utu[1][-ø]	DN.ABS
 o.0.0	{d}utu	Utu[1][-ra]	DN.DAT-H
-o.0.0	DU-x	_[_]	_
-o.0.0	{d}x	_[_]	_
-o.0.0	{d}x-ka-ke4	_[_]	_
+o.0.0	DU-x
+o.0.0	{d}x
+o.0.0	{d}x-ka-ke4
 o.0.0	{d}x-si	X-si[1][-ra]	DN.DAT-H
 o.0.0	{d}x	X[1]-ak-ø	DN.GEN.ABS
 o.0.0	{d}x	X[3][-ra]	DN.DAT-H
@@ -1636,7 +1636,7 @@ o.0.0	{d}za-am-bi-ia	Zambiya[1]	RN
 o.0.0	{d}za-ba4-ba4	Zababa[1][-ra]	DN.DAT-H
 o.0.0	{d}za-za-ru9	Zazaru[1]	DN
 o.0.0	{d}za-za-ru	Zazaru[1]	DN
-o.0.0	E	_[_]	_
+o.0.0	E
 o.0.0	e11-ra	E[1][-ak][-ra]	SN.GEN.DAT
 o.0.0	E2	_	
 o.0.0	e2-a-ba-ni	Eabani[1]	PN
@@ -1815,7 +1815,7 @@ o.0.0	e2-u6-e	Eue[1]	PN
 o.0.0	e2-UG-ti-ke4	Eugti[1]-ak-e	TN.GEN.ERG
 o.0.0	e2-ur-gir15-ra	Eurgira[1][-ø]	TN.ABS
 o.0.0	e2-uru1₈-ga-ka	Eurug[1]-ak-'a	TN.GEN.L2-NH
-o.0.0	e2-x	_[_]	_
+o.0.0	e2-x
 o.0.0	e2-x	E-X[2][-ak][-ø]	PN.GEN.ABS
 o.0.0	e2-x-ke4	E-X[1]-ak-e	PN.GEN.ERG
 o.0.0	e2-za	Ezak[1][-ø]	TN.ABS
@@ -1857,7 +1857,7 @@ o.0.0	e-da-ru-a-ba	i-b-da-n-du-ø-'a-bi-'a	FIN.3-NH.COM.3-SG-H-A.V.3-SG-P.SUB.DE
 o.0.0	e-da-sag3	i-nn-da-n-sag-ø	FIN.3-SG-H.COM.3-SG-H-A.V.3-SG-P
 o.0.0	e-da-sur	i-nn-da-n-sur-ø	FIN.3-SG-H.COM.3-SG-H-A.V.3-SG-P
 o.0.0	e-da-taka4-taka4	i-b-da-n-takataka-ø	FIN.3-NH.COM.3-SG-H-A.V-RDP.3-SG-P
-o.0.0	e-da-x	_[_]	_
+o.0.0	e-da-x
 o.0.0	e-de6	i-n-de-ø	FIN.3-SG-H-A.V.3-SG-P
 o.0.0	eden-da	eden[plain]-da	N.COM
 o.0.0	eden	Eden[1][-ak][-ra]	GN.GEN.DAT-H
@@ -1908,7 +1908,7 @@ o.0.0	e-ma-ta-bala	i-m-ba-ta-e-bala-ø	FIN.VEN.MID.ABL.L2.V.3-SG-S
 o.0.0	e-ma-ta-dab5-ba-a	i-m-ba-ta-n-dab-ø-'a-'a	FIN.VEN.MID.ABL.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	e-ma-ti	i-m-b-a-n-te-ø	FIN.VEN.3-NH.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	e-ma-us2	i-m-ba-n-us-ø	FIN.VEN.MID.3-SG-H-A.V.3-SG-P
-o.0.0	e-ma-x	_[_]	_
+o.0.0	e-ma-x
 o.0.0	eme3	eme[donkey]	N
 o.0.0	e-me-am6	i-me-ø-am	FIN.COP.3-SG-S.COP-3-SG-S
 o.0.0	eme	eme[tongue]	N
@@ -1955,7 +1955,7 @@ o.0.0	e-na-zig3	i-nn-a-n-zig-ø	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	en-bi2-esz1₈-tar2	Enentarzid	RN
 o.0.0	en-bi	en[lord]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	en-digir-gu10	Endigirgu[1]	PN
-o.0.0	|EN.DIM2.KI|	_[_]	_
+o.0.0	|EN.DIM2.KI|
 o.0.0	en-{d}nansze-ki-ag2	Ennanszekiag[1]	PN
 o.0.0	e-ne2-pad3-da-a	i-nn-i-n-pad-ø-'a-'a	FIN.3-SG-H.L2.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	e-ne2-pad3-da	i-nn-i-n-pad-ø-'a	FIN.3-SG-H.L2.3-SG-H-A.V.3-SG-P.SUB
@@ -2022,7 +2022,7 @@ o.0.0	EN-x	En-X[1]	PN
 o.0.0	enx(|NE.GI|)-bar	enbar[reed][-ø]	N.ABS
 o.0.0	en-zid	Enzid[1][-ak][-e]	PN.GEN.ERG
 o.0.0	en-zid	Enzid[1]	PN
-o.0.0	ep-szet	_[_]	_
+o.0.0	ep-szet
 o.0.0	er2	er[tears]	N
 o.0.0	er2	er[tears][-ø]	N.ABS
 o.0.0	er3-ra-dan	Erradan[1]	PN
@@ -2070,22 +2070,22 @@ o.0.0	e-ta-ra	i-b-ta-n-rah-ø	FIN.3-NH.ABL.3-SG-H-A.V.3-SG-P
 o.0.0	e-ta-sig9	i-b-ta-n-sig-ø	FIN.3-NH.ABL.3-SG-H-A.V.3-SG-P
 o.0.0	e-ta-szub	i-b-ta-n-szub-ø	FIN.3-NH.ABL.3-SG-H-A.V.3-SG-P
 o.0.0	ezen	ezem[festival]	N
-o.0.0	GA	_[_]	_
+o.0.0	GA
 o.0.0	ga2-ga2-de3	gaga-ed-e	V-PF.PF.DAT-NH
 o.0.0	ga2-kam	ga'e[I]-ak-am	IP.GEN.COP-3-SG
 o.0.0	ga2-nun	ganun[storehouse]	N
 o.0.0	ga2-udu-ur4	ga'udu'ur[~sheep]	N
-o.0.0	ga2-x	_[_]	_
+o.0.0	ga2-x
 o.0.0	ga-an-ti-il	ga-n-til	MOD2.L1-SYN.V
 o.0.0	ga-a-til3	ga-n-til	MOD2.L1-SYN.V
 o.0.0	gab2-ni-sze3	gab[left]-ani-sze	N.3-SG-H-POSS.TERM
-o.0.0	GABA	_[_]	_
+o.0.0	GABA
 o.0.0	gaba-ba	gaba[chest]-bi-'a	N.3-SG-NH-POSS.L2-NH
 o.0.0	gaba-be2	gaba[chest]-bi-e	N.3-SG-NH-POSS.L3-NH
 o.0.0	gaba	gaba[chest]	N
 o.0.0	gaba-gal2	gabagal[forceful]	AJ
 o.0.0	gaba-ka-ka	gaba[chest]-ak-ak-'a	N.GEN.GEN.L2-NH
-o.0.0	GABA.RI	_[_]	_
+o.0.0	GABA.RI
 o.0.0	gaba-ri	gabari[copy][-ø]	N.ABS
 o.0.0	gaba-ru	gabari[copy][-ø]	N.ABS
 o.0.0	gaba-szu-gar	gabaszugar[rival][-ø]	N.ABS
@@ -2142,13 +2142,13 @@ o.0.0	gan-kun-sig	Gankunsig[1]	PN
 o.0.0	gan-szubur	Ganszuburak[1]	PN
 o.0.0	ganun	ganun[storehouse]	N
 o.0.0	gan-utu	Ganutuk[1][-ø]	PN.ABS
-o.0.0	GAR	_[_]	_
+o.0.0	GAR
 o.0.0	gar3-dar-ra-a	gardar[retreat]-'a-'a	V.SUB.L1
 o.0.0	gar3-du	gardu[soldier][-ø]	N.ABS
 o.0.0	ga-ra-ab-szum2	ga-r-a-b-szum	MOD2.2-SG.DAT.3-SG-NH-P.V
 o.0.0	gar-gar	gar[place]gar[-ø]	V-RDP.ABS
 o.0.0	gar-gar	gar[place]gar	V-RDP
-o.0.0	GAR-ke4	_[_]	_
+o.0.0	GAR-ke4
 o.0.0	gar-ra-be2	gar[place]-'a-bi-e	V.SUB.3-SG-NH-POSS.L3-NH
 o.0.0	gar-ra-bi-da	gar[place]-'a-bi-da	V.SUB.3-SG-NH-POSS.COM
 o.0.0	gar-ra	gar[place]-'a	V.SUB
@@ -2247,10 +2247,10 @@ o.0.0	{gesz}u3-szub-ba	uszub[brick-mold]-'a	N.L1
 o.0.0	{gesz}u3-szub	uszub[brick-mold][-ø]	N.ABS
 o.0.0	gesz-ur3-sze3	guszur[beam]-sze	N.TERM
 o.0.0	{gesz}urin	urin[standard][-ø]	N.ABS
-o.0.0	GESZ-x-ga-ke4	_[_]	_
+o.0.0	GESZ-x-ga-ke4
 o.0.0	{gesz}za-ba-lum	zabalum[juniper][-ø]	N.ABS
-o.0.0	GI	_[_]	_
-o.0.0	gi4	_[_]	_
+o.0.0	GI
+o.0.0	gi4
 o.0.0	gi4-a-bi-sze3	gi[turn]-'a-bi-sze	V.SUB.3-SG-NH-POSS.TERM
 o.0.0	gi4-a-da	gi[turn]-'a-da	V.SUB.COM
 o.0.0	gi4-a	gi[turn]-'a[-ak]	V.SUB.GEN
@@ -2278,7 +2278,7 @@ o.0.0	gibil	gibil[new]	V
 o.0.0	gibil-gin7	gibil[new]-gin	V.EQU
 o.0.0	gibil-na	gibil[new]-ani-'a	V.3-SG-H-POSS.L1
 o.0.0	gid2-bi	gid[long]-bi[-ø]	V.3-SG-NH-POSS.ABS
-o.0.0	GID2.DA	_[_]	_
+o.0.0	GID2.DA
 o.0.0	gid2-da	gid[long]-'a[-ø]	V.SUB.ABS
 o.0.0	gidru-bi	gidru[scepter]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	gidru	gidru[scepter][-ak]	N.GEN
@@ -2325,7 +2325,7 @@ o.0.0	gir2-su{ki}-ke4	Girsu[1]-ak-e	SN.GEN.ERG
 o.0.0	gir2-su{ki}-ke4	Girsu[1]-ak-e	SN.GEN.L3-NH
 o.0.0	gir2-su{ki}-sze3	Girsu[1]-sze	SN.TERM
 o.0.0	gir2-su{ki}-ta	Girsu[1]-ta	SN.ABL
-o.0.0	GIR3-GIR3-ni	_[_]	_
+o.0.0	GIR3-GIR3-ni
 o.0.0	gi-ra-du	Giradu[1]	PN
 o.0.0	giri17	giri[nose]-e	N.L3-NH
 o.0.0	giri17-zal-a	girizal[joy]-'a	N.L1
@@ -2345,13 +2345,13 @@ o.0.0	giri3-ni-sze3	giri[foot]-ani-sze	N.3-SG-H-POSS.TERM
 o.0.0	giri3-pad-ra2-bi	giripadra[bone]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	gissu-bi	gissu[shade]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	{gi}sumurx(KA)-ta	sumur[roof]-ta	N.ABL
-o.0.0	GISZ	_[_]	_
+o.0.0	GISZ
 o.0.0	giszkim-bi	giszkim[sign]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	giszkim	giszkim[sign][-ø]	N.ABS
 o.0.0	giszkim-gu10	giszkim[sign]-gu[-ø]	N.1-SG-POSS.ABS
 o.0.0	giszkim-til3	giszkimti[trust]	N
 o.0.0	giszkim-til3-la-ni-ir	giszkimti[trust]-ani-ra	N.3-SG-H-POSS.DAT-H
-o.0.0	gu2	_[_]	_
+o.0.0	gu2
 o.0.0	gu2-ab-ba-tur3{ki}-ka-ni	Gu'abatur[1]-ak-ani[-ø]	SN.GEN.3-SG-H-POSS.ABS
 o.0.0	gu2-a	gu[neck]-'a	N.L2-NH
 o.0.0	gu2-be2	gu[neck]-bi-e	N.3-SG-NH-POSS.L3-NH
@@ -2472,7 +2472,7 @@ o.0.0	gu-ti-um{ki}-ke4	Gutium[1]-ak-e	GN.GEN.ERG
 o.0.0	gu-un-gu-nu-um	Gungunum[1]	RN
 o.0.0	gu-za-la2	guza	N
 o.0.0	gu-za-ni	guza[chair]-ani[-ø]	N.3-SG-H-POSS.ABS
-o.0.0	ha	_[_]	_
+o.0.0	ha
 o.0.0	ha-am3-zi2{ki}	Hamzi[1]	SN
 o.0.0	ha-am-mu-ra-pi2	Hammurapi[1]	RN
 o.0.0	ha-asz2-ha-me-er	Haszhamer[1]	PN
@@ -2523,15 +2523,15 @@ o.0.0	ha-mu-ra-ta-gen	ha-mu-r-a-ta-gen-ø	MOD1.VEN.2-SG.DAT.ABL.V.3-SG-S
 o.0.0	ha-mu-szi-gal2	ha-mu-e-szi-b-gal-ø	MOD1.VEN.2-SG.TERM.3-SG-NH-A.V.3-SG-P
 o.0.0	ha-mu-tar-re	ha-mu-e-tar-e	MOD1.VEN.L2.V.3-SG-A
 o.0.0	ha-mu-u3-zu	ha-mu-e-zu-ø	MOD1.VEN.2-SG-A.V.3-SG-P
-o.0.0	ha-mu-x-x-x	_[_]	_
+o.0.0	ha-mu-x-x-x
 o.0.0	ha-ne2-gaz-zex(|AB2.SZA3.GE|)	ha-ni-n-gaz-e	MOD1.L1.3-SG-H-P.V.3-SG-A
 o.0.0	ha-ni-dab5	ha-ni-1-dab-ø	MOD1.L1.1-SG-A.V.3-SG-P
-o.0.0	HAR	_[_]	_
+o.0.0	HAR
 o.0.0	HAR	_	
 o.0.0	ha-ra-an-il2	ha-r-a-n-il-ø	MOD1.2-SG.DAT.3-SG-H_A.V.3-SG-P
 o.0.0	HAR-mah2-ta	HAR-mah[1]-ta	GN.ABL
 o.0.0	ha-si2-is-e2-mi2-ke4	Hasisemik[1]-e	PN.ERG
-o.0.0	ha-x-ra	_[_]	_
+o.0.0	ha-x-ra
 o.0.0	ha-zi	Hazi[1]	PN
 o.0.0	HA-ZI-x	HA-ZI-X[1]	PN
 o.0.0	he2-a-da-pesz-e	ha-i-e-da-n-pesz-e	MOD1.FIN.2-SG.COM.L1-SYN.V.3-SG-A
@@ -2599,7 +2599,7 @@ o.0.0	he2-me	ha-i-me-en	MOD1.FIN.COP.2-SG-S
 o.0.0	he2-mi-ak	ha-i-m-b-i-n-ak-ø	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P
 o.0.0	he2-mi-gal2	ha-i-m-b-i-x-gal-ø	MOD1.FIN.VEN.3-NH.L2.X.V.X
 o.0.0	he2-mi-gi4	ha-m-b-i-1-gi-ø	MOD1.VEN.3-NH.L3.1-SG-A.V.3-SG-S
-o.0.0	he2-mi-x	_[_]	_
+o.0.0	he2-mi-x
 o.0.0	he2-na-ab-be2	ha-i-nn-a-b-e-e	MOD1.FIN.3-SG-H.DAT.3-SG-NH-P.V-PF.3-SG-A
 o.0.0	he2-na-ak	ha-i-nn-a-n-ak-ø	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	he2-na-be2	ha-i-nn-a-b-e-e	MOD1.FIN.3-SG-H.DAT.3-SG-NH-P.V-PF.3-SG-A
@@ -2626,18 +2626,18 @@ o.0.0	he2-til3-la-sze3	hetila[vow]-sze	N.TERM
 o.0.0	he2-til	ha-i-til[-ø]	MOD1.FIN.V.3-SG-S
 o.0.0	he2-til-le	ha-i-b-til-e	MOD1.FIN.3-SG-NH-P.V.3-SG-A
 o.0.0	he2-til-ne	ha-i-b-til-enee	MOD1.FIN.3-SG-NH-P.V.3-PL-A
-o.0.0	he2-x	_[_]	_
-o.0.0	he2-x-x	_[_]	_
+o.0.0	he2-x
+o.0.0	he2-x-x
 o.0.0	he2-zu-zu	ha-i-zuzu-e	MOD1.FIN.V-PF.3-SG-A
 o.0.0	he-en-da-ka	Hendak[1]-'a	SN.L1
-o.0.0	HI	_[_]	_
+o.0.0	HI
 o.0.0	hi-a	hi[mix]-'a[-ø]	V.SUB.ABS
-o.0.0	HI-a-ka	_[_]	_
+o.0.0	HI-a-ka
 o.0.0	hi-li-a	hili[attractiveness]-'a	N.L1
 o.0.0	hi-li	hili[wig]	N
 o.0.0	hi-ri-tum-bi	hiritum[ditch]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	hi-ri-tum	hiritum[ditch]	N
-o.0.0	HU-GI-NA	_[_]	_
+o.0.0	HU-GI-NA
 o.0.0	hul2-a-ni	hul[rejoice]-'a-ani[-ø]	V.SUB.3-SG-H-POSS.ABS
 o.0.0	hul2-da	hul[rejoice]-'a-da	V.SUB.COM
 o.0.0	hul2-la-da	hul[rejoice]-'a-da	V.SUB.COM
@@ -2660,7 +2660,7 @@ o.0.0	hu-mu-ni-in-il2	ha-mu-ni-n-il-ø	MOD1.VEN.LOC-OB.1-SG-A-OB.V.3-SG-P
 o.0.0	hu-mu-si-ba-re	ha-mu-1-szi-bar-e	MOD1.VEN.1-SG.TERM.V.3-SG-A
 o.0.0	hu-mu-ta-gal2	ha-mu-e-da-gal-ø	MOD1.VEN.2-SG.COM.V.3-SG-S
 o.0.0	hu-mu-til	ha-mu-1-til-ø	MOD1.VEN.1-SG-A.V.3-SG-P
-o.0.0	hu-mu-un-da-an-x	_[_]	_
+o.0.0	hu-mu-un-da-an-x
 o.0.0	hur-sag-ga2	hursag[mountain]-ak	N.GEN
 o.0.0	hur-sag-ga2	hursag[mountain]-ak[-ø]	N.GEN.ABS
 o.0.0	hur-sag	hursag[mountain]	N
@@ -2770,8 +2770,8 @@ o.0.0	ib2-szi-ag2-ga2-a	i-b-szi-ag-e-'a	FIN.3-NH.TERM.V.3-SG-A.SUB
 o.0.0	ib2-ta-ab-|E3.E3|-a	i-b-ta-b-ed-e-'a	FIN.3-NH.ABL.3-SG.NH-P.V-PF.3-SG-A.SUB
 o.0.0	ib2-ta-ab-uru12-a	i-b-ta-b-ur-e-'a	FIN.3-NH.ABL.3-SG-NH-P.V.3-SG-A.SUB
 o.0.0	ib2-us2	i-b-us[-ø]	FIN.3-SG-NH-L3.V.3-SG-S
-o.0.0	ib2-x	_[_]	_
-o.0.0	ib2-x-be2-a	_[_]	_
+o.0.0	ib2-x
+o.0.0	ib2-x-be2-a
 o.0.0	ib2-zi-ra-a	i-b-zir-e-'a[-ak]	FIN.3-SG-NH-P.V.3-SG-P.SUB.GEN
 o.0.0	ib2-zi-re-a	i-b-zir-e-'a	FIN.3-SG-NH-P.V.3-SG-P.SUB
 o.0.0	ib2-zi-zi-a	i-b-zizi-e-'a	FIN.3-SG-NH-P.V-PF.3-SG-A.SUB
@@ -2839,7 +2839,7 @@ o.0.0	igi	igi[face]	N
 o.0.0	igi	igi[face]-sze	N.TERM
 o.0.0	igi-lu2	igilu[profession][-ak][-ø]	N.GEN.ABS
 o.0.0	igi-na	igi[eye]-ani-'a	N.3-SG-H-POSS.L2-NH
-o.0.0	igi-ni-da-a	_[_]	_
+o.0.0	igi-ni-da-a
 o.0.0	igi-nim	iginim[land]	N
 o.0.0	igi-nim	iginim[land][-ø]	N.ABS
 o.0.0	igi-nim-ka	iginim[land]-ak-'a	N.GEN.L1
@@ -2868,7 +2868,7 @@ o.0.0	il2-sze3	Il[1]-sze	RN.TERM
 o.0.0	i-la-ak-szu-qir	Ilakszuqir[1]	PN
 o.0.0	i-lam-ma	Ilama[1][-ak][-e]	PN.GEN.ERG
 o.0.0	ildux(|IGI.NAGAR|)-ke4	ildum[band]-ak-e	N.GEN.ERG
-o.0.0	IM	_[_]	_
+o.0.0	IM
 o.0.0	im-bi	im[clay]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	im-da-ab-su3-re6	i-m-b-da-b-sud-e	FIN.VEN.3-NH.COM.3-SG-NH-P.V.3-SG-A
 o.0.0	im-da-be2	i-m-b-da-b-e-e	FIN.VEN.3-NH.COM.3-SG-NH-P.V-PF.3-SG-A
@@ -2895,7 +2895,7 @@ o.0.0	imin-na-ni	imin[seven]-ani[-ø]	NU.3-SG-H-POSS.ABS
 o.0.0	imin-ne-esz2	imin[seven]-sze	NU.TERM
 o.0.0	im-ma-an-gi4	i-m-ba-n-gi-ø	FIN.VEN.MID.3-SG-H-A.V.3-SG-P
 o.0.0	im-ma-an-szum2-mu-usz-a	i-m-b-a-n-szum-esz-'a-'a	FIN.VEN.3-NH.DAT.3-SG-H-A.V.3-PL.SUB.L1
-o.0.0	im-ma-an-x	_[_]	_
+o.0.0	im-ma-an-x
 o.0.0	im-ma-ba	i-m-ba-n-bar-ø	FIN.VEN.MID.3-SG-H-A.V.3-SG-P
 o.0.0	im-ma-bar	i-m-ba-n-bar-ø	FIN.VEN.MID.3-SG-H-A.V.3-SG-P
 o.0.0	im-ma-dab5	i-m-ba-n-dab-ø	FIN.VEN.MID.3-SG-H-A.V.3-SG-P
@@ -2944,10 +2944,10 @@ o.0.0	im-ta-e3	i-m-b-ta-n-e-ø	FIN.VEN.3-NH.ABL.3-SG-H-A.V.3-SG-P
 o.0.0	im-ta-ed3	i-m-b-ta-n=ed-ø	FIN.VEN.3-NH.ABL.3-SG-H-A=V.3-SG-P
 o.0.0	im-ta-gar	i-m-b-ta-n-gar-ø	FIN.VEN.3-NH.ABL.3-SG-H-A.V.3-SG-P
 o.0.0	im-ta-la2	i-m-b-ta-n-la-ø	FIN.VEN.3-NH.ABL.3-SG-H-A.V.3-SG-P
-o.0.0	i-mur-ma	_[_]	_
+o.0.0	i-mur-ma
 o.0.0	im-us2	i-m-b-us[-ø]	FIN.VEN.3-SG-NH-L3.V.3-SG-S
-o.0.0	im-x-x	_[_]	_
-o.0.0	i-na	_[_]	_
+o.0.0	im-x-x
+o.0.0	i-na
 o.0.0	in-ak-a	i-n-ak-ø-'a-'a	FIN.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	in-burx(|KA×SZU|)-NI	i-bur-e-'a-x	FIN.V.3-SG-A.SUB.X
 o.0.0	in-dab5-dab5	i-n-dabdab-ø	FIN.3-SG-H-A.V-RDP.3-SG-P
@@ -2984,20 +2984,20 @@ o.0.0	inim-ni	inim[word]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	inim-sze3	inim[word]-sze	N.TERM
 o.0.0	inim-utu-zid	Inimutuzid[1]	PN
 o.0.0	inim-utu-zid	Inimutuzid[2][-ak][-ø]	PN.GEN.ABS
-o.0.0	in-KU	_[_]	_
+o.0.0	in-KU
 o.0.0	in-ma-ni-pad3	i-m-b-a-n-pad-ø	3-NH.DAT.3-SG-H-A.pad.3-SG-P
 o.0.0	in-na-an-ba	i-nn-a-n-ba-ø	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	in-na-an-szum2	i-nn-a-n-szum-ø	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	in-na-ba	i-nn-a-n-ba-ø	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	in-na-dug4-ga	i-nn-a-n-dug-ø-'a	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB
 o.0.0	in-na-gen-na	i-nn-a-gen-ø-'a-'a	FIN.3-SG-H.DAT.V.3-SG-S.SUB.L1
-o.0.0	in-na-x	_[_]	_
+o.0.0	in-na-x
 o.0.0	in-pad3	i-n-pad-ø	FIN.3-SG-H-A.V.3-SG-P
 o.0.0	in-szi-de6-a-am6	i-nn-szi-n-de-ø-'a-am	FIN.3-SG-H.TERM.3-SG-H-A.V.3-SG-P.SUB.COP-3-SG
-o.0.0	in-x	_[_]	_
-o.0.0	in-x-x-x-na	_[_]	_
+o.0.0	in-x
+o.0.0	in-x-x-x-na
 o.0.0	in-zu-zu	Inzuzu[1][-ø]	PN.ABS
-o.0.0	ir	_[_]	_
+o.0.0	ir
 o.0.0	IR11-{d}suen	Waradsin[1]	RN
 o.0.0	IR11-{d}x	Warad-X[1]	PN
 o.0.0	IR11-er3-ra	Waraderra[1]	PN
@@ -3067,9 +3067,9 @@ o.0.0	i-szim-{d}szul-gi	Iszimszulgi[1]	PN
 o.0.0	isz-ku-un-{d}suen	Iszkunsuen[1][-ak][-ø]	SN.GEN.ABS
 o.0.0	isz-ku-un-e2-a	Iszkunea[1]	PN
 o.0.0	isz-me-DIGIR	Iszmeili[1][-ak][-ø]	PN.GEN.ABS
-o.0.0	isz-te-'-u2	_[_]	_
+o.0.0	isz-te-'-u2
 o.0.0	isz-t,up-DIGIR	Iszt,upilum[1]	PN
-o.0.0	isz-t,ur	_[_]	_
+o.0.0	isz-t,ur
 o.0.0	i-ti-a	Itiya[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	it-ra-ak-i3-li2	Itrakili[1]	PN
 o.0.0	itud-da	itud[moon][-ak][-ø]	N.GEN.ABS
@@ -3082,7 +3082,7 @@ o.0.0	|IZI.DU.GI.US2|	IZI-DU-GI-US2[unmng][-ø]	N.ABS
 o.0.0	izi	izi[fire]-e	N.L3-NH
 o.0.0	izi	izi[fire][-ø]	N.ABS
 o.0.0	i-zi{muszen}	ezi[bird][-ø]	N.ABS
-o.0.0	KA	_[_]	_
+o.0.0	KA
 o.0.0	ka2-ME	Kame[1][-ø]	TN.ABS
 o.0.0	ka2-sur-ra	Kasura[1]-'a	SN.L2-NH
 o.0.0	ka2-sur-ra	Kasura[1]	SN
@@ -3104,7 +3104,7 @@ o.0.0	ka-kug-ka	Kakug[1]-ak-ak	PN.GEN.GEN
 o.0.0	ka-kug	Kakug[1][-ak]	PN.GEN
 o.0.0	ka-kug	Kakug[2][-ak][-ø]	PN.GEN.ABS
 o.0.0	ka-kug-ke4	Kakug[1]-ak-e	PN.GEN.ERG
-o.0.0	KAL	_[_]	_
+o.0.0	KAL
 o.0.0	kalag-ga	kalag[strong]-'a[-e]	V.SUB.ERG
 o.0.0	kalag-ga	kalag[strong]-'a[-ø]	V.SUB.ABS
 o.0.0	kalag-ga	kalag[strong]-'a	V.SUB
@@ -3145,7 +3145,7 @@ o.0.0	kar-nun-ta-e3-a	Karnuntaea[1][-ø]	ON.ABS
 o.0.0	kar-zid-da-a	Karzida[1]-'a	SN.L1
 o.0.0	kar-zid-da-ka-ni	Karzida[1]-ani[-ø]	SN.3-SG-H-POSS.ABS
 o.0.0	kar-zid-da	Karzida[1][-ak]	SN.GEN
-o.0.0	KASKAL	_[_]	_
+o.0.0	KASKAL
 o.0.0	kaskal	kaskal[way]	N
 o.0.0	kaskal-la-ka-ni-ir	kaskal[way]-ak-ani-ra	N.GEN.3-SG-H-POSS.DAT-H
 o.0.0	kaskal-la-ka-ni	kaskal[way]-ak-ani[-ø]	N.GEN.3-SG-H-POSS.ABS
@@ -3161,7 +3161,7 @@ o.0.0	kasz	kasz[beer][-ø]	N.ABS
 o.0.0	kasz-ni	kasz[beer]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	ka-ta	kag[mouth]-ta	N.ABS
 o.0.0	KA-TAR-x	KA-TAR-X[1]	PN
-o.0.0	KA-x	_[_]	_
+o.0.0	KA-x
 o.0.0	KA-x	KA-X[1]	PN
 o.0.0	ka-zal-lu{ki}	Kazallu[1][-ak][-ø]	SN.GEN.ABS
 o.0.0	kesz3{ki}	Kesz[1][-ak][-ø]	SN.GEN.ABS
@@ -3170,7 +3170,7 @@ o.0.0	kesz3{ki}-sze3	Kesz[1]-sze	SN.TERM
 o.0.0	kesze2-da-na	keszed[bind]-N'a-ani-'a	V.NSUB.3-SG-H-POSS.X
 o.0.0	kesze2	keszed[bind]	V
 o.0.0	kesze2-ra2-gu10	keszed[bind]-N'a-gu-ta	V.NSUB.1-SG-POSS.ABL
-o.0.0	KI	_[_]	_
+o.0.0	KI
 o.0.0	KI	_	
 o.0.0	ki-a	ki[place]-'a	N.L1
 o.0.0	ki-a	ki[place]-'a	N.L2-NH
@@ -3188,9 +3188,9 @@ o.0.0	KIB@g	kib[object][-ø]	N.ABS
 o.0.0	ki-bi-da	ki[place]-bi-da-ak	N.DEM2.COM.GEN
 o.0.0	ki-bi	ki[place]-bi	N.DEM2
 o.0.0	ki-bi	ki[place]-bi[-ø]	N.DEM2.
-o.0.0	KID	_[_]	_
+o.0.0	KID
 o.0.0	ki-da	ki[place]-da	N.COM
-o.0.0	KID-e	_[_]	_
+o.0.0	KID-e
 o.0.0	ki-{d}utu	Kiutuk[1]-'a	SN.L2-NH
 o.0.0	ki-en-gi4	Kiengir[1]	GN
 o.0.0	ki-en-gi-ke4	Kiengir[1]-ak-e	GN.GEN.N5-ERG
@@ -3218,7 +3218,7 @@ o.0.0	ki-gal	kigal[platform]	N
 o.0.0	ki-gal-la	kigal[platform]-'a	N.L2-NH
 o.0.0	ki-gub	kigub[station][-ø]	N.ABS
 o.0.0	ki-har-ra	Kihara[1]	GN
-o.0.0	ki-in	_[_]	_
+o.0.0	ki-in
 o.0.0	ki-in-dar-a	kindar[hole]-'a	N.X
 o.0.0	ki-ka	ki[place]-ak-ak	N.GEN.GEN
 o.0.0	ki-ka	ki[place]-ak-ak[-ø]	N.GEN.GEN.ABS
@@ -3306,10 +3306,10 @@ o.0.0	ki-uri-me-en	Akkad[1][-ak][-ø]-men	GN.GEN.ABS.COP-1-SG
 o.0.0	ki-uri-ra	Akkad[1]-ak-ra	GN.GEN.L3-H
 o.0.0	ki-uri-x	Akkad[1][-ak][-ø]	GN.GEN.ABS
 o.0.0	ki-utu-ka	Kiutuk[1]-'a	SN.L2-NH
-o.0.0	ki-x	_[_]	_
+o.0.0	ki-x
 o.0.0	ki-x	Ki-X[1]	PN
 o.0.0	ki-x-kusz2	Ki-X-kusz[1]	PN
-o.0.0	KU	_[_]	_
+o.0.0	KU
 o.0.0	ku3-gal	gugal[inspector]	N
 o.0.0	ku4(REC56)-ku4(REC56)-da-ne2	kuku-ed-'a-ne	V-PF.PF.SUB.L4
 o.0.0	ku5-ra2	kud[cut]-'a[-ø]	V.SUB.ABS
@@ -3424,11 +3424,11 @@ o.0.0	la-ba-ara3	nu-ba-ara[-ø]	NEG.MID.V.3-SG-S
 o.0.0	la-ba-ni-la2-e	nu-ba-ni-b-lal-e	NEG.MID.L1.3-SG-NH-P.V.3-SG-A
 o.0.0	la-ba-sag3	nu-ba-sag[-ø]	NEG.MID.V.3-SG-S
 o.0.0	la-ba-ta-e3	nu-ba-ta-e-ø	NEG.MID.ABL.V.3-SG-S
-o.0.0	|LA.E.GI.LUL|	_[_]	_
+o.0.0	|LA.E.GI.LUL|
 o.0.0	lagab-ba	lagab[block]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	lagab-bi-a	lagab[block]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	lagab	lagab[block]	N
-o.0.0	LAGAB-ta	_[_]	_
+o.0.0	LAGAB-ta
 o.0.0	lagarx(|SAL.HU.BA|)	lagar[priest][-ø]	N.ABS
 o.0.0	lagasz{ki}-a-ke4-ne	Lagasz[1]-ak[-e]nee-ra	SN.GEN.PL.DAT-H
 o.0.0	lagasz{ki}-a	Lagasz[1]-ak	SN.GEN
@@ -3466,7 +3466,7 @@ o.0.0	lagasz	Lagasz[1][-ak][-ak][-ø]	SN.GEN.GEN.ABS
 o.0.0	lagasz	Lagasz[1][-ak][-e]	SN.GEN.ERG
 o.0.0	lagasz	Lagasz[1][-ak][-ø]	SN.GEN.ABS
 o.0.0	lagasz	Lagasz[1][-ak]	SN.GEN
-o.0.0	LAK500	_[_]	_
+o.0.0	LAK500
 o.0.0	lal3	lal[syrup][-ø]	N.ABS
 o.0.0	la-li2-a	Laliya[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	la-lu5	Lalu[1][-ak]	PN.GEN
@@ -3479,7 +3479,7 @@ o.0.0	larsam{ki}-ma	Larsam[1]-'a	SN.L1
 o.0.0	larsam{ki}-sze3	Larsam[1]-sze	SN.TERM
 o.0.0	libir-a	NV2-libir='a	V.SUB
 o.0.0	libir	libir[old]	V
-o.0.0	LIBIR.RA	_[_]	_
+o.0.0	LIBIR.RA
 o.0.0	li-bur-{d}suen	Libursuen[1]	PN
 o.0.0	limmu2-ba-ka-sze3	limmu[four]-bi-ak-ak-sze	NU.3-SG-NH-POSS.GEN.GEN.TERM
 o.0.0	limmu2-ba-ke4	limmu[four]-bi-ak-e	NU.3-SG-NH-POSS.GEN.ERG
@@ -3579,7 +3579,7 @@ o.0.0	lu2-{d}x-x	LU2-X[11]	PN
 o.0.0	lu2-erim2	lu'erim[evildoer]	N
 o.0.0	lu2-erim2	lu'erim[evildoer][-ø]	N.ABS
 o.0.0	lu2-esz2-gid2	lu'eszgid[surveyor]	N
-o.0.0	{lu2}GALA	_[_]	_
+o.0.0	{lu2}GALA
 o.0.0	{lu2}gana2-gid2	ganagid[surveyor][-e]	N.ERG
 o.0.0	lu2-gen6-na	Lugena[1]	PN
 o.0.0	lu2-giri17-zal	Lugirizal[1]	PN
@@ -3613,8 +3613,8 @@ o.0.0	lu2-sza-lim	Luszalim[1]	PN
 o.0.0	lu2-umum-ma-ke4	lu'umumak[profession]-e	N.ERG
 o.0.0	lu2-urub{ki}	Luurub[1]	PN
 o.0.0	lu2-usz-gen6-na	Luuszgena[1]	PN
-o.0.0	lu2-x	_[_]	_
-o.0.0	lu2-x-DA	_[_]	_
+o.0.0	lu2-x
+o.0.0	lu2-x-DA
 o.0.0	lu2-x	LU2-X[1]	PN
 o.0.0	lu2-x	LU2-X[2]	PN
 o.0.0	lu2-x	LU2-X[6]	PN
@@ -3623,7 +3623,7 @@ o.0.0	lu2-x-x	LU2-X[12]	PN
 o.0.0	lu2-x-x	LU2-X[5]	PN
 o.0.0	lu2-zabar3	Luzabar[1][-ø]	PN.ABS
 o.0.0	lu-a	lu[abundant]-'a[-ø]	V.SUB.ABS
-o.0.0	LUGAL	_[_]	_
+o.0.0	LUGAL
 o.0.0	lugal-a2-zid-da	Lugalazida[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	lugal-a2-zid-da	Lugalazida[2]	PN
 o.0.0	lugal-a2-zid-da	Lugalazida[3]	PN
@@ -3761,8 +3761,8 @@ o.0.0	lum-ma-mesz3-ni	Lumameszni[1]	PN
 o.0.0	lum-ma-tur	Lumatur[1]	PN
 o.0.0	lu{sar}	lub[turnip][-ø]	N.ABS
 o.0.0	LU-x-x	LU-X[1]	PN
-o.0.0	MA	_[_]	_
-o.0.0	ma	_[_]	_
+o.0.0	MA
+o.0.0	ma
 o.0.0	ma2	_	
 o.0.0	ma2-addirx(|PAD.DUG.GISZ.SI|)	ma'addir[ferryboat]	N
 o.0.0	ma2-gan{ki}	Magan[1]	GN
@@ -3784,7 +3784,7 @@ o.0.0	ma2-ta	ma[ship]-ta	N.ABL
 o.0.0	ma-ad-ga{ki}	Madga[1]	GN
 o.0.0	ma-an-de2	m-a-n-de-ø	VEN.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	ma-an-szum2	m-a-n-szum-ø	VEN.DAT.3-SG-H-A.V.3-SG-P
-o.0.0	ma-an-x	_[_]	_
+o.0.0	ma-an-x
 o.0.0	ma-a-u3-tu9-e	m-a-utud-e	VEN.DAT.V.3-SG-A
 o.0.0	ma-ba	m-a-n-ba-ø	VEN.DAT.3-SG-H-A.V.3-SG-A
 o.0.0	ma-da	mada[land][-ak]	N.GEN
@@ -3862,12 +3862,12 @@ o.0.0	masz	masz[goat]	N
 o.0.0	masz-szu-gid2-gid2-de3-ne	maszszugidgid[diviner]-enee[-ak][-ø]	N.PL.GEN.ABS
 o.0.0	ma-szum	Maszum[1][-ø]	PN.ABS
 o.0.0	ma-szum	Maszum[2]	PN
-o.0.0	masz-x-x	_[_]	_
-o.0.0	ma-x	_[_]	_
+o.0.0	masz-x-x
+o.0.0	ma-x
 o.0.0	{m}{d}AG-MU-SUM-MA	_	_
 o.0.0	{m}{d}EN-TIN-it,	_	_
 o.0.0	{m}{d}EN-ZU-TIN-su-iq-bi	_	_
-o.0.0	ME	_[_]	_
+o.0.0	ME
 o.0.0	me3-ka-ni	me[battle]-ak-ani[-ø]	N.GEN.3-SG-H-POSS.ABS
 o.0.0	me3-ke4	me[battle]-ak-e	N.GEN.ERG
 o.0.0	me3	me[battle][-ak]	N.GEN
@@ -3948,7 +3948,7 @@ o.0.0	min-nam	min[two]-ø-am	NU.ABS.COP-3-SG
 o.0.0	mi-szi-me{ki}	Miszime[1][-ø]	GN.ABS
 o.0.0	mi-tum	mitum[weapon]	N
 o.0.0	{m}MU-{d}PAP-SUKKAL	_	_
-o.0.0	MU	_[_]	_
+o.0.0	MU
 o.0.0	mu2-a	mu[grow]-'a	V.SUB
 o.0.0	mu5-ru5	murub[middle]	N
 o.0.0	mu6-sub3	musub[heardsman][-e]	N.ERG
@@ -4039,7 +4039,7 @@ o.0.0	mu-hul-a	mu-n-hulu-ø-'a-'a	VEN.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	mu-hul	mu-n-hulu-ø	VEN.3-SG-H-A.V.3-SG-P
 o.0.0	mu-i-i	mu-n-i'i-ø	VEN.3-SG-H-A.V.3-SG-P
 o.0.0	mu-il2	mu-1-il-ø	VEN.1-SG-A.V.3-SG-P
-o.0.0	mu-kin-x	_[_]	_
+o.0.0	mu-kin-x
 o.0.0	mu-ku4(REC144)-ku4(REC144)	mu-n-kuku-ø	VEN.L1-SYN.V-PF.3-SG-S
 o.0.0	mu-kug	mu-n-kug-ø	VEN.3-SG-H-A.V.3-SG-P
 o.0.0	mu-kur-szuba4-ta	Mukurszubata[1]	PN
@@ -4147,12 +4147,12 @@ o.0.0	mu-na-ta-ed3	mu-nn-a-ta-n-ed-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	mu-na-taka4	mu-nn-a-n-taka-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	mu-na-tar-ra-a	mu-nn-a-n-tar-ø-'a-'a	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	mu-na-ta-szum2	mu-nn-a-ta-n-szum-ø	VEN.3-SG-H.DAT.ABL.3-SG-H-A.V.3-SG-P
-o.0.0	mu-na-ta-x-a	_[_]	_
+o.0.0	mu-na-ta-x-a
 o.0.0	mu-na-tum2	mu-nn-a-b-tum-ø	VEN.3-SG-H.DAT.3-SG-NH-A.V.3-SG-P
 o.0.0	mu-na-tusz	mu-nn-a-e-tusz-ø	VEN.3-SG-H.DAT.L2.V.3-SG-S
 o.0.0	mu-na-uru4	mu-nn-a-n-uru-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
 o.0.0	mu-na-us2	mu-nn-a-n-us-ø	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P
-o.0.0	mu-na-x	_[_]	_
+o.0.0	mu-na-x
 o.0.0	mu-na-za	mu-nn-a-za[-ø]	VEN.3-SG-H.DAT.V.3-SG-S
 o.0.0	mu-ne2-pad3	mu-nn-i-n-pad-ø	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-P
 o.0.0	mu-ne2-ra	mu-nn-i-n-rah-ø	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-P
@@ -4189,10 +4189,10 @@ o.0.0	mu-ni-tuku	mu-nn-i-n-tuku-ø-'a-'a	VEN.3-SG-H.L3.3-SG-H-A.V.ø.SUB.L1
 o.0.0	mu-ni-tum2	mu-nn-i-n-tum-ø	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-P
 o.0.0	mu-ni-tusz	mu-nn-i-n-tusz-ø	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-S
 o.0.0	mu-ni-us2	mu-nn-i-n-us-ø	VEN.3-SG-H.L1.3-SG-H-A.V.3-SG-P
-o.0.0	mu-NI-x	_[_]	_
+o.0.0	mu-NI-x
 o.0.0	mun	mun[salt][-ø]	N.ABS
 o.0.0	mu-nu2	mu-n-nud-ø	VEN.3-SG-H-A.V.3-SG-P
-o.0.0	MUNUS	_[_]	_
+o.0.0	MUNUS
 o.0.0	munus-e	munus[woman]-e	N.ERG
 o.0.0	munus-gil-sa	Emunusgilsak[1][-ak]	TN.GEN
 o.0.0	munus-ki-gal	Munuskigal[1][-ø]	PN.ABS
@@ -4266,25 +4266,25 @@ o.0.0	mu-un-tum2-ma-a	mu-n-tum-ø-'a-'a	VEN.3-SG-H-A.V.3-SG-P.SUB.L1
 o.0.0	mu-un-tum2-ma-na	mu-n-tum-ø-'a-ani-ak	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN
 o.0.0	mu-ur5{ki}	Mur[1][-ak]	SN.GEN
 o.0.0	mu-usz2	mu-n-usz-ø	VEN.3-SG-H-A.V.3-SG-P
-o.0.0	MU-x	_[_]	_
-o.0.0	mu-x	_[_]	_
-o.0.0	mu-x-x	_[_]	_
+o.0.0	MU-x
+o.0.0	mu-x
+o.0.0	mu-x-x
 o.0.0	mu-zu	mu[name]-zu[-ø]	N.2-SG-POSS.ABS
 o.0.0	mu-zu	mu-n-zu-ø	VEN.3-SG-H-A.V.3-SG-P
 o.0.0	mu-zu-sze3	mu[name]-zu-sze	N.2-SG-POSS.TERM
 o.0.0	mu-zu-zu	mu-n-zuzu-ø	VEN.3-SG-H-A.V-RDP.3-SG-P
-o.0.0	n	_[_]	_
-o.0.0	NA	_[_]	_
+o.0.0	n
+o.0.0	NA
 o.0.0	na4-a	na[stone]-'a	N.L1
 o.0.0	{na4}esi-am3	esi[diorite]-ø-am	N.ABS.COP-3-SG
 o.0.0	{na4}esi	esi[diorite][-ø]	N.ABS
 o.0.0	{na4}gesznu-gal-e	gesznugal[alabaster]-e-ø	N.DEM1.ABS
 o.0.0	na4-kam	na[stone]-ak-am	N.GEN.COP-3-SG
-o.0.0	{na4}KU	_[_]	_
+o.0.0	{na4}KU
 o.0.0	{na4}na	na[stone]	N
-o.0.0	{NA4}NA.RU2.A	_[_]	_
+o.0.0	{NA4}NA.RU2.A
 o.0.0	na4	na[stone][-ak]	N.GEN
-o.0.0	{na4}x	_[_]	_
+o.0.0	{na4}x
 o.0.0	{na4}za-gin3-na	zagin[lapis]-'a	N.L1
 o.0.0	na-ab-ak-ke4	nan-b-ak-e	MOD3.3-SG-NH-L3.V.3-SG-A
 o.0.0	na-an-gen6-ne2	nan-gin-e	MOD3.V.3-SG-A
@@ -4294,7 +4294,7 @@ o.0.0	na-ba	na[stone]-bi-'a	N.3-SG-NH-POSS.L2-NH
 o.0.0	na-bi2-{d}suen	Nabisuen[1]	PN5=ak.sze
 o.0.0	na-bi-{d}en-lil2	Nabienlil[1]	PN
 o.0.0	na-bi	na[stone]-bi[-ø]	N.3-SG-NH-POSS.ABS
-o.0.0	na-DU	_[_]	_
+o.0.0	na-DU
 o.0.0	na-du12-du12	nan-dudu-e	MOD3.V-PF.3-SG-A
 o.0.0	na-e	na-e-e	MOD7.V-PF.3-SG-A
 o.0.0	na-gada-bi	nagada[herdsman]-bi[-ø]	N.3-SG-NH-POSS.ABS
@@ -4307,7 +4307,7 @@ o.0.0	nag-{d}nansze-ta	Nagnanszek[1]-ta	GN.ABL
 o.0.0	na-gub	na-Vn-gub-ø	MOD7.3-SG-H-A.V.3-SG-P
 o.0.0	na-kab-tum	nakabtum[stockyard?][-ak][-ø]	N.GEN.ABS
 o.0.0	na-ka	na[stone]-ak-'a	N.GEN.L1
-o.0.0	NAM	_[_]	_
+o.0.0	NAM
 o.0.0	nam2-si-sa2	namsisa[righteousness][-ø]	N.ABS
 o.0.0	na-ma-kusz	numunkusz[widow][-ø]	N.ABS
 o.0.0	nam-a-ni	nam[fate]-ani[-ø]	N.3-SG-H-POSS.ABS
@@ -4357,7 +4357,7 @@ o.0.0	nam-mah-ni	Nammahni[2]	PN
 o.0.0	nam-mi-de2	na-m-b-i-n-de-ø	MOD7.VEN.3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	nam-mi-gub	na-m-b-i-n-gub-ø	MOD7.VEN.3-NH.L2.3-SG-H-A.V.3-SG-P
 o.0.0	nam-mi-gul-e	nan-ni-b-gul-e	MOD3.L1.3-SG-NH-P.V.3-SG-A
-o.0.0	nam-mul	_[_]	_
+o.0.0	nam-mul
 o.0.0	nam-munus-ka-ni	nammunus[femininity]-ak-ani[-ø]	N.GEN.3-SG-H-POSS.ABS
 o.0.0	nam	nam[fate]	N
 o.0.0	nam	nam[fate][-ø]	N.ABS
@@ -4417,7 +4417,7 @@ o.0.0	na	na[stone][-ø]	N.ABS
 o.0.0	na-na-szum2-mu	nan-nn-a-szum-e	MOD3.3-SG-H.DAT.V.3-SG-A
 o.0.0	na-na-tag-ge	nan-nn-a-tag-e	MOD3.3-SG-H.DAT.V.3-SG-A
 o.0.0	na-ni-ba-re	nan-nn-i-bar-e	MOD3.3-SG-H.L2.V.3-SG-A
-o.0.0	nap-pal-ti	_[_]	_
+o.0.0	nap-pal-ti
 o.0.0	na-ra-am-{d}suen	Naramsuen[1]	RN
 o.0.0	na-ra-am-i3-li2	Naramili[1]	PN
 o.0.0	na-ra-am-i3-li2	Naramili[2]	PN
@@ -4436,9 +4436,9 @@ o.0.0	na-silim	Nasilim[2]	PN
 o.0.0	na-silim	Nasilim[3][-ak]	PN.GEN
 o.0.0	na-szi-bar-re	nan-nn-szi-bar-e	MOD3.3-SG-H.TERM.V.3-SG-A
 o.0.0	na-wi-ir-DIGIR	Nawirilum[1]	PN
-o.0.0	na-x	_[_]	_
+o.0.0	na-x
 o.0.0	na-zid-da	Nazida[1]	PN
-o.0.0	NE	_[_]	_
+o.0.0	NE
 o.0.0	ne2-bala-bala	ni-n-balabala-ø	L1.3-SG-H-A.V-RDP.3-SG-P
 o.0.0	ne2-bala-e	ni-b-bala-e	L1.3-SG-NH-P.V.3-SG-A
 o.0.0	ne2-gaz	ni-n-gaz-ø	L1.3-SG-H-A.V.3-SG-P
@@ -4447,11 +4447,11 @@ o.0.0	ne3	ne[strength][-ø]	N.ABS
 o.0.0	|NE.ESZ2|	NE-ESZ2[1]	RN
 o.0.0	ne-mur	nemur	N
 o.0.0	ne-na	nen[this]-'a	DP.L1
-o.0.0	NE@s	_[_]	_
+o.0.0	NE@s
 o.0.0	ne-sag	nesag[offering][-ø]	N.ABS
 o.0.0	ne-te-ni	ni[self]te-ani[-ø]	N.3-SG-H-POSS.ABS
-o.0.0	NI	_[_]	_
-o.0.0	ni	_[_]	_
+o.0.0	NI
+o.0.0	ni
 o.0.0	ni2-ba-ka-ka	ni[self]-bi-ak-ak-'a	N.3-SG-NH-POSS.GEN.GEN.L1
 o.0.0	ni2-bi-a	ni[self]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	ni2-bi	ni[fear]-bi[-ø]	N.3-SG-NH-POSS.ABS
@@ -4547,11 +4547,11 @@ o.0.0	ni-ib2-bala-e-a	ni-b-bala-e-'a	L1.3-SG-NH-P.V.3-SG-A.SUB
 o.0.0	ni-kurx(DU)	ni-n-kur-ø	L1.3-SG-H-A.V.3-SG-P
 o.0.0	ni-la2	ni-n-la-ø	L1.3-SG-H-A.V.3-SG-P
 o.0.0	ni-luh	ni-n-luh-ø	L1.3-SG-H-A.V.3-SG-P
-o.0.0	NIM-e	_[_]	_
+o.0.0	NIM-e
 o.0.0	nim	nim[high][-ø]	V.ABS
 o.0.0	nim	nim[high]	V
 o.0.0	nim-sze3	nim[high]-sze	V.TERM
-o.0.0	nin	_[_]	_
+o.0.0	nin
 o.0.0	nin	_	
 o.0.0	nin9-a-ni	nin[sister]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	nin9-he2-li2-a	Ninheliya[1]	PN
@@ -4597,7 +4597,7 @@ o.0.0	nin-ka-gen6-na	Ninkagina[1]	PN
 o.0.0	nin-kisal-si	Ninkisalsi[-ø]	RN.ABS
 o.0.0	nin-kisal-sze3	Ninkisalsze[1]	PN
 o.0.0	nin-lu2-x	Ninlu-X[1]	PN
-o.0.0	nin-men-x	_[_]	_
+o.0.0	nin-men-x
 o.0.0	nin-me-ta-bar-re2	Ninmetabare[1]	PN
 o.0.0	nin-nam	Ninam[1]	PN
 o.0.0	nin-na-ni	nin[lady]-ani[-ra]	N.3-SG-H-POSS.DAT-H
@@ -4735,7 +4735,7 @@ o.0.0	nu-ur2-{d}suen	Nursuen[2]	PN
 o.0.0	nu-ur2-{d}szul-gi	Nurszulgi[1]	PN
 o.0.0	nu-ur2-{d}UTU	Nurszamasz[1]	PN
 o.0.0	nu-ur2-esz1₈-tar2	Nuresztar[1]	PN
-o.0.0	nu-x	_[_]	_
+o.0.0	nu-x
 o.0.0	nu-zi-zi	nu-b-zizi-e	NEG.3-SG-NH-P.V-PF.3-SG-A
 o.0.0	pa4-a2-nu-kusz2	Paanukusz[1]	PN
 o.0.0	pa4-bilgax(GISZ){bil}-la-la	Pabilgalala[1]	PN
@@ -4783,7 +4783,7 @@ o.0.0	puzur4-x	Puzur-X[1]	PN
 o.0.0	puzur5-ma-ma	Puzurmama[1]	PN
 o.0.0	puzur5-x	Puzur-X[2][-ak][-ø]	PN.GEN.ABS
 o.0.0	puzur-ma-ma	Puzurmama[1]	RN
-o.0.0	qe3-reb	_[_]	_
+o.0.0	qe3-reb
 o.0.0	ra2-gaba-ni	ragaba[rider]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	ra2-gaba	ragaba[rider]	N
 o.0.0	ra2-gaba	ragaba[rider][-ø]	N.ABS
@@ -4799,10 +4799,10 @@ o.0.0	ri2-mu-usz-kam	Rimusz[1]	RN
 o.0.0	ri2-mu-usz	Rimusz[1]	RN
 o.0.0	ri-a	ri[impose]-'a	V.SUB
 o.0.0	rib-ba	rib[surpassing]-'a	V.SUB
-o.0.0	ri-im	_[_]	_
+o.0.0	ri-im
 o.0.0	ri-im-{d}suen	Rimsin[1]	RN
 o.0.0	ri-iṣ-DINGIR	Riṣilum[1][-ø]	PN.ABS
-o.0.0	RU	_[_]	_
+o.0.0	RU
 o.0.0	ru-a	ri[impose]-'a	V.SUB
 o.0.0	RU-lugal-ka	RU-lugalak[soldier]-ak[-ø]	N.GEN.ABS
 o.0.0	RU-lugal-ke4	RU-lugalak[soldier]-e	N.ERG
@@ -4826,7 +4826,7 @@ o.0.0	sa-bar-a-ni	sabar[net]-ani	sabar.ani
 o.0.0	sab	sab[jar]	N
 o.0.0	sa-bu-um{ki}-bi-da	Sabum[1]-bi-da	SN.DEM2.COM
 o.0.0	sa-bu-um{ki}	Sabum[1]	SN
-o.0.0	SAG	_[_]	_
+o.0.0	SAG
 o.0.0	sag2	sag[scatter]	V
 o.0.0	sag9-ga-ne2	sag[good]-ani-e	V.3-SG-H-POSS.ERG
 o.0.0	sag9-ga-ne-ne-a	sag[good]-'a-anenee-'a	V.SUB.3-PL-POSS.L1
@@ -4874,38 +4874,38 @@ o.0.0	sag-ubx(|EZEN×BAD|)	Sagub[1]-'a	SN.L1
 o.0.0	sag-ubx(|EZEN×HAL|)-ka-ni	Sagub[1]-ak-ani[-ø]	SN.GEN.3-SG-H-POSS.ABS
 o.0.0	sag-ur-sag-e	sagursag[performer]-E	N.ERG
 o.0.0	sag-us2	sagus[constant]	V
-o.0.0	sag-x	_[_]	_
+o.0.0	sag-x
 o.0.0	sahar-ba	sahar[dust]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	sahar-bi	sahar[dust]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	|SAHAR.DU6.TAK4|-bi	SAHAR-DU6-TAK4[burial mound]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	|SAHAR.DU6.TAK4|	SAHAR-DU6-TAK4[burial mound]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	sahar-ra	sahar[dust][-ak]	N.GEN
 o.0.0	sahar-ra	sahar[dust]-'a	N.L1
-o.0.0	SAL	_[_]	_
+o.0.0	SAL
 o.0.0	sala4	Sala[1][-ak]	GN.GEN
 o.0.0	sa-mi-um-ma	Samium[1]-ak-ø	RN.GEN.ABS-OB
 o.0.0	sa-mi-um	Samium[1][-ak]	RN.GEN
 o.0.0	santana	santanak[gardener]	N
-o.0.0	SAR	_[_]	_
+o.0.0	SAR
 o.0.0	SAR-a-TI-gu-bi-si-in	Szaratigubisin[1]	RN
 o.0.0	sa	sa[advice][-ø]	N.ABS
 o.0.0	sa	sa[bundle]	N
 o.0.0	sa-szusz-gal-ni	saszuszgal[net]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	sa-szusz-gal	saszuszgal[net]	N
 o.0.0	sa-szusz-gal	saszuszgal[net][-ø]	N.ABS
-o.0.0	SI	_[_]	_
-o.0.0	si	_[_]	_
+o.0.0	SI
+o.0.0	si
 o.0.0	si2-mu-dar{ki}	Simudar[1][-ak][-ø]	SN.GEN.ABS
 o.0.0	si-am3	si[fill]-ø-am	V.ABS.COP-3-SG
 o.0.0	si-a-ra	si[fill]-'a-ak-ra	V.SUB.GEN.DAT-H
 o.0.0	|SI.A|-tum	Warartum	PN
 o.0.0	sig10-ga	sig[put]-'a	V.SUB
 o.0.0	sig10	sig[put]-'a	V.SUB
-o.0.0	SIG4	_[_]	_
+o.0.0	SIG4
 o.0.0	sig7-ga-gin7	sissi[green]-'a-gin	V.SUB.EQU
 o.0.0	sig9-ga	sig[put]-'a	V.SUB
 o.0.0	sig-ga-sze3	sig[weak]-'a-sze	V.SUB.TERM
-o.0.0	si-gi4-a	_[_]	_
+o.0.0	si-gi4-a
 o.0.0	sig-sig-sze3	sig[weak]sig-sze	V-RDP.TERM
 o.0.0	sig-sig-ta	sig[weak]sig-ta	V-RDP.ABL
 o.0.0	sig	sig[weak][-ø]	V.ABS
@@ -4949,7 +4949,7 @@ o.0.0	su4-a-asz2-ta-kal2	Suasztakal[1]	PN
 o.0.0	su4-ru-usz2-GI	Szuruszkin[1]	PN
 o.0.0	su6-mu2	Sumu[1]	PN
 o.0.0	su-ba	su[flesh]-bi-'a	N.3-SG-NH-POSS.L1
-o.0.0	SUD	_[_]	_
+o.0.0	SUD
 o.0.0	sud-a-da	sud[distant]-'a-da	V.SUB.COM
 o.0.0	sud-gu10	sud[distant]-gu[-ø]	V.1-SG-POSS.ABS
 o.0.0	sud-ra2	sud[distant]-'a[-ø]	V.SUB.ABS
@@ -4961,7 +4961,7 @@ o.0.0	sug	sug[marsh]	N
 o.0.0	sug	sug[marsh][-ø]	N.ABS
 o.0.0	sug-ta	sug[marsh]-ta	N.ABL
 o.0.0	suhur{ku6}	suhur[carp]	N
-o.0.0	SUHUSZ	_[_]	_
+o.0.0	SUHUSZ
 o.0.0	suhusz-a-ni	suhusz[foundation]-ani[-ø]	N.3-SG-H-POSS.ABS
 o.0.0	suhusz-bi	suhusz[foundation]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	suhusz-ni	suhusz[foundation]-ani[-ø]	N.3-SG-H-POSS.ABS
@@ -4988,7 +4988,7 @@ o.0.0	surx(ERIN2)-ra	sur[people]-ak	N.GEN
 o.0.0	surx(ERIN2)	sur[people]	N
 o.0.0	su-sin2{ki}-na	Szuszin[Susa]-'a	SN.L2-NH
 o.0.0	su-zi	suzi[radiance][-ø]	N.ABS
-o.0.0	sza	_[_]	_
+o.0.0	sza
 o.0.0	sza3-tam	szatam[official]	N
 o.0.0	sza3-tam	szatam[official][-ø]	N.ABS
 o.0.0	sza-at-{d}suen	Szatsuen[1]	PN
@@ -4999,7 +4999,7 @@ o.0.0	szabra-e2	szabraek	N
 o.0.0	szabra	szabra[administrator]ak[-ø]	NGEN.ABS
 o.0.0	szabra	szabra[administrator]	N
 o.0.0	szabra	szabra[administrator][-ø]	N.ABS
-o.0.0	SZAG4	_[_]	_
+o.0.0	SZAG4
 o.0.0	szag4-ba	szag[heart]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	szag4-bi-a	szag[heart]-bi-'a	N.3-SG-NH-POSS.L1
 o.0.0	szag4-bi	szag[heart]-bi[-ø]	N.3-SG-NH-POSS.ABS
@@ -5026,17 +5026,17 @@ o.0.0	szag4	szag[heart][-ø]	N.ABS
 o.0.0	szag4-zu	szagzu[midwife][-e]	N.ERG
 o.0.0	szaga-a	szagar[oppressed]-'a	V.L1
 o.0.0	szagan	szagan[flask]	N
-o.0.0	SZAGINA	_[_]	_
+o.0.0	SZAGINA
 o.0.0	szagina-bi	szakkanak[general]-bi[-da]	N.DEM2.COM
 o.0.0	szagina	szakkanak[general][-ak][-ø]	N.GEN.abs
 o.0.0	szagina	szakkanak[general]	N
 o.0.0	szar2-gal	szargal[216000]	NU
 o.0.0	szar2-gaz	Szargaz[1]	ON
-o.0.0	|SZAR2×KASKAL|	_[_]	_
+o.0.0	|SZAR2×KASKAL|
 o.0.0	szar2-ra-ab-du	szarrabdu[administrator][-ak][-ø]	N.GEN.ABS
 o.0.0	szar2-ra-na	szar[3600]-a-nn-a-b	NU.3-SG-H.DAT.3-SG-NH-P
 o.0.0	szar2-ra	szar[3600]-'a	NU.SUB
-o.0.0	|SZAR2×U@g|-ta	_[_]	_
+o.0.0	|SZAR2×U@g|-ta
 o.0.0	szar2-ur3	Szarur[1]	ON
 o.0.0	szar2-ur3-sze3	Szarur[1]-sze	ON.TERM
 o.0.0	szar-ru-GI-ka-ke4	Szarrukin[1]-ak-ak-e	RN.GEN.GEN.ERG
@@ -5103,9 +5103,9 @@ o.0.0	szita-ab-ba	szita'aba[priest][-ø]	N.ABS
 o.0.0	szita-esz3	szita'esza[priest]	N
 o.0.0	szitax(|KAK.GISZ|)-ba	szita[weapon]-bi[-ak]	N.DEM2.GEN
 o.0.0	szitax(|KAK.GISZ|)	szita[weapon]	N
-o.0.0	szi-te-'-u2	_[_]	_
-o.0.0	SZU	_[_]	_
-o.0.0	szu	_[_]	_
+o.0.0	szi-te-'-u2
+o.0.0	SZU
+o.0.0	szu
 o.0.0	szu2-sze3	szusz[cover]-sze	V.TERM
 o.0.0	szu4-dul4-la	szudul[yoke]-'a	N.L1
 o.0.0	szu-a	szu[hand]-'a	N.L2-NH
@@ -5197,10 +5197,10 @@ o.0.0	ta2-di3-in-{d}INANA	Tadinesztar[1]	PN
 o.0.0	ta2-hi-isz-a-tal	Tahiszatal[1]	PN
 o.0.0	ta2-ra-am-urim2{ki}	Taramurim[1]	PN
 o.0.0	ta2-ra-am-urim5{ki}	Taramurim[1][-ak][-ø]	Taramurim.GEN.ABS
-o.0.0	TAG	_[_]	_
+o.0.0	TAG
 o.0.0	tag	tag[touch][-ø]	V.ABS
 o.0.0	tam2-szi-lum-bi	tamszilum[image]-bi[-ø]	N.3-SG-NH-POSS.ABS
-o.0.0	ta-mar-ti	_[_]	_
+o.0.0	ta-mar-ti
 o.0.0	tam-szi-lum-bi	tamszilum[image]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	tarah	tarah[goat]	N
 o.0.0	tar-ra-me	tar[cut]-'a-ø-men	V.SUB.ABS.COP-2-SG
@@ -5236,7 +5236,7 @@ o.0.0	til3-til3	til[live]til	V-RDP
 o.0.0	til3	til[live]-e	V.DAT-NH
 o.0.0	til3	til[live][-ø]	V.ABS
 o.0.0	tilla3	tilla[street]	N
-o.0.0	TIL-sze3	_[_]	_
+o.0.0	TIL-sze3
 o.0.0	ti-ra-asz2-ka-ni	Tirasz[1]-ak-ani[-ø]	TN.GEN.3-SG-H-POSS.ABS
 o.0.0	ti-ra-asz2-ka	Tirasz[1]-ak-'a	TN.GEN.L2-NH
 o.0.0	ti-ra-asz2{ki}	Tirasz[1][-ak][-ø]	TN.GEN.ABS
@@ -5252,7 +5252,7 @@ o.0.0	ti-ru	Tiru[1]	PN
 o.0.0	ti-ta	ti[arrow]-ta	N.ABL
 o.0.0	ti	ti[arrow][-ø]	N.ABS
 o.0.0	ti₈-uz	ti'uz[bird][-ø]	N.ABS
-o.0.0	ti-x-bi-ni	_[_]	_
+o.0.0	ti-x-bi-ni
 o.0.0	tu2-gu10-ra	tu-'a-gu-ra	V.SUB.1-SG-POSS.DAT-H
 o.0.0	tu5-a	tu[cvve]-'a	V.SUB
 o.0.0	tud-da-ni	utud[bear]-'a[-ra]	V.SUB.DAT-H
@@ -5292,13 +5292,13 @@ o.0.0	TUN3-KU6-SUHUR-a	suhurtunbar[fish][-ø]	N.ABS
 o.0.0	tun3-la2-ba	tunla[vessel]-bi[-ak]	N.DEM2.GEN
 o.0.0	tun3	tun[ax]	N
 o.0.0	tun3	tun[ax][-ø]	N.ABS
-o.0.0	TUR	_[_]	_
+o.0.0	TUR
 o.0.0	tur3	tur[stall][-ø]	N.ABS
 o.0.0	tu-ra-am-{d}da-gan	Turamdagan[1]	PN
 o.0.0	tur	tur[small]	V
 o.0.0	tusz-a-sze3	tusz[sit]-'a-sze	V.SUB.TERM
-o.0.0	tu-x-da	_[_]	_
-o.0.0	U2	_[_]	_
+o.0.0	tu-x-da
+o.0.0	U2
 o.0.0	u2-a	ua[provisioner]	N
 o.0.0	u2-du-bi	udul[herdsman]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	u2-du-le	udul[herdsman]-e	N.ERG
@@ -5314,7 +5314,7 @@ o.0.0	u2-ṣa-ar-gar-sza-na{ki}	Uṣargarszana[1][-ak]	SN.GEN
 o.0.0	u2-sal-la	usal[meadow]-'a	N.L2-NH
 o.0.0	u2-si19-ni	muzug[person][-ø]	N.ABS
 o.0.0	u2-sig-ni	muzug[person][-ø]	N.ABS
-o.0.0	u2-ṣu2-ra-a-ti	_[_]	_
+o.0.0	u2-ṣu2-ra-a-ti
 o.0.0	u2-szim-gin7	uszim[greenery]-gin	N.EQU
 o.0.0	u2-tul2-e2-a	Utulea[1]	PN
 o.0.0	u2-tum	Utum[1][-ak][-e]	PN.GEN.ERG
@@ -5351,12 +5351,12 @@ o.0.0	u6-e	u[admiration]-e	N.DAT.NH
 o.0.0	u6-ga	u[admiration]-'a	N.L2.NH
 o.0.0	u6-nir-x	unir[ziggurat]-x	N.X
 o.0.0	u6	u[admiration][-ø]	N.ABS
-o.0.0	UB	_[_]	_
+o.0.0	UB
 o.0.0	u-bar	Ubar[1]	PN
 o.0.0	ub-e	ub[corner]-e	N.ERG
 o.0.0	ub	ub[corner]	N
 o.0.0	ubur	ubur[breast]	N
-o.0.0	u@c	_[_]	_
+o.0.0	u@c
 o.0.0	UD	_	
 o.0.0	ud5	uzud[goat]	N
 o.0.0	ud-ba	ud[sun]-bi-'a	N.DEM2.L1
@@ -5391,7 +5391,7 @@ o.0.0	ug3	ug[people][-ø]	N.ABS
 o.0.0	ug5-ga	ug-N'a[-ak]	V.NSUB.N%=GEN
 o.0.0	ugnim-gu10	ugnim[army]-gu[-e]	N.1-SG-POSS.ERG
 o.0.0	ugnim	ugnim[army]	N
-o.0.0	UGU2	_[_]	_
+o.0.0	UGU2
 o.0.0	ugu4-gu10	ugu[bear]-'a-gu[-e]	V.SUB.ERG
 o.0.0	ugu-ga2-ka	ugu[bear]-'a-gu-ak-'a	V.SUB.GEN.L1-OB
 o.0.0	ugula-e2	ugula'ek[overseer][-ak][-ø]	N.GEN.ABS
@@ -5469,12 +5469,12 @@ o.0.0	unug{ki}	Unug[1][-ak]	SN.GEN
 o.0.0	unug{ki}	Unug[1]-'a	SN.L2-NH
 o.0.0	unug{ki}	Unug[1][-ø]	SN.ABS
 o.0.0	unug{ki}	Unug[1]	SN
-o.0.0	UR	_[_]	_
+o.0.0	UR
 o.0.0	ur2-be2	ur[root]-bi-e	N.3-SG-NH-POSS.L3-NH
 o.0.0	ur2-bi	ur[root]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	ur2-ra-x	Ura-X[1]	PN
 o.0.0	ur2	ur[root]	N
-o.0.0	ur3	_[_]	_
+o.0.0	ur3
 o.0.0	ur3-re-ba-ab-du7	Urebabdu[1]	PN
 o.0.0	ur4	ur[convulsed]	V
 o.0.0	ur5-bi	urra[loan]-bi[-ø]	N.3-SG-NH-POSS.ABS
@@ -5610,7 +5610,7 @@ o.0.0	ur-gir15	urgir[dog][-ak]	N.GEN
 o.0.0	ur-gu10	Urgu[1]	PN
 o.0.0	ur-gu-la-gu10	Urgulagu[1]	PN
 o.0.0	ur-gu	Urgu[1]	PN
-o.0.0	URI	_[_]	_
+o.0.0	URI
 o.0.0	ur-igi	Urigi[1]	PN
 o.0.0	URIM2{ki}	_	_
 o.0.0	urim2{ki}-e	Urim[1]-e	SN.ERG
@@ -5701,7 +5701,7 @@ o.0.0	ur-szubur	Urszubur[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	ur-szu-ga-lam-ma	Urszugalamak[1][-ak][-ø]	PN.GEN.ABS
 o.0.0	ur-szu-zid-an-ka	Urszuzidanakak[1]	PN
 o.0.0	ur-tesz2	Urtesz[1][-ak][-ø]	PN.GEN.ABS
-o.0.0	URU	_[_]	_
+o.0.0	URU
 o.0.0	uru12-de3	ur[drag]-ed-e	V.PF.DAT-NH
 o.0.0	uru16-na-ke4	urun[exalted]-ak-e	V.GEN.ERG
 o.0.0	uru16-na	urun[exalted]-ak	V.GEN
@@ -5709,7 +5709,7 @@ o.0.0	uru16-ra	urun[exalted]-ra	V.DAT-H
 o.0.0	uru16	urun[exalted][-ø]	V.ABS
 o.0.0	uru16	urun[exalted]	V
 o.0.0	uru1₈	ur[root]-'a	N.L1
-o.0.0	uru1₈(|URU×A|)	_[_]	_
+o.0.0	uru1₈(|URU×A|)
 o.0.0	uru4-a	uru[sow]-'a[-ak]	V.SUB.GEN
 o.0.0	uru5	urra[loan]-sze	N.TERM
 o.0.0	|URU×A.A|{ki}-ta	Arawa[1]-ta	SN.ABL
@@ -5746,7 +5746,7 @@ o.0.0	ussu-bi	ussu[eight]-bi	NU.3-SG-NH-POSS
 o.0.0	usz-bi	usz[foundation]-bi	N.3-SG-NH-POSS
 o.0.0	usz-bi	usz[foundation]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	usz-gu10	Uszgu[1]	PN
-o.0.0	USZUM	_[_]	_
+o.0.0	USZUM
 o.0.0	uszum-bi	uszum[snake]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.0.0	uszumgal-kalam-ma	Uszumgalkalamak[1][-ø]	ON.ABS
 o.0.0	uszumgal-ni	uszumgal[dragon]-ani[-ø]	N.3-SG-H-POSS.ABS
@@ -5761,83 +5761,83 @@ o.0.0	utu-szusz-ra	utuszusz[sunset]-ak-ra	N.GEN.DAT-H
 o.0.0	u₈	u[ewe]	N
 o.0.0	uzug5-ga	muzug[person][-ak]	N.GEN
 o.0.0	wa-qar-tum	Waqartum[1][-ø]	PN.ABS
-o.0.0	X	_[_]	_
-o.0.0	x	_[_]	_
+o.0.0	X
+o.0.0	x
 o.0.0	x	_	
-o.0.0	x-a	_[_]	_
+o.0.0	x-a
 o.0.0	x-a	_	
 o.0.0	x-aga3-zid	X-agazid[1]	PN
 o.0.0	x-al{ki}	X-AL[1]	GN
-o.0.0	x-AN	_[_]	_
-o.0.0	x-a-ni	_[_]	_
-o.0.0	x-a-ni-ir	_[_]	_
+o.0.0	x-AN
+o.0.0	x-a-ni
+o.0.0	x-a-ni-ir
 o.0.0	x-an-na-tum2	X-anatum[1]	RN
-o.0.0	x-ba	_[_]	_
-o.0.0	x-bi	_[_]	_
-o.0.0	x-bi-sze3	_[_]	_
-o.0.0	x-da	_[_]	_
-o.0.0	x-dab5-ba-a	_[_]	_
+o.0.0	x-ba
+o.0.0	x-bi
+o.0.0	x-bi-sze3
+o.0.0	x-da
+o.0.0	x-dab5-ba-a
 o.0.0	x-de3	_	
 o.0.0	x-{d}en-lil2	X-enlil[1]	PN
 o.0.0	x-{d}isztaran-ta	X-Isztaran[1]-ta	GN.ABL
-o.0.0	x-{d}x	_[_]	_
-o.0.0	x-e	_[_]	_
-o.0.0	x-ga	_[_]	_
-o.0.0	x-ga2-ni	_[_]	_
-o.0.0	x-gal2	_[_]	_
+o.0.0	x-{d}x
+o.0.0	x-e
+o.0.0	x-ga
+o.0.0	x-ga2-ni
+o.0.0	x-gal2
 o.0.0	x-GAL-NIMGIR	X-GAL-NIMGIR[1]	GN
 o.0.0	x-gal-x	X-gal-X[1]	GN
-o.0.0	x-ga-na	_[_]	_
-o.0.0	x-ge	_[_]	_
-o.0.0	x-gin7	_[_]	_
-o.0.0	x-gu10	_[_]	_
+o.0.0	x-ga-na
+o.0.0	x-ge
+o.0.0	x-gin7
+o.0.0	x-gu10
 o.0.0	x-GUR₈-x	X-GUR₈-X[1]	GN
 o.0.0	x-ha-lam	x-n-halam-ø	X.3-SG-H-A.V.3-SG-P
 o.0.0	x-i3-li2	X-ili[1]	PN
-o.0.0	x-IL	_[_]	_
-o.0.0	x-IL2	_[_]	_
-o.0.0	x-KA	_[_]	_
-o.0.0	x-ka	_[_]	_
+o.0.0	x-IL
+o.0.0	x-IL2
+o.0.0	x-KA
+o.0.0	x-ka
 o.0.0	x-kalam-ma	X-kalama[1]	PN
 o.0.0	x-kal-la	X-kala[1]	PN
-o.0.0	x-ka-x	_[_]	_
-o.0.0	x-ke4	_[_]	_
-o.0.0	x{ki}	_[_]	_
+o.0.0	x-ka-x
+o.0.0	x-ke4
+o.0.0	x{ki}
 o.0.0	x-ki{ki}	X-ki[1]	GN
 o.0.0	x{ki}-ta	X[4]-ta	GN.ABL
 o.0.0	x-ki-tusz-dug3	X-kituszdug[1][-ø]	PN.ABS
 o.0.0	x{ki}	X[3]	GN
 o.0.0	x-ku-bu-um	X-kubum[1]	PN
-o.0.0	X-la	_[_]	_
+o.0.0	X-la
 o.0.0	x-lam-x	X-lam-X[1]	GN
 o.0.0	x-lam-x	X-lam-X[2]	GN
-o.0.0	x-le	_[_]	_
-o.0.0	x-ma	_[_]	_
-o.0.0	x-me-en	_[_]	_
-o.0.0	x-MU	_[_]	_
+o.0.0	x-le
+o.0.0	x-ma
+o.0.0	x-me-en
+o.0.0	x-MU
 o.0.0	x-MU	X-MU[1]	PN
 o.0.0	x-na-na	X-nana[1]	PN
-o.0.0	x-ne	_[_]	_
-o.0.0	x-ne-da	_[_]	_
-o.0.0	x-ni	_[_]	_
+o.0.0	x-ne
+o.0.0	x-ne-da
+o.0.0	x-ni
 o.0.0	x-ni-ku4-ku4-x	x	X
-o.0.0	x-nir-ke4	_[_]	_
+o.0.0	x-nir-ke4
 o.0.0	x-nir-ki-dug3-ge	X-nirkidug[1]-e	PN.ERG
-o.0.0	x-ni-sze3	_[_]	_
-o.0.0	x-pad3-da-a	_[_]	_
-o.0.0	x-ra	_[_]	_
+o.0.0	x-ni-sze3
+o.0.0	x-pad3-da-a
+o.0.0	x-ra
 o.0.0	x-ra-sze3	_	
-o.0.0	x-re2	_[_]	_
+o.0.0	x-re2
 o.0.0	x-sag9-ga	X-saga[1]	PN
-o.0.0	x-si	_[_]	_
-o.0.0	x-sze3	_[_]	_
-o.0.0	x-ta	_[_]	_
+o.0.0	x-si
+o.0.0	x-sze3
+o.0.0	x-ta
 o.0.0	x-TUR	X-TUR[1]	PN
-o.0.0	x-x	_[_]	_
-o.0.0	x-x-a	_[_]	_
-o.0.0	x-x-a{ki}-ta	_[_]	_
+o.0.0	x-x
+o.0.0	x-x-a
+o.0.0	x-x-a{ki}-ta
 o.0.0	x-x-a	X-A[1]	PN
-o.0.0	x-x-da-a	_[_]	_
+o.0.0	x-x-da-a
 o.0.0	x-x-da-x-x	X-DA-X[1]	PN
 o.0.0	x-x-{d}isztaran-sze3	X-Isztaran[1]-sze	GN.TERM
 o.0.0	x-x-DU-ka-ke4	X-DU[1]-ak-e	PN.GEN.ERG
@@ -5845,17 +5845,17 @@ o.0.0	x-x{ki}	X[1][-ak][-ø]	GN.GEN.ABS
 o.0.0	x-x{ki}	X[2]	GN
 o.0.0	x-x-la2-ka	X-LA2[1]-ak	GN.GEN
 o.0.0	x-x-ma-at	X-MA-AT[1]	PN
-o.0.0	x-x-na	_[_]	_
-o.0.0	x-x-na-ni	_[_]	_
-o.0.0	x-x-ra	_[_]	_
+o.0.0	x-x-na
+o.0.0	x-x-na-ni
+o.0.0	x-x-ra
 o.0.0	x-x-ri-ni{ki}	X-rini[1]	GN
-o.0.0	x-x-ta	_[_]	_
-o.0.0	x-x-ta-x	_[_]	_
-o.0.0	x-x-TI-a-ke4	_[_]	_
-o.0.0	x-x-x	_[_]	_
+o.0.0	x-x-ta
+o.0.0	x-x-ta-x
+o.0.0	x-x-TI-a-ke4
+o.0.0	x-x-x
 o.0.0	x-x	X[2][-ak][-ø]	PN.GEN.ABS
 o.0.0	x-x-x	X[1]	PN
-o.0.0	x-zu-ta	_[_]	_
+o.0.0	x-zu-ta
 o.0.0	za3-mi2	zamin[lyre][-ak]	N.GEN
 o.0.0	za3-mi2	zamin[lyre][-ø]	N.ABS
 o.0.0	za3-ni-x	Zani-X[1]	PN
