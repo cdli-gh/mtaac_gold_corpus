@@ -1,0 +1,12 @@
+#new_text=P500145
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	lu2-ki-x
+o.2.1	x-x-x
+o.3.1	ki-ur-AN
+r.1.1	1(disz)
+r.1.2	mu
+r.2.1	x-DU
+r.3.1	x-ba
+r.4.1	x-bala
+r.5.1	mu
+r.5.2	{d}szu-x
