@@ -1,10 +1,10 @@
 #new_text=P107368		
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC													
-o.1.1	pisan-dub-ba	bisagdubak[archivist]	N																
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N																
 o.2.1	e2-tum	bitum[~administration]	N																
 o.3.1	{d}en-lil2-la2	Enlil[1]-ak	DN.GEN	Enlil[1][-ak]	DN.GEN	Enlil[1][-ak]	DN.GEN.ABS	Enlil[1][-ak][-ak]	DN.GEN.GEN	Enlil[1][-ak][-ak][-ø]	DN.GEN.GEN.ABS	Enlil[1][-ak][-ak][-ra]	DN.GEN.GEN.DAT-H	Enlil[1]-ak	DN.GEN	Enlilak[2]	PN	Enlil[1][-ak][-ø]	DN.GEN.ABS
 o.4.1	igi-sze3	igi[face]-sze	N.TERM																
 o.5.1	en3-bi	en[CVNE]-bi	N.3-SG-H-POSS																
 o.5.2	tar-re	tar[ask]-ed	V.PF																
-o.6.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS												
-o.6.2	gu-za-ni	Guzani[1]	PN																
+o.6.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS												
+o.6.2	gu-za-ni	Guzani[1][-ak]	PN.GEN																
