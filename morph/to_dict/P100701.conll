@@ -1,0 +1,24 @@
+#new_text=P100701													
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC							
+o.1.1	1(disz)	1(disz)[one]	NU										
+o.1.2	udu	udu[sheep]	N	udu[sheep][-ø]	N								
+o.1.3	kur-ra	kur[mountain]-ak[-ø]	N.GEN.ABS										
+o.1.4	Ba-usz2	ba-usz[die][-ø]	MID.V.3-SG-S										
+o.2.1	ki	ki[place]	N										
+o.2.2	ur-ru-ta	Urru[1][-ak]-ta	PN.GEN.ABL										
+o.3.1	a-kal-la	Akalla[1][-e]	PN.ERG	Akalla[1][-ak]	PN.GEN								
+o.3.2	szu	szu[hand]	N										
+o.3.3	ba-ti	ba[-n]-teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	ba[-n]-szu teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P								
+r.4.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN						
+r.4.2	nesag	Nesag[1]	MN	Nesag[1]	MN								
+r.5.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _						
+r.5.2	{d}szul-gi	Szulgi[1]	RN										
+r.5.3	lugal-e	lugal[king]-e	N.ERG										
+r.5.4	bad3	bad[wall]	N	bad[wall][-ø]	N.ABS								
+r.5.5	ma-da	mada[land][-ak][-ø]	N.GEN.ABS	mada[land][-ak][-ø]	N.GEN	mada[land][-ak][-ø]	N.GEN.ABS	mada[land][-ak]	N.GEN	mada[land]	N _  _ _	mada[land]	N.GEN
+r.5.6	mu-du3	mu[-n]-du[build][-ø]	VEN.3-SG-H-A.V.3-SG-P	m[-n]-du[build]-ø	VEN.3-SG-H-A.V.3-SG-P	mu-du-ø	VEN.V.3-SG-S						
+s1.1.1	a-kal-la	Akalla[1]	PN	Akalla[1][-ak]	PN.GEN								
+s1.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak]	N.GEN						
+s1.3.1	dumu	dumu[child]	N										
+s1.3.2	ur-nigar{gar}	Urnigar[1]	PN	Urnigar[1][-ak]	PN.GEN								
+s1.3.3	szusz3	szusz[cattle_manager][-ak]	N.GEN	kusz[official]	N								
