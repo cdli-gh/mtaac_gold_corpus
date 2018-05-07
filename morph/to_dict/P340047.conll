@@ -13,6 +13,6 @@ r.2.1	mu	mu[year]	N
 r.2.2	{d}szu-{d}suen	Szusuen[1]	RN	Szusuen[1][-ak][-ø]	RN.GEN.ABS
 r.2.3	lugal	lugal[king]	N	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[king][-e]	N.ERG	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-am]	N.COP-3-SG	lugal[king][-ra]	N.DAT-H
 r.2.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN.GEN.ERG
-r.2.5	ma-da	mada[land]	N.GEN	mada[land]	N
-r.2.6	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.2.5	ma-da	mada[land]	N	mada[land]	N
+r.2.6	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	SN.GEN.ABS
 r.2.7	mu-hul	mu[-n]-hulu[bad][-ø]	VEN.3-SG-H-A.V.3-SG-P
