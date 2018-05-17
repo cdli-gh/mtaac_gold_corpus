@@ -51,7 +51,7 @@ o.14.3	1(disz)	1(disz)[one]	NU
 o.14.4	udu	udu[sheep]	N
 o.14.5	a-lum	aslum[sheep]	N
 o.15.1	4(u)	4(u)[ten]	NU
-o.15.2	gukkal	gukkal[sheep]	N
+o.15.2	gukkal	gukkal[fat-tailed_sheep]	N
 o.16.1	5(gesz2)	5(gesz)[sixty]	NU
 o.16.2	8(disz)	8(disz)[one]	NU
 o.16.3	u8	us[sheep]	N
@@ -74,7 +74,7 @@ r.5.2	6(disz)	6(disz)[one]	NU
 r.5.3	ud5	uzud[goat]	N
 r.6.1	1(disz)	1(disz)[one]	NU
 r.6.2	kir11	kir[lamb]	N
-r.6.3	gukkal	gukkal[sheep][-ø]	N.ABS
+r.6.3	gukkal	gukkal[fat-tailed_sheep][-ø]	N.ABS
 r.7.1	mu-kux(DU)	mu[-n]-kur[enter][-ø]	VEN.3-SG-H-A.V.3-SG-P
 r.7.2	lugal	lugal[king][-ra]	N.DAT-H
 r.8.1	ki	ki[place]	N
