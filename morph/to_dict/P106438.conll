@@ -235,15 +235,15 @@ r.col1.13.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ø]	N	udu[sheep]	
 r.col1.13.4	bar-su-ga	barsuga[~sheep]	N
 r.col1.14.1	2(disz)	2(disz)[one]	NU
 r.col1.14.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
-r.col1.15.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
-r.col1.15.2	ur-e11-e	Ure'e[1]	PN
-r.col1.16.1	ugu2	ugu[skull]	N
+r.col1.15.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS
+r.col1.15.2	ur-e11-e	Ure'e[1][-ak]	PN.GEN
+r.col1.16.1	ugu2	ugu[capital]	N
 r.col1.16.2	lu2-{d}suen	Lusuen[1][-ak]	PN.GEN	Lusuen[2]	PN	Lusuen[3]	PN	Lusuen[4][-ak][-ø]	PN.GEN.ABS
 r.col1.17.1	1(u)	1(u)[ten]	NU
 r.col1.17.2	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 r.col1.17.3	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
-r.col1.18.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
-r.col1.18.2	ba-sa6	Basa[1]	PN
+r.col1.18.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS
+r.col1.18.2	ba-sa6	Basa[1][-ak]	PN.GEN
 r.col1.19.1	8(disz)	8(disz)[one]	NU
 r.col1.19.2	masz2	masz[goat]	N	masz[goat][-ø]	N.ABS	masz[goat]	N
 r.col1.20.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
