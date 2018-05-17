@@ -95,7 +95,7 @@ r.13.2	1(asz)	1(asz)[one]	NU
 r.13.3	3(barig)	3(bariga)[unit]	N				
 r.13.4	5(ban2)	5(ban)[unit]	N	2(ban)[unit]	N		
 r.13.5	kasz	kasz[beer]	N				
-r.13.6	du	du[a_quality_designation]	N				
+r.13.6	du	du[quality_designation]	N				
 r.13.7	gur	gur[unit]	N				
 r.14.1	zi-ga	ziga[expenditure]	N	N			
 r.14.2	u4	ud[day]	N				
