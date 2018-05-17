@@ -17,7 +17,7 @@ o.5.1	erin2	erin[people]	N	erin[people][-e]	N.ERG	erin[people][-ø]	N.ABS
 o.5.2	pu-ut-tu-li-um{ki}	Puttuli'um[1][-ak]	SN.GEN			
 o.6.1	ugula	ugula[overseer]	N	ugula[overseer][-e]	N.ERG	ugula[overseer][-ø]	N.ABS																
 o.6.2	ib-ni-{d}szul-gi	Ibniszulgi[1]	PN			
-o.7.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS																
+o.7.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS																
 o.7.2	ad-da-mu	Addamu[1]	PN			
 o.7.3	lu2	lu[person]	N	lu[person][-e]	N.ERG	lu[person][-ø]	N.ABS																
 o.7.4	kin-gi4-a	kiggia[messenger]	N			
@@ -27,9 +27,9 @@ o.8.2	ma-da	mada[land][-ak]	N.GEN	mada[land]	N
 r.1.1	mu-kux(DU)	mu[-n]-kur[enter][-ø][-a]	VEN.L1-SYN.V.3-SG-S.SUB	mu[-n]-kur[enter][-ø]	VEN.3-SG-H-A.V.3-SG-P	
 r.2.1	in-ta-e3-a	Intaea[1][-e]	PN.ERG			
 r.3.1	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.ABS	
-r.4.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS																
+r.4.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS																
 r.4.2	{d}nanna-ma-ba	Nannamaba[1]	PN	Nannamaba[2][-ak][-ø]	PN.GEN.ABS	
-r.4.3	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak][-e]	N.GEN.ERG	dubsar[scribe][-ak][-ø]	N.GEN.ABS	dubsar[scribe][-ø]	N.ABS												
+r.4.3	dub-sar	dubsar[scribe][-ak]	N.GEN	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak][-e]	N.GEN.ERG	dubsar[scribe][-ak][-ø]	N.GEN.ABS	dubsar[scribe][-ø]	N.ABS												
 r.5.1	u4	ud[day]	N			
 r.5.2	2(u)	2(u)[ten]	NU	
 r.5.3	5(disz)-kam	5(disz)[one]-ak-am	NU.GEN.COP-3-SG			
