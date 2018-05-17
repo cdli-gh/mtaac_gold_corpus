@@ -16,7 +16,7 @@ r.1.2	dal	Dal[1]	MN
 r.2.1	mu	mu[year]	N				
 r.2.2	ma2	ma[ship]	N				
 r.2.3	{d}en-ki	Enki[1][-ak][-ø]	DN.GEN.ABS				
-r.2.4	ba-ab-du8	ba-b-du[spread][-ø]	MID.3-SG-NH-A.V.3-SG-P				
+r.2.4	ba-ab-du8	ba-b-du[caulk][-ø]	MID.3-SG-NH-A.V.3-SG-P				
 s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN				
 s1.col1.2.1	lugal	lugal[king]	N	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ak]	N.GEN
 s1.col1.2.2	kal-ga	kalag[strong]-a	V.SUB				
@@ -26,7 +26,7 @@ s1.col1.4.1	lugal	lugal[king]	N	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ak]
 s1.col1.4.2	an	an[sky]	N				
 s1.col1.4.3	ub-da	ub[corner]-da	N.COM				
 s1.col1.4.4	limmu2-ba	limmu[four]-bi-ak	NU.3-SG-POSS.GEN				
-s1.col2.1.1	a-a-kal-la	Ayakala[1]	PN				
+s1.col2.1.1	a-a-kal-la	A'akala[1]	PN				
 s1.col2.2.1	ensi2	ensik[ruler]	N				
 s1.col2.3.1	umma{ki}	Umma[1][-ak]	SN.GEN				
 s1.col2.4.1	ARAD2-zu	Aarad[slave]-zu	N.2-SG-POSS				
