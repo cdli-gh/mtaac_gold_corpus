@@ -22,9 +22,9 @@ o.7.2	ad-da-mu	Addamu[1]	PN
 o.7.3	lu2	lu[person]	N	lu[person][-e]	N.ERG	lu[person][-ø]	N.ABS																
 o.7.4	kin-gi4-a	kiggia[messenger]	N			
 o.7.5	lugal	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[king][-e]	N.ERG	lugal[king][-ak][-ak][-ø]	N.GEN.GEN.ABS	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-am]	N.COP-3-SG	lugal[king][-ra]	N.DAT-H
-o.8.1	gu2	gun[load]	N	gu[entirety]	N	gu[neck]-'a	N.L2-NH	gu[neck]	N	gu[neck][-ø]	N.ABS	gun[load]	N										
+o.8.1	gu2	gun[tribute]	N	gu[entirety]	N	gu[neck]-'a	N.L2-NH	gu[neck]	N	gu[neck][-ø]	N.ABS	gun[load]	N										
 o.8.2	ma-da	mada[land][-ak]	N.GEN	mada[land]	N	
-r.1.1	mu-kux(DU)	mu[-n]-kur[enter][-ø][-a]	VEN.L1-SYN.V.3-SG-S.SUB	mu[-n]-kur[enter][-ø]	VEN.3-SG-H-A.V.3-SG-P	
+r.1.1	mu-kux(DU)	mu[-n]-kur[enter][-ø][-a][-ø]	VEN.L1-SYN.V.3-SG-S.SUB.ABS	mu[-n]-kur[enter][-ø]	VEN.3-SG-H-A.V.3-SG-P	
 r.2.1	in-ta-e3-a	Intaea[1][-e]	PN.ERG			
 r.3.1	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.ABS	
 r.4.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS																
