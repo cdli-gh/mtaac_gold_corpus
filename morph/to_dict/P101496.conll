@@ -37,7 +37,7 @@ o.5.2	ma-na	mana[unit]	N
 o.5.3	siki-kur-ra	sikikurra[type_of_wool]	N						
 o.5.4	tug2	tug[textile]	N						
 o.5.5	nig2-lam2	niglam[garment][-ak]	N.GEN						
-o.5.6	du	du[a_quality_designation]	N	gin[establish]	N	du[quality_designation]	N	du[go][-a]	V.SUB
+o.5.6	du	du[quality_designation]	N	gin[establish]	N	du[quality_designation]	N	du[go][-a]	V.SUB
 o.6.1	sza3	szag[heart]	N	szag[heart]					
 o.6.2	siki	siki[wool]	N	siki[hair]	N	siki[wool][-ø]	N.ABS		
 o.6.3	tug2	tug[textile]	N						
