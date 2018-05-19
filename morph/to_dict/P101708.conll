@@ -17,12 +17,12 @@ o.col1'.5'.3	n	_[_]	NU
 o.col1'.5'.4	1(iku)	1(iku)[unit]	N			
 o.col1'.5'.5	ki	ki[place]	N			
 o.col1'.6'.1	...	_[_]	_			
-o.col1'.6'.2	GAN2	GAN[field]	N			
+o.col1'.6'.2	GAN2	GAN[surface]	N			
 r.col1'.1'.1	...	_[_]	_			
 r.col1'.1'.2	x	_[_]	_			
 r.col1'.1'.3	...	_[_]	_			
 r.col1'.2'.1	...	_[_]	_			
-r.col1'.2'.2	GAN2	GAN[field]	N			
+r.col1'.2'.2	GAN2	GAN[surface]	N			
 r.col1'.3'.1	...	_[_]	_			
 r.col1'.3'.2	GAN2	GAN[field]	N			
 r.col1'.3'.3	5(asz)	5(asz)[one]	NU			
