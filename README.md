@@ -1,11 +1,11 @@
 # MTAAC Gold Corpus
 
 ## License
-MTAAC Gold Corpus by MTAAC Contributors (see CONTRIBUTORS.txt)
+MTAAC Gold Corpus by MTAAC Contributors (see [CONTRIBUTORS.txt](https://github.com/cdli-gh/mtaac_gold_corpus/blob/master/CONTRIBUTORS.txt))
 
 To the extent possible under law, the person who associated CC0 with MTAAC Gold Corpus has waived all copyright and related or neighboring rights to MTAAC Gold Corpus.
 
-You should have received a copy of the CC0 legalcode along with this work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+You should have received a copy of the [CC0 legalcode along with this work](https://github.com/cdli-gh/mtaac_gold_corpus/blob/master/LICENSE).  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 
 ### Citation
