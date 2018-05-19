@@ -9,11 +9,11 @@ You should have received a copy of the CC0 legalcode along with this work.  If n
 
 
 ### Citation
-If you use this data in any way in academic context, authors must be cited.
+If you use this data in any way in academic context, authors must be cited (see CONTRIBUTORS.txt). 
 
 ## Description
 2018/03/07
-In this repository is the alpha gold corpus for the MTAAC project.
+In this repository is the annotation gold corpus for the MTAAC project.
 
 At this time it contains morphologically annotated texts and a pseudo-CoNLL-U version of the ETCSRI corpus.
 
