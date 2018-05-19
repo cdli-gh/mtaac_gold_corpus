@@ -8,13 +8,13 @@ o.col1'.2'.2	...	_[_]	_
 o.col1'.3'.1	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_	
 o.col1'.3'.2	2(esze3)	2(esze)[unit]	N			
 o.col1'.3'.3	3(iku)	3(iku)[unit]	N			
-o.col1'.3'.4	GAN2	GAN[field]	N			
+o.col1'.3'.4	GAN2	GAN[surface]	N			
 o.col1'.3'.5	...	_[_]	_			
 o.col1'.4'.1	2(esze3)	2(esze)[unit]	N			
 o.col1'.4'.2	3(iku)	3(iku)[unit]	N			
 o.col1'.4'.3	1/2(iku)	1/2(iku)[unit]	N			
 o.col1'.4'.4	1/4(iku)	1/4(iku)[unit]	N			
-o.col1'.4'.5	GAN2	GAN[field]	N			
+o.col1'.4'.5	GAN2	GAN[surface]	N			
 o.col1'.4'.6	...	_[_]	_			
 o.col1'.5'.1	2(esze3)	2(esze)[unit]	N			
 o.col1'.5'.2	4(iku)	4(iku)[unit]	N			
