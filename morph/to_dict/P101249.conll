@@ -12,13 +12,13 @@ o.2.2	gin2	gig[unit]	N
 o.2.3	i3	i[oil]	N	i[oil][-ø]	N.ABS
 o.2.4	2(disz)	2(disz)[one]	NU
 o.2.5	gin2	gig[unit]	N
-o.2.6	naga	teme[plant]	N
+o.2.6	naga	naga[potash]	N
 o.3.1	1(disz)	1(disz)[one]	NU
 o.3.2	ku6	kud[fish]	N
 o.3.3	1(disz)	1(disz)[one]	NU
 o.3.4	sa	sa[bundle]	N	sa[bundle]	N
 o.3.5	szum2	szum[garlic]	N
-o.4.1	ur-pa4-gara2	Urpagara[1][-ra]	PN.DAT
+o.4.1	ur-pa4-gara2	Urpagara[1]	PN
 o.4.2	gaba-ta	gaba[frontier]-ta	N.ABL
 o.5.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.5.2	sila3	sila[unit]	N
@@ -32,13 +32,13 @@ o.6.2	gin2	gig[unit]	N
 o.6.3	i3	i[oil]	N
 o.6.4	2(disz)	2(disz)[one]	NU
 o.6.5	gin2	gig[unit]	N
-o.6.6	naga	teme[plant]	N
+o.6.6	naga	naga[potash]	N
 o.7.1	1(disz)	1(disz)[one]	NU
 o.7.2	ku6	kud[fish]	N
 o.7.3	1(disz)	1(disz)[one]	NU
 o.7.4	sa	sa[bundle]	N	sa[bundle]	N
 o.7.5	szum2	szum[garlic]	N
-r.1.1	lu2-{d}nanna#	Lunanna[1][-ra]	PN.DAT
+r.1.1	lu2-{d}nanna#	Lunanna[1]	PN
 r.2.1	5(disz)	5(disz)[one]	NU
 r.2.2	sila3	sila[unit]	N
 r.2.3	kasz	kasz[beer]	N
@@ -58,7 +58,7 @@ r.4.3	1(disz)	1(disz)[one]	NU
 r.4.4	sa	sa[bundle]	N	sa[bundle]	N
 r.4.5	szum2	szum[garlic]	N
 r.5.1	du10-ga-mu	Dugamu[1]	PN
-r.5.2	sukkal	sukkal[secretary][-ra]	N.DAT-H
+r.5.2	sukkal	sukkal[secretary]	N
 r.6.1	szunigin	szunigin[total]	N
 r.6.2	1(ban2)	1(ban)[unit]	N
 r.6.3	1(disz)	1(disz)[one]	NU

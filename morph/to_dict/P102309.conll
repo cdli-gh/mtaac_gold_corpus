@@ -16,7 +16,7 @@ o.4.3	mar-tu	Martu[Amorite]	AJ
 o.5.1	2(disz)	2(disz)[one]	NU
 o.5.2	gu4	gud[ox]	N
 o.5.3	mar-tu	Martu[Amorite]	AJ
-o.5.4	gun3-a	gunu[speckled].a	V.SUB
+o.5.4	gun3-a	gunu[speckled]-a	V.SUB
 o.6.1	1(disz)	1(disz)[one]	NU
 o.6.2	ab2	ab[cow]	N
 o.7.1	7(disz)	7(disz)[one]	NU
@@ -43,15 +43,15 @@ o.12.3	udu	udu[sheep]	N
 o.12.4	ge6	giggi[black][-a]	V.SUB
 o.13.1	1(disz)	1(disz)[one]	NU
 o.13.2	udu	udu[sheep]	N
-o.13.3	a-lum	aslum[sheep]	N
+o.13.3	a-lum	aslum[type_of_sheep]	N
 o.13.4	gesz-du3	geszdu[breeder]	N
 o.14.1	1(u)	1(u)[ten]	NU
 o.14.2	la2	lal[minus]	N
 o.14.3	1(disz)	1(disz)[one]	NU
 o.14.4	udu	udu[sheep]	N
-o.14.5	a-lum	aslum[sheep]	N
+o.14.5	a-lum	aslum[type_of_sheep]	N
 o.15.1	4(u)	4(u)[ten]	NU
-o.15.2	gukkal	gukkal[sheep]	N
+o.15.2	gukkal	gukkal[fat-tailed_sheep]	N
 o.16.1	5(gesz2)	5(gesz)[sixty]	NU
 o.16.2	8(disz)	8(disz)[one]	NU
 o.16.3	u8	us[sheep]	N
@@ -74,7 +74,7 @@ r.5.2	6(disz)	6(disz)[one]	NU
 r.5.3	ud5	uzud[goat]	N
 r.6.1	1(disz)	1(disz)[one]	NU
 r.6.2	kir11	kir[lamb]	N
-r.6.3	gukkal	gukkal[sheep]	N.ABS
+r.6.3	gukkal	gukkal[fat-tailed_sheep][-ø]	N.ABS
 r.7.1	mu-kux(DU)	mu[-n]-kur[enter][-ø]	VEN.3-SG-H-A.V.3-SG-P
 r.7.2	lugal	lugal[king][-ra]	N.DAT-H
 r.8.1	ki	ki[place]	N
@@ -87,4 +87,4 @@ r.12.1	mu	mu[year]	N
 r.12.2	ki-masz{ki}	Kimasz[1][-ø]	GN.ABS
 r.12.3	u3	u[and]	CNJ
 r.12.4	hu-ur5-ti{ki}	Hurti[1][-ø]	GN.ABS
-r.12.5	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S
+r.12.5	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S

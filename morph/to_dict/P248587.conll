@@ -5,7 +5,7 @@ o.1.2	3(asz)	3(asz)[one]	NU
 o.1.3	4(barig)	4(bariga)[unit]	N																
 o.1.4	sze	sze[barley]	N																
 o.1.5	gur	gur[unit]	N																
-o.1.6	lugal	lugal[a_quality_designation]	N	lugal[king][-ak]	N.GEN	lugal[king][-ra]	N.DAT	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-e]	N.ERG	lugal[king][-ra]	N.DAT-H	lugal[king]	N _  _ _
+o.1.6	lugal	lugal[king]	N	lugal[king][-ak]	N.GEN	lugal[king][-ra]	N.DAT	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-e]	N.ERG	lugal[king][-ra]	N.DAT-H	lugal[king]	N _  _ _
 o.2.1	1(ban2)	1(ban)[unit]	N																
 o.2.2	6(disz)	6(disz)[one]	NU																
 o.2.3	sila3	sila[unit]	N																
@@ -59,7 +59,7 @@ r.5.4	4(barig)	4(bariga)[unit]	N
 r.5.5	sze	sze[barley]	N																
 r.5.6	gur	gur[unit]	N																
 r.6.1	zi-ga-am3	ziga[expenditure]-am	N.COP-3-SG																
-r.7.1	la2-ia3	la’u[arreas]	N																
+r.7.1	la2-ia3	la’u[arrears]	N																
 r.7.2	1(asz)	1(asz)[one]	NU																
 r.7.3	1(ban2)	1(ban)[unit]	N																
 r.7.4	6(disz)	6(disz)[one]	NU																
@@ -76,4 +76,4 @@ r.10.2	sze-sag11-ku5	Szesagkud[1]	MN
 r.11.1	mu	mu[year]	N	mu[name]	N	mu[year]	mu[name]												
 r.11.2	us2-sa	us[follow]-a	V.SUB	us[follow]-'a	V.SUB														
 r.11.3	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	SN.ABS																
-r.11.4	ba-hul	ba-hulu[bad][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS														
+r.11.4	ba-hul	ba-hulu[destroy][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS														

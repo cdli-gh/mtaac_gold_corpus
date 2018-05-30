@@ -458,7 +458,7 @@ r.col2.9.7	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.col2.9.8	9(disz)	9(disz)[one]	NU																
 r.col2.9.9	1/2(disz)	1/2(disz)[one]	NU																
 r.col2.9.10	gin2	gig[unit]	N																
-r.col2.10.1	e2-gal-la	Egal[palace]-'a	N.L1																
+r.col2.10.1	e2-gal-la	egal[palace]-'a	N.L1																
 r.col2.10.2	kux(KWU147)-ra	kur[enter]-a	V.SUB																
 r.col2.11.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _														
 r.col2.11.2	ur-{d}szul-pa-e3	Urszulpa'e[1][-ak]	PN.GEN																
@@ -541,7 +541,7 @@ r.col2.23.6	ku3	kug[metal]	N
 r.col2.23.7	sa10-am3	sa[pay_for][-a]-am	V.SUB.COP-3-SG																
 r.col2.23.8	uruda	uruda[copper][-ak]	N.GEN																
 r.col2.23.9	uri5{ki}-ma	Urim[1]-'a	SN.L1	Urim[1]-ma	SN.GEN	Urim[1][-ak]-'a	SN.GEN.L1												
-r.col2.24.1	giri3	giri[foot]	PRP	giri[foot]	N														
+r.col2.24.1	giri3	giri[foot]	N	giri[foot]	N														
 r.col2.24.2	ur-{d}lamma	Urlamma[1]	PN																
 r.col2.24.3	u3	u[and]	CNJ																
 r.col2.24.4	e2-lu-bi-su	Elubisu[1][-ak]	PN.GEN																
@@ -559,7 +559,7 @@ r.col2.26.7	4(disz)	4(disz)[one]	NU
 r.col2.26.8	sze	sze[unit]	N																
 r.col2.26.9	ku3-babbar	kugbabbar[silver]	N																
 r.col2.27.1	zi-ga-am3	ziga[expenditure]-am	N.COP-3-SG																
-r.col2.28.1	la2-ia3	la’u[arreas]	N																
+r.col2.28.1	la2-ia3	la’u[arrears]	N																
 r.col2.28.2	1(disz)	1(disz)[one]	NU																
 r.col2.28.3	1/2(disz)	1/2(disz)[one]	NU																
 r.col2.28.4	ma-na	mana[unit]	N																

@@ -8,7 +8,7 @@ o.1.5	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.1.6	5(disz)	5(disz)[one]	NU				
 o.1.7	gin2	gig[unit]	N				
 o.1.8	u2	u[grass]	N				
-o.1.9	sahar-ba	sahar[earth]-ba[open][-a]	N.V.SUB				
+o.1.9	sahar-ba	sahar[earth]-bi-ak	N.3-SG-NH-POSS.GEN				
 o.2.1	kab2-ku5	kabkul[water-installation]	N				
 o.2.2	a-u2-da-ta	A'uda[1][-ak]-ta	FN.GEN.ABL				
 o.3.1	kab2-ku5	kabkul[water-installation]	N				
@@ -21,9 +21,9 @@ o.4.5	sar	sar[unit]	N
 o.4.6	5(disz)	5(disz)[one]	NU				
 o.4.7	gin2	gig[unit]	N				
 o.4.8	u2	u[grass]	N				
-o.4.9	sahar-ba	sahar[earth]-ba[open][-a]	N.V.SUB				
+o.4.9	sahar-ba	sahar[earth]-bi-ak	N.3-SG-NH-POSS.GEN				
 o.5.1	kab2-ku5	kabkul[water-installation]	N				
-o.5.2	ki-BAD-ta	KiBAD[1][-ak]-ta	PN.GEN.ABL				
+o.5.2	ki-BAD-ta	KiBAD[1][-ak]-ta	FN.GEN.ABL				
 o.6.1	kab2-ku5	kabkul[water-installation]	N				
 o.6.2	u3-sur	Usur[1]	GN				
 o.6.3	tir-sze3	tir[forest][-ak]-sze	N.GEN.TERM				
@@ -45,7 +45,7 @@ o.9.6	sahar	sahar[earth][-ak]	N.GEN
 o.10.1	kin	kig[work]	N				
 o.10.2	szuku-ra	szukur[ration]-ak	N.GEN				
 o.10.3	engar	engar[farmer]	N	engar[farmer][-ak]	N.GEN		
-o.10.4	nu-banda3-gu4	nubanda[overseer]-gud[ox][-ak]	N.N.GEN				
+o.10.4	nu-banda3-gu4	nubandagu[ox_overseer]	N				
 o.10.5	u3	u[and]	CNJ				
 o.10.6	sza3-sahar	szagsahar[task]	N				
 o.11.1	e	eg[levee]	N				
@@ -81,4 +81,4 @@ r.6.1	ugula	ugula[overseer]	N
 r.6.2	da-da	Dada[1]	PN	Dada[1]	PN	Dada[1][-ak]	PN.GEN
 r.7.1	mu	mu[year]	N	mu[name]	N	mu[year]	mu[name]
 r.7.2	an-sza-an{ki}	Anszan[1][-ø]	SN.ABS				
-r.7.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS		
+r.7.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS		

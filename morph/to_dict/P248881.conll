@@ -14,7 +14,7 @@ o.4.2	dug	dug[pot]	N
 o.4.3	saga	sag[good]-a	V.SUB	sag[good]-a[-ak][-ø]	V.SUB.GEN.ABS		
 o.4.4	1(disz)	1(disz)[one]	NU				
 o.4.5	dug	dug[pot]	N				
-o.4.6	du	du[a_quality_designation]	N				
+o.4.6	du	du[quality_designation]	N				
 o.5.1	ur-ab-ba	Urabba[1]	PN				
 o.6.1	2(asz)	2(asz)[one]	NU				
 o.6.2	saga	sag[good]-a	V.SUB	sag[good]-a[-ak][-ø]	V.SUB.GEN.ABS		
@@ -95,11 +95,11 @@ r.13.2	1(asz)	1(asz)[one]	NU
 r.13.3	3(barig)	3(bariga)[unit]	N				
 r.13.4	5(ban2)	5(ban)[unit]	N	2(ban)[unit]	N		
 r.13.5	kasz	kasz[beer]	N				
-r.13.6	du	du[a_quality_designation]	N				
+r.13.6	du	du[quality_designation]	N				
 r.13.7	gur	gur[unit]	N				
 r.14.1	zi-ga	ziga[expenditure]	N	N			
 r.14.2	u4	ud[day]	N				
 r.14.3	1(disz)-kam	1(disz)[one]-ak-am	NU.GEN.COP-3-SG				
 r.15.1	mu	mu[year]	N	mu[name]	N	mu[year]	mu[name]
 r.15.2	sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN.ABS				
-r.15.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS		
+r.15.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS		

@@ -23,7 +23,7 @@ o.5.4	puzur4-{d}|GISZxX|	PuzurGISZxX[1]	PN
 o.5.5	ra2-gaba	ragaba[rider][-ø]	N.ABS																		
 r.1.1	ki	ki[place]	N																		
 r.1.2	ur-i-sza-ta	Urisza[1][-ak]-ta	PN.GEN.ABL																		
-r.2.1	ba-zi	ba-zig[rise][-ø]	MID.V.3-SG-S																		
+r.2.1	ba-zi	ba-zig[issue][-ø]	MID.V.3-SG-S																		
 r.3.1	mu	mu[year]	N	mu[name]	N	mu[year]	mu[name]														
 r.3.2	en	en[priest]	N																		
 r.3.3	{d}inanna	Inanna[1][-ak][-ø]	DN.GEN.ABS	Inanna[1][-ak][-ak]	DN.GEN.GEN																
@@ -36,7 +36,7 @@ s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN.GEN	Urim[1][-ak]-'a	SN.GEN.L1	Urim[1]-ma	S
 s1.col1.4.1	lugal	lugal[king]	N	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-e]	N.ERG	lugal[king]	N _  _ _	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H	lugal[king]	Ns
 s1.col1.4.2	an	an[sky]	N																		
 s1.col1.4.3	ub-da	ub[corner]-da	N.COM																		
-s1.col1.4.4	limmu2-ba	limmu[four]-bi-ak	NU.3-SG-POSS.GEN	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN																
+s1.col1.4.4	limmu2-ba	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN																
 s1.col2.1.1	lu2-du10-ga	Luduga[1]	PN																		
 s1.col2.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG																
 s1.col2.3.1	dumu	dumu[child]	N																		

@@ -14,13 +14,13 @@ o.2.4	gin2	gig[unit]	N
 o.2.5	i3	i[oil]	N	i[oil][-ø]	N.ABS
 o.2.6	2(disz)	2(disz)[one]	NU
 o.2.7	gin2	gig[unit]	N
-o.2.8	naga	teme[plant]	N
+o.2.8	naga	naga[potash]	N
 o.3.1	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
-o.3.2	ku5	tar[fish]	N
+o.3.2	ku5	ku[fish]	N
 o.3.3	3(disz)	3(disz)[one]	NU	3(dish)[one]	NU
 o.3.4	sa	sa[bundle]	N	sa[bundle]	N
 o.3.5	szum2	szum[garlic]	N
-o.4.1	ARAD2-{d}nanna	Aradnanna[1][-ra]	PN.DAT
+o.4.1	ARAD2-{d}nanna	Aradnanna[1]	PN
 r.1.1	5(disz)	5(disz)[one]	NU
 r.1.2	sila3	sila[unit]	N
 r.1.3	kasz	kasz[beer]	N
@@ -32,13 +32,13 @@ r.2.2	gin2	gig[unit]	N
 r.2.3	i3	i[oil]	N
 r.2.4	2(disz)	2(disz)[one]	NU
 r.2.5	gin2	gig[unit]	N
-r.2.6	naga	teme[plant]	N
+r.2.6	naga	naga[potash]	N
 r.3.1	1(disz)	1(disz)[one]	NU
 r.3.2	ku6	kud[fish]	N
 r.3.3	1(disz)	1(disz)[one]	NU
 r.3.4	sa	sa[bundle]	N	sa[bundle]	N
 r.3.5	szum2	szum[garlic]	N
-r.4.1	szu-e2-a	Szuea[1][-ra]	PN.DAT				
+r.4.1	szu-e2-a	Szuea[1]	PN				
 r.5.1	u4	ud[day]	N
 r.5.2	2(u)	2(u)[ten]	NU
 r.5.3	1(disz)-kam	1(disz)[one]-ak-am	NU.GEN.COP-3-SG

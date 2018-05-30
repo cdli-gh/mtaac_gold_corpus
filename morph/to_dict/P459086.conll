@@ -47,11 +47,11 @@ r.1.4	al-la-palil2	Allapalil[1]	PN
 r.2.1	gurum2	gurum[inspection]	N
 r.2.2	u4	ud[day]	N
 r.2.3	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)-ak-am	NU.GEN.COP-3-SG
-r.3.1	ki-su7	kisur[locus]	N
+r.3.1	ki-su7	kisur[threshing_floor]	N
 r.3.2	ka-ma-ri2	Kamari[1][-ak][-'a]	FN.GEN.L1
 r.3.3	gub-ba	gub[stand]-a	V.SUB	gub[stand]-'a	V.SUB
-r.4.1	giri3	giri[foot]	PRP	giri[foot]	N	giri[foot][-ø]	N.ABS
-r.4.2	i3-kal-la	Ikalla[1]	PN
+r.4.1	giri3	giri[foot]	N	giri[foot]	N	giri[foot][-ø]	N.ABS
+r.4.2	i3-kal-la	Ikala[1][-ak]	PN.GEN
 r.5.1	iti	iti[month]	N
 r.5.2	sze-kar-ra-gal2-la	Szekarragala[1]	MN
 r.6.1	mu	mu[year]	N
@@ -60,4 +60,4 @@ r.6.3	lugal	lugal[king]	N	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[ki
 r.6.4	uri5-ma{ki}	Urim[1][-ak][-e]	SN.GEN.ERG
 r.6.5	ma-da	mada[land]	N	mada[land]	N
 r.6.6	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	SN.GEN.ABS
-r.6.7	mu-hul	mu[-n]-hulu[bad][-ø]	VEN.3-SG-H-A.V.3-SG-P	mu-n-hulu-ø	VEN.3-SG-H-A.V.3-SG-P
+r.6.7	mu-hul	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P	mu-n-hulu-ø	VEN.3-SG-H-A.V.3-SG-P

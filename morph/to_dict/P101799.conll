@@ -9,17 +9,17 @@ o.1.6	1(barig)	1(bariga)[unit]	N	1(bariga)[unit]	NU
 o.1.7	5(ban2)	5(ban)[unit]	N	2(ban)[unit]	N		
 o.1.8	5(disz)	5(disz)[one]	NU				
 o.1.9	sila3-ta	sila[unit]-ta	N.ABL				
-o.2.1	ku6-bi	kud[fish]-bi	N.3-SG-POSS				
+o.2.1	ku6-bi	kud[fish]-bi	N.3-SG-NH-POSS				
 o.2.2	3(gesz2)	3(gesz)[sixty]	NU				
 o.2.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
 o.2.4	9(asz)	9(asz)[one]	NU				
 o.2.5	1(barig)	1(bariga)[unit]	N	1(bariga)[unit]	NU		
 o.2.6	4(ban2)	4(ban)[unit]	N				
 o.2.7	gur	gur[unit]	N				
-o.3.1	giri3	giri[foot]	PRP	giri[foot]	N		
+o.3.1	giri3	giri[foot]	N	giri[foot]	N		
 o.3.2	lu2	lu[person]	N	lu[person]	N _ _ _		
 o.3.3	sa-bar-ra-ke4-ne	sabar[net]-ak-ene	N.GEN.PL				
-o.4.1	1(gesz'u)	1(gesz'u)[600]	NU				
+o.4.1	1(gesz'u)	1(gesz'u)[six_hundred]	NU				
 o.4.2	2(gesz2)	2(gesz)[sixty]	NU				
 o.4.3	3(u)	3(u)[ten]	NU				
 o.4.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
@@ -33,13 +33,13 @@ o.6.4	ku6	kud[fish]	N
 o.6.5	nig2-ki	nigki[fish]	N				
 o.7.1	1(gesz2)	1(gesz)[sixty]	NU				
 o.7.2	5(u)	5(u)[ten]	NU				
-o.7.3	la2	lal[small]	N	lal[small]	V		
+o.7.3	la2	la[hang][-a]	V.SUB	lal[small]	V		
 o.7.4	1(disz)	1(disz)[one]	NU	1(disz)[1]	NU		
 o.7.5	gab2-IL2	gabil[basket]	N				
 o.7.6	ku6-sze6	kud[fish]-szeg[cook][-a]	N.V.SUB				
 o.8.1	a-ra2	ara[times]	N				
 o.8.2	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _
-o.9.1	a2	a[arm]	N	a[arm]	N		
+o.9.1	a2	a[labor]	N	a[arm]	N		
 o.9.2	gesz-gar-ra	geszgar[assign]-a	V.SUB				
 o.10.1	9(gesz2)	9(gesz)[sixty]	NU				
 o.10.2	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		

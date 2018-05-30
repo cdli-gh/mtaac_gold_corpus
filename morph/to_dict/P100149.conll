@@ -1,0 +1,63 @@
+#new_text=P100149							
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC	
+o.1.1	1(ban2)	1(ban)[unit]	N				
+o.1.2	5(disz)	5(disz)[one]	NU				
+o.1.3	sila3	sila[unit]	N				
+o.1.4	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+o.1.5	u4	ud[day]	N				
+o.1.6	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG				
+o.1.7	sza3-iri	Sza'iri[1]	PN				
+o.2.1	5(disz)	5(disz)[one]	NU				
+o.2.2	sila3	sila[unit]	N				
+o.2.3	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+o.2.4	kaskal	kaskal[way]	N				
+o.3.1	ka5-a	Ka'a[1]	PN				
+o.3.2	sukkal	sukkal[secretary]	N	sukkal[secretary][-ak]	N.GEN	sukkal[secretary][-ra]	N.DAT-H
+o.4.1	sa-bu-um{ki}-sze3	Sabum[1]-sze	SN.TERM				
+o.4.2	du-ni	du[go][-a]-ni	V.SUB.3-SG-H-POSS				
+o.5.1	1(ban2)	1(ban)[unit]	N				
+o.5.2	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+o.5.3	u4	ud[day]	N				
+o.5.4	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _		
+o.6.1	szu-{d}en-lil2	Szu'enlil[1]	PN				
+o.6.2	dumu	dumu[child]	N				
+o.6.3	nu-banda3	nubanda[overseer][-ak]	N.GEN				
+o.7.1	1(ban2)	1(ban)[unit]	N				
+o.7.2	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+o.7.3	u4	ud[day]	N				
+o.7.4	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _		
+o.8.1	kal-la-mu	Kallam[1]	PN				
+o.8.2	aga3-us2-gal	aga'usgal[head_soldier]	N				
+o.9.1	...{ki}-ta	_[1]-ta	SN.ABL				
+o.9.2	du-ni	du[go][-a]-ni	V.SUB.3-SG-H-POSS				
+r.1'.1	1(ban2)	1(ban)[unit]	N				
+r.1'.2	...	_[_]	_				
+r.2'.1	da-da-ni	Dadani[1]	PN				
+r.2'.2	dumu	dumu[child]	N				
+r.2'.3	nu-banda3	nubanda[overseer][-ak]	N.GEN				
+r.3'.1	4(disz)	4(disz)[one]	NU				
+r.3'.2	sila3	sila[unit]	N				
+r.3'.3	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+r.3'.4	u4	ud[day]	N				
+r.3'.5	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _		
+r.4'.1	e-la-nu-id	Elanu'id[1]	PN				
+r.4'.2	lu2	lu[person]	N	lu[person]	N _ _ _		
+r.4'.3	kas4	gir[runner]	N	kasz[runner][-ra]	N.DAT	kasz[runner]	N
+r.5'.1	sa-bu-um{ki}-ta	Sabum[1]-sze	SN.TERM				
+r.5'.2	du-ni	du[go][-a]-ni	V.SUB.3-SG-H-POSS				
+r.6'.1	5(disz)	5(disz)[one]	NU				
+r.6'.2	sila3	sila[unit]	N				
+r.6'.3	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+r.6'.4	sza3-iri	Sza'iri[1]	PN				
+r.7'.1	5(disz)	5(disz)[one]	NU				
+r.7'.2	sila3	sila[unit]	N				
+r.7'.3	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS		
+r.7'.4	kaskal-sze3	kaskal[way]-sze	N.TERM				
+r.8'.1	szu-ku-bu-um	Szukubum[1]	PN				
+r.8'.2	aga3-us2-gal	aga'usgal[head_soldier]	N				
+l.1.1	szuszin{ki}-sze3	Szuszin[1]-sze	SN.TERM				
+l.1.2	du-ni	du[go][-a]-ni	V.SUB.3-SG-H-POSS				
+l.2.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN
+l.2.2	gu4-ra2-bi2-mu2-mu2	Gurabimumu[1]	PN				
+l.2.3	u4	ud[day]	N				
+l.2.4	x-kam	_(_)[_]-ak-am	NU.GEN.COP-3-SG				

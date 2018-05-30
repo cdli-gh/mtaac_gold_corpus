@@ -1,0 +1,19 @@
+#new_text=P100764											
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC					
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	bisagdubak[archivist]	N	bisagdubak[archivist]	N _  _ _	pisandubak[filing_basket]	N	bisagdubak[archivist]	N _ _ _
+o.2.1	nig2-ka9-ak	nigSZID[account]	N	nigSZID[account]	N _  _ _						
+o.2.2	u3	u[and]	CNJ								
+o.2.3	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _						
+o.2.4	dab-ba	dab[envelop]-a	V.SUB								
+o.3.1	lu2-zabala3	Luzabala[1]	PN								
+o.3.2	sipa	sipa[sheepherd]	N	sipa[shepherd]	N						
+o.3.3	udu	udu[sheep]	N	udu[sheep][-ø]	N						
+o.3.4	ge6	giggi[black][-a][-ak][-ak][-ø]	V.SUB.GEN.GEN.ABS								
+o.4.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _				
+o.4.2	us2-sa	us[follow]-a	V.SUB	us[follow]-'a	V.SUB						
+o.4.3	bad3	bad[wall]	N	bad[wall][-ø]	N.ABS						
+o.4.4	ba-du3-ta	ba-du[build][-ø][-a][-'a]-ta	MID.V.3-SG-S.SUB.L1.ABL								
+o.5.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _				
+o.5.2	ur-bi2-lum{ki}	Urbillum[1][-ø]	SN.ABS								
+o.5.3	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	MID.V.3-SG-S.TERM								
+r.1.1	i3-gal2	i-gal[be][-ø]	FIN.V.3-SG-S	i-gal[be][-ø]	FIN.V.3-SG-S _ _ _	i-gal[-ø]	FIN.V.3-SG-S _  _ _				

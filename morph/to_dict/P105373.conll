@@ -7,7 +7,7 @@ o.1.4	ku3	kug[metal]	N
 o.1.5	szuku	szukur[ration]	N			
 o.1.6	na-ba-x	Nabax[1]	PN			
 o.2.1	apin-la2	apinla[tiller]	N			
-o.2.2	lugal-e2-mah-e	Lugalemahe[1][-ak]	PN.GEN.GEN			
+o.2.2	lugal-e2-mah-e	Lugalemahe[1][-ak][-ak]	PN.GEN.GEN			
 o.3.1	1/3(disz)	1/3(disz)[one]	NU			
 o.3.2	gin2	gig[unit]	N			
 o.3.3	7(disz)	7(disz)[one]	NU			
@@ -16,7 +16,7 @@ o.3.5	sze	sze[unit]	N
 o.3.6	apin-la2	apinla[tiller]	N			
 o.3.7	ur-am3-ma	Uramma[1][-ak]	PN.GEN	Uramma[1][-ak]	PN.GEN	
 o.3.8	szuku	szukur[ration]	N			
-o.3.9	a-du-du	Adudu[1]	PN.GEN			
+o.3.9	a-du-du	Adudu[1][-ak]	PN.GEN			
 o.3.10	u3	u[and]	CNJ			
 o.3.11	a2-ta	Ata[1]	PN			
 o.3.12	szu-i	Szu'i[baber][-ak]	N.GEN			

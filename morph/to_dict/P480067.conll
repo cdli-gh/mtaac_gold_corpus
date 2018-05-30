@@ -4,8 +4,8 @@ o.1.1	1(disz)	1(disz)[one]	NU
 o.1.2	am	am[bull]	N										
 o.1.3	gu4	gud[ox]	N	gud[ox][-ø]	N	gud[ox][-ø]	N.ABS						
 o.2.1	1(disz)	1(disz)[one]	NU						
-o.2.2	amar	amar[young]	N										
-o.2.3	pesz	pesz[thick]	AJ										
+o.2.2	amar	amar[calf]	N										
+o.2.3	pesz	pesz[thick][-a]	V.SUB										
 o.2.4	am	am[bull]	N										
 o.3.1	u4	ud[day]	N										
 o.3.2	2(u)	2(u)[ten]	NU								
@@ -20,5 +20,5 @@ r.3.1	mu	mu[year]	N
 r.3.2	{d}amar-{d}suen	Amarsuen[1]	RN	Amarsuenak[1][-ak][-ø]	RN.GEN.ABS	Amarsuenak[1]	RN						
 r.3.3	lugal-e	lugal[king]-e	N.ERG	lugal[king]-ani[-da]	N.3-SG-H-POSS.COM								
 r.3.4	ur-bi2-lum{ki}	Urbillum[1][-ø]	SN.ABS	Urbillum[1][-ak]	SN.GEN								
-r.3.5	mu-hul	mu[-n]-hulu[bad][-ø]	VEN.3-SG-H-A.V.3-SG-P	mu-n-hulu-ø	VEN.3-SG-H-A.V.3-SG-P								
+r.3.5	mu-hul	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P	mu-n-hulu-ø	VEN.3-SG-H-A.V.3-SG-P								
 r.1.1	2(disz)	2(disz)[one]	NU								

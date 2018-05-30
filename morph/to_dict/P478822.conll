@@ -7,8 +7,8 @@ o.1.4	1(disz)	1(disz)[one]	NU
 o.1.5	ku6#	kud[fish]	N
 o.2.1	puzur4#-{d}iszkur	Puzuriszkur[1]	PN
 o.2.2	lu2	lu[person]	N	lu[person]	N	lu[person][-ø]	N.ABS
-o.2.3	kin-gi4-a	kiggia[messenger][-ak]	N.GEN
-o.2.4	lugal	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king]	N	lugal[king][-ø]	N.ABS	lugal[king][-ra]	N.DAT-H
+o.2.3	kin-gi4-a	kiggia[messenger]	N
+o.2.4	lugal	lugal[king][-ak]	N.GEN	lugal[king][-ak][-e]	N.GEN.ERG	lugal[king][-ak]	N.GEN	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king]	N	lugal[king][-ø]	N.ABS	lugal[king][-ra]	N.DAT-H
 o.3.1	u4	ud[day]	N
 o.3.2	|BAD3.AN|{ki}-ta	Der[1]-ta	SN.ABL
 o.4.1	ki	ki[place]	N	ki[place][-da]	N.COM	ki[place]-e	N.DAT-NH	ki[place][-e]	N.ERG	ki[place]-e	N.L3-NH	ki[place][-ø]	N.ABS
@@ -34,7 +34,7 @@ r.3.1	iti	iti[month]	N
 r.3.2	ezem-{d}szul-gi	Ezemszulgi[1]	MN
 r.4.1	mu	mu[year]	N
 r.4.2	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	SN.GEN	Huhnuri[1][-ø]	SN.ABS
-r.4.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S
+r.4.3	ba-hul	ba-hulu[][-ø]	MID.V.3-SG-S
 l.1.1	u4	ud[day]	N
 l.1.2	2(u)	2(u)[ten]	NU
 l.1.3	7(disz)-kam	7(disz)[one]-ak-am	NU.GEN.COP-3-SG												

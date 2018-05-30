@@ -1,9 +1,9 @@
 #new_text=P356065
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
-o.1.1	pisan-dub-ba	bisagdubak[archivist]	N	pisandubak[filing_basket]	N	bisagdubak[archivist]	N	bisagdubak[archivist]	N
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	pisandubak[filing_basket]	N	bisagdubak[archivist]	N	bisagdubak[archivist]	N
 o.2.1	nig2-ka9-ak	nigSZID[account]	N
 o.3.1	sipa	sipa[shepherd]	N
-o.3.2	gukkal-na-ke4	gukkal[sheep]-ak-ak-e[-ø]	N.GEN.GEN.PL.ABS
+o.3.2	gukkal-na-ke4	gukkal[fat-tailed_sheep]-ak-ak-e[-ø]	N.GEN.GEN.PL.ABS
 o.4.1	i3-gal2	i-gal[be][-ø]	FIN.V.3-SG-S
 o.5.1	sza3	szag[heart]	N
 o.5.2	ma-da	mada[land]	N
@@ -13,4 +13,4 @@ o.6.2	a-a-kal-la	Ayakala[1]	PN
 o.6.3	szusz3	kusz[official]	N
 o.7.1	mu	mu[year]	N
 o.7.2	si-mu-ru-um{ki}	Simurrum[1][-ø]	SN.ABS
-o.7.3	ba-hul	ba-hulu[bad][-ø]	MID.V.3-SG-S
+o.7.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S

@@ -8,7 +8,7 @@ o.1.5	sze	sze[barley]	N
 o.1.6	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS				
 o.1.7	gu2-na	gu[pulse]-ak	N.GEN						
 o.1.8	gur	gur[unit]	N						
-o.2.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-POSS.ABL						
+o.2.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL						
 o.3.1	2(asz)	2(asz)[one]	NU						
 o.3.2	1(ban2)	1(ban)[unit]	N						
 o.3.3	7(disz)	7(disz)[one]	NU						
@@ -56,7 +56,7 @@ o.10.8	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS
 o.10.9	gur	gur[unit]	N						
 o.11.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _				
 o.11.2	5(u)	5(u)[ten]	NU						
-o.11.3	la2	lal[minus sign]	N	lal[small]	V				
+o.11.3	la2	la[hang][-a]	V.SUB	lal[small]	V				
 o.11.4	2(disz)	2(disz)[one]	NU	2(disz)[one]					
 o.11.5	lu2-sa6-i3-zu	Lusa'izu[1][-ak]	PN.GEN						
 r.1.1	szunigin	szunigin[total]	N						
@@ -69,7 +69,7 @@ r.1.7	sila3	sila[unit]	N
 r.1.8	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS				
 r.1.9	gur	gur[unit]	N						
 r.2.1	zi-ga-am3	ziga[expenditure]-am	N.COP-3-SG						
-r.3.1	la2-ia3	la’u[arreas]	N						
+r.3.1	la2-ia3	la’u[arrears]	N						
 r.3.2	3(u)	3(u)[ten]	NU						
 r.3.3	3(barig)	3(bariga)[unit]	N						
 r.3.4	1(ban2)	1(ban)[unit]	N						
