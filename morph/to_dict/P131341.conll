@@ -13,7 +13,7 @@ o.3.2	1(disz)	1(disz)[one]	NU	_	_	_
 o.3.3	sila3	sila[unit]	N	_	_	_
 o.3.4	sze-ta	sze[barley]-ta	N.ABL	_	_	_
 o.4.1	iti	iti[month]	N	_	_	_
-o.4.2	n-sze3	n[_]-sze	NU.TERM	_	_	_
+o.4.2	n-sze3	_[_]-sze	NU.TERM	_	_	_
 o.5.1	sze-bi	sze[barley]-bi	N.3-SG-NH-POSS	_	_	_
 o.5.2	7(asz)	7(asz)[one]	NU	_	_	_
 o.5.3	4(barig)	4(bariga)[unit]	N	_	_	_
@@ -22,7 +22,7 @@ o.5.5	sze	sze[barley]	N	_	_	_
 o.5.6	gur	gur[unit]	N	_	_	_
 o.5.7	lugal	lugal[king][-ak]	N.GEN	_	_	_
 r.1.1	sza3-gal	szaggal[food]	N	_	_	_
-r.1.2	gukkal	gukkal[fat-tailed_sheep][-ak]	N.GEN	_	_	_
+r.1.2	gukkal	gukkal[fat-tailed_sheep][-ak][-ø]	N.GEN.ABS	_	_	_
 r.2.1	ki	ki[place]	N	_	_	_
 r.2.2	lugal-lu2-sa6-sa6-ta	Lugallusasa[1][-ak]-ta	PN.GEN.ABL	_	_	_
 r.3.1	nig2-u2-rum	Nigurum[1][-e]	PN.ERG	_	_	_
@@ -31,9 +31,9 @@ r.3.3	ba-ti	ba[-n]-teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	_	_	_
 r.4.1	inim	inim[word]	N	_	_	_
 r.4.2	na-ni-ta	Nani[1]-ta	PN.ABL	_	_	_
 r.5.1	iti	iti[month]	N	_	_	_
-r.5.2	mu-szu-du7	muszudu[1]	MN	_	_	_
+r.5.2	mu-szu-du7	Muszudu[1][-’a]	MN.L1	_	_	_
 r.6.1	mu	mu[year]	N	_	_	_
 r.6.2	en	en[priest]	N	_	_	_
 r.6.3	{d}nanna	Nanna[1]	DN	_	_	_
 r.6.4	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN.GEN.GEN.ABS	_	_	_
-r.6.5	ba-hun	ba-hug[hire][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	_	_	_
+r.6.5	ba-hun	ba-hug[hire][-ø]	MID.V.3-SG-S	_	_	_
