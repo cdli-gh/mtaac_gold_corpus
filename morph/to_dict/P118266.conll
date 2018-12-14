@@ -3,7 +3,7 @@
 o.1.1	4(u)	4(u)[ten]	NU
 o.1.2	udu	udu[sheep]	N
 o.1.3	niga	niga[fattened][-ø]	NF.V.ABS
-o.1.4	saga	saga[good][-ø]	NF.V.ABS
+o.1.4	saga	sag[good][-ø]	NF.V.ABS
 o.2.1	1(disz)	1(disz)[one]	NU
 o.2.2	1/3(disz)	1/3(disz)[one]	NU
 o.2.3	sila3	sila[unit]	N
@@ -11,7 +11,7 @@ o.2.4	sze-ta	sze[barley]-ta	N.ABL
 o.3.1	1(disz)	1(disz)[one]	NU
 o.3.2	sila3	sila[unit]	N
 o.3.3	duh	duh[bran]	N
-o.3.4	saga-ta	saga[good][-ø]-ta	NF.V.ABS.ABL
+o.3.4	saga-ta	sag[good][-ø]-ta	NF.V.ABS.ABL
 o.4.1	3(u)	3(u)[ten]	NU
 o.4.2	udu	udu[sheep]	N
 o.4.3	niga	niga[fattened][-ø]	NF.V.ABS
@@ -22,7 +22,7 @@ o.4.7	sze-ta	sze[barley]-ta	N.ABL
 o.5.1	5/6(disz)	5/6(disz)[one]	NU
 o.5.2	sila3	sila[unit]	N
 o.5.3	duh	duh[bran]	N
-o.5.4	saga-ta	saga[good][-ø]-ta	NF.V.ABS.ABL
+o.5.4	saga-ta	sag[good][-ø]-ta	NF.V.ABS.ABL
 o.6.1	u4	ud[day]	N
 o.6.2	3(u)	3(u)[ten]	NU
 o.6.3	la2	la[hang][-ø]	NF.V.ABS
@@ -42,7 +42,7 @@ r.2.4	2(ban2)	2(ban)[unit]	N
 r.2.5	5(disz)	5(disz)[one]	NU
 r.2.6	sila3	sila[unit]	N
 r.2.7	duh	duh[bran]	N
-r.2.8	saga	saga[good][-ø]	NF.V.ABS
+r.2.8	saga	sag[good][-ø]	NF.V.ABS
 r.2.9	gur	gur[unit]	N
 r.3.1	iti	iti[month]	N
 r.3.2	diri	dirig[excess][-’a]	N.L1
