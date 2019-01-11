@@ -25,14 +25,14 @@ o.6.3	2(u)	2(u)[ten]	NU	_	_	_
 o.6.4	1(disz)	1(disz)[one]	NU	_	_	_
 o.6.5	ma-na	mana[unit]	N	_	_	_
 o.6.6	siki	siki[wool]	N	_	_	_
-o.7.1	udu-bi	udu[sheep]-bi	N.3-SG-NH-POSS	_	_	_
+o.7.1	udu-bi	udu[sheep]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
 o.7.2	2(gesz2)	2(gesz)[sixty]	NU	_	_	_
 o.7.3	2(disz)-am3	2(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 o.8.1	5(u)	5(u)[ten]	NU	_	_	_
 o.8.2	7(disz)	7(disz)[one]	NU	_	_	_
 o.8.3	ma-na	mana[unit]	N	_	_	_
 o.8.4	siki-gi	sikigi[type_of_wool]	N	_	_	_
-o.9.1	kiszib3-bi	kiszib[seal]-bi	N.3-SG-NH-POSS	_	_	_
+o.9.1	kiszib3-bi	kiszib[seal]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
 o.9.2	2(disz)-am3	2(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 o.10.1	kiszib3	kiszib[seal]	N	_	_	_
 o.10.2	ensi2-ka	ensik[ruler]-ak	N.GEN	_	_	_
@@ -56,8 +56,8 @@ r.3.1	szunigin	szunigin[total]	N	_	_	_
 r.3.2	5(u)	5(u)[ten]	NU	_	_	_
 r.3.3	7(disz)	7(disz)[one]	NU	_	_	_
 r.3.4	ma-na	mana[unit]	N	_	_	_
-r.3.5	siki	siki[wool]	N	_	_	_
-r.4.1	zi-ga-am3	zig[expend]-a-am	NF.V.PT.COP-3-SG	_	_	_
+r.3.5	siki	siki[wool][-ø]	N.ABS	_	_	_
+r.4.1	zi-ga-am3	zig[expend]-a[-ø]-am	NF.V.PT.ABS.COP-3-SG	_	_	_
 r.5.1	la2-ia3	la’u[arrears]	N	_	_	_
 r.5.2	2(asz)	2(asz)[one]	NU	_	_	_
 r.5.3	gu2	gun[unit]	N	_	_	_
@@ -77,7 +77,7 @@ r.7.3	gu2	gun[unit]	N	_	_	_
 r.7.4	3(u)	3(u)[ten]	NU	_	_	_
 r.7.5	6(disz)	6(disz)[one]	NU	_	_	_
 r.7.6	ma-na	mana[unit]	N	_	_	_
-r.8.1	diri-ga-am3	dirig[exceed]-a-am	NF.V.PT.COP-3-SG	_	_	_
+r.8.1	diri-ga-am3	dirig[exceed]-a[-ø]-am	NF.V.PT.ABS.COP-3-SG	_	_	_
 r.9.1	nig2-ka9-ak	nigSZID[account]	N	_	_	_
 r.9.2	mu	mu[name]	N	_	_	_
 r.9.3	siki-sze3	siki[wool][-ak]-sze	N.GEN.TERM	_	_	_
