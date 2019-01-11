@@ -25,9 +25,9 @@ r.3.2	ka-bur	kabur[profession]	N	_	_	_
 r.4.1	u3	u[and]	CNJ	_	_	_
 r.4.2	gurum2	gurum[inspection]	N	_	_	_
 r.4.3	dam-gar3	damgar[merchant][-ak][-ø]	N.GEN.ABS	_	_	_
-r.5.1	im-bi	im[clay]-bi	N.3-SG-NH-POSS	_	_	_
+r.5.1	im-bi	im[clay]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
 r.5.2	1(u)	1(u)[ten]	NU	_	_	_
-r.5.3	2(disz)-am3	2(disz)[one]-am	NU.COP-3-SG	_	_	_
+r.5.3	2(disz)-am3	2(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 r.6.1	i3-gal2	i-gal[be][-ø]	FIN.V.3-SG-S	_	_	_
 r.7.1	mu	mu[year]	N	_	_	_
 r.7.2	en	en[priest]	N	_	_	_
