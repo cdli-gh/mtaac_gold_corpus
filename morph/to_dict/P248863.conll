@@ -25,7 +25,7 @@ o.6.1	3(u)	3(u)[ten]	NU	_	_	_
 o.6.2	gur	gur[unit]	N	_	_	_
 o.7.1	2(asz)	2(asz)[one]	NU	_	_	_
 o.7.2	kasz	kasz[beer]	N	_	_	_
-o.7.3	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+o.7.3	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.7.4	gur	gur[unit]	N	_	_	_
 o.8.1	sa2-du11	sadug[offerings]	N	_	_	_
 o.8.2	en-nun-ga2	ennun[prison]-ak	N.GEN	_	_	_
@@ -87,7 +87,7 @@ r.5.7	ziz2	ziz[emmer]	N	_	_	_
 r.5.8	gur	gur[unit]	N	_	_	_
 r.6.1	2(asz)	2(asz)[one]	NU	_	_	_
 r.6.2	kasz	kasz[beer]	N	_	_	_
-r.6.3	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+r.6.3	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 r.6.4	gur	gur[unit]	N	_	_	_
 r.7.1	4(asz)	4(asz)[one]	NU	_	_	_
 r.7.2	3(barig)	3(bariga)[unit]	N	_	_	_
