@@ -7,7 +7,7 @@ o.1.4	zu2-lum	zulum[date]	N	_	_	_
 o.2.1	1(barig)	1(bariga)[unit]	N	_	_	_
 o.2.2	kasz	kasz[beer]	N	_	_	_
 o.2.3	dida	dida[wort]	N	_	_	_
-o.2.4	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+o.2.4	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.3.1	1(barig)	1(bariga)[unit]	N	_	_	_
 o.3.2	kasz	kasz[beer]	N	_	_	_
 o.3.3	dida	dida[wort]	N	_	_	_
@@ -16,7 +16,7 @@ o.3.5	1(ban2)	1(ban)[unit]	N	_	_	_
 o.3.6	5(disz)	5(disz)[one]	NU	_	_	_
 o.3.7	sila3	sila[unit]	N	_	_	_
 o.3.8	kasz	kasz[beer]	N	_	_	_
-o.3.9	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+o.3.9	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.4.1	1(barig)	1(bariga)[unit]	N	_	_	_
 o.4.2	3(ban2)	3(ban)[unit]	N	_	_	_
 o.4.3	dabin	dabin[semolina]	N	_	_	_
@@ -47,7 +47,7 @@ r.2'.3	dub-dub	dub-dub[heap][-ø]	NF.V.RDP.ABS	_	_	_
 r.3'.1	...	[_]	_	_	_	_
 r.3'.2	2(ban2)	2(ban)[unit]	N	_	_	_
 r.3'.3	zi3-gu	zidgu[]flour	N	_	_	_
-r.3'.4	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+r.3'.4	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 r.4'.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.4'.2	sila3	sila[unit]	N	_	_	_
 r.4'.3	i3-nun	inun[ghee]	N	_	_	_
