@@ -4,7 +4,7 @@ o.1.1	1(u)	1(u)[ten]	NU	_	_	_
 o.1.2	7(asz)	7(asz)[one]	NU	_	_	_
 o.1.3	2(ban2)	2(ban)[unit]	N	_	_	_
 o.1.4	kasz	kasz[beer]	N	_	_	_
-o.1.5	du	du[a_quality_designation][-ø]	NF.V.ABS	_	_	_
+o.1.5	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.1.6	gur	gur[unit][-ø]	N.ABS	_	_	_
 o.2.1	aga3-us2	aga'us[soldier]	N	_	_	_
 o.2.2	lu2-...	[_]	PN.DAT-H	_	_	_
@@ -16,7 +16,7 @@ o.6.1	2(u)	2(u)[ten]	NU	_	_	_
 o.6.2	1(asz)	1(asz)[one]	NU	_	_	_
 o.6.3	2(ban2)	2(ban)[unit]	N	_	_	_
 o.6.4	kasz	kasz[beer]	N	_	_	_
-o.6.5	du	du[quality_designation][-ø]	NF.V.ABS	_	_	_
+o.6.5	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.6.6	gur	gur[unit]	N	_	_	_
 o.7.1	giri3	giri[foot]	N	_	_	_
 o.7.2	i3-li2-mu	Ili-mu[1][-ak]	PN.GEN	_	_	_
