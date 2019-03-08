@@ -52,7 +52,7 @@ o.col1.17'.1	2(disz)	2(disz)[one]	NU	_	_	_
 o.col1.17'.2	udu	udu[sheep]	N	_	_	_
 o.col1.17'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.18'.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.col1.18'.2	masz2-gal	maszgal[goat]	N	_	_	_
+o.col1.18'.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 o.col1.18'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.19'.1	sza3	szag[heart]	N	_	_	_
 o.col1.19'.2	esz3	esz[shrine]	N	_	_	_
@@ -73,7 +73,7 @@ o.col2.5'.2	udu	udu[sheep]	N	_	_	_
 o.col2.5'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col2.5'.4	an	An[1][-ra]	DN.DAT-H	_	_	_
 o.col2.6'.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.col2.6'.2	masz2-gal	maszgal[goat]	N	_	_	_
+o.col2.6'.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 o.col2.6'.3	u2	u[grass][-ø]	N.ABS	_	_	_
 o.col2.7'.1	e2-duru5	eduru[village]	N	_	_	_
 o.col2.7'.2	ka-szuba3	Kaszuba[1]	GN	_	_	_
@@ -83,7 +83,7 @@ o.col2.8'.3	{d}inanna	Inanna[1][-ak][-ak][-sze]	DN.GEN.GEN.TERM	_	_	_
 o.col2.9'.1	1(disz)	1(disz)[one]	NU	_	_	_
 o.col2.9'.2	udu	udu[sheep][-ø]	N.ABS	_	_	_
 o.col2.10'.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.col2.10'.2	masz2-gal	maszgal[goat]	N	_	_	_
+o.col2.10'.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 o.col2.10'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col2.10'.4	gu4-e-us2-sa	gu'eus[ox_driver]	N	_	_	_
 o.col2.11'.1	{d}gu-la	Gula[1][-ak][-ra]	DN.GEN.DAT-H	_	_	_
@@ -93,7 +93,7 @@ o.col2.12'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col2.12'.4	gu4-e-us2-sa	gu'eus[ox_driver]	N	_	_	_
 o.col2.13'.1	{d}lugal-banda3{da}	Lugalbanda[1][-ak][-ra]	DN.GEN.DAT-H	_	_	_
 o.col2.14'.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.col2.14'.2	masz2-gal	maszgal[goat][-ø]	N.ABS	_	_	_
+o.col2.14'.2	masz2-gal	maszgal[billy_goat][-ø]	N.ABS	_	_	_
 o.col2.15'.1	{d}nin-gesz-zi-da	Ningeszzida[1][-ra]	DN.DAT-H	_	_	_
 o.col2.16'.1	5(disz)	5(disz)[one]	NU	_	_	_
 o.col2.16'.2	udu	udu[sheep]	N	_	_	_
@@ -136,7 +136,7 @@ r.col1.2.2	udu	udu[sheep]	N	_	_	_
 r.col1.2.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col1.2.4	...	[_]	_	_	_	_
 r.col1.3.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.col1.3.2	masz2-gal	maszgal[goat]	N	_	_	_
+r.col1.3.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 r.col1.3.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col1.3.4	...	[_]	_	_	_	_
 r.col1.4.1	2(disz)	2(disz)[one]	NU	_	_	_
@@ -219,7 +219,7 @@ r.col2.17.3	niga	niga[fattened][-ø]	NF.V.ABS	_	_	_
 r.col2.17.4	gu4-e-us2-sa	gu'eus[ox_driver]	N	_	_	_
 r.col2.18.1	{d}nin-sza3-ge-pa3-da	Ninszagepada[1][-ak][-ra]	DN.GEN.DAT-H	_	_	_
 r.col2.19.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.col2.19.2	masz2-gal	maszgal[goat]	N	_	_	_
+r.col2.19.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 r.col2.19.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col2.19.4	4(disz)-kam	4(disz)[one][-ak][-am]	NU.GEN.COP-3-SG	_	_	_
 r.col2.19.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
