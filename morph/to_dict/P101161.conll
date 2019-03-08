@@ -13,7 +13,7 @@ o.2.4	2(disz)	2(disz)[one]	NU	_	_	_
 o.2.5	gin2	gig[unit]	N	_	_	_
 o.2.6	naga	naga[potash]	N	_	_	_
 o.3.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.3.2	sa	sa[unit]	N	_	_	_
+o.3.2	sa	sa[bundle]	N	_	_	_
 o.3.3	szum2	szum[garlic]	N	_	_	_
 o.4.1	hu-x	[1].[-ra]	PN.DAT-H	_	_	_
 o.4.2	gaba-ta	gaba[frontier]-ta	N.ABL	_	_	_
@@ -30,7 +30,7 @@ o.6.4	2(disz)	2(disz)[one]	NU	_	_	_
 o.6.5	gin2	gig[unit]	N	_	_	_
 o.6.6	naga	naga[potash]	N	_	_	_
 o.7.1	1(disz)	1(disz)[one]	NU	_	_	_
-o.7.2	sa	sa[unit]	N	_	_	_
+o.7.2	sa	sa[bundle]	N	_	_	_
 o.7.3	szum2	szum[garlic]	N	_	_	_
 o.8.1	...-KA-x	[1][-ra]	PN.DAT-H	_	_	_
 r.1.1	5(disz)	5(disz)[one]	NU	_	_	_
@@ -46,7 +46,7 @@ r.2.4	3(disz)	3(disz)[one]	NU	_	_	_
 r.2.5	gin2	gig[unit]	N	_	_	_
 r.2.6	naga	naga[potash]	N	_	_	_
 r.3.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.3.2	sa	sa[unit]	N	_	_	_
+r.3.2	sa	sa[bundle]	N	_	_	_
 r.3.3	szum2	szum[garlic]	N	_	_	_
 r.4.1	du10-ga-mu	Dugamu[1]	PN	_	_	_
 r.4.2	sukkal	sukkal[secretary][-ra]	N.DAT-H	_	_	_
