@@ -22,7 +22,7 @@ r.4.1	mu	mu[year]	N	mu[name]	N
 r.4.2	us2-sa	us[follow]-a	NF.V.PT	us[follow]-a	V.SUB
 r.4.3	ma2	ma[ship]	N
 r.4.4	{d}en-ki	Enki[1][-ak][-ø]	DN.GEN.ABS
-r.4.5	ba-ab-du8	ba-b-du[caulk][-ø]	MID.3-SG-NH-A.V.3-SG-P
+r.4.5	ba-ab-du8	ba-b-du[caulk][-ø]	MID.3-SG-NH-L3.V.3-SG-S
 s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN
 s1.col1.2.1	lugal	lugal[king]	N	lugal[king][-ak]	N.GEN	lugal[king][-ak]	N.DAT-H	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ak][-ra]	N.GEN.DAT-H	lugal[king]	N.DAT-H	lugal[king][-ø]	N.ABS	lugal[king][-ak][-sze]	N.GEN.TERM	lugal[king][-am]	N.COP-3-SG
 s1.col1.2.2	kal-ga	kalag[strong]-a	NF.V.PT
