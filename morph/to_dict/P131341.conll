@@ -14,13 +14,13 @@ o.3.3	sila3	sila[unit]	N	_	_	_
 o.3.4	sze-ta	sze[barley]-ta	N.ABL	_	_	_
 o.4.1	iti	iti[month]	N	_	_	_
 o.4.2	n-sze3	_[_]-sze	NU.TERM	_	_	_
-o.5.1	sze-bi	sze[barley]-bi	N.3-SG-NH-POSS	_	_	_
+o.5.1	sze-bi	sze[barley]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
 o.5.2	7(asz)	7(asz)[one]	NU	_	_	_
 o.5.3	4(barig)	4(bariga)[unit]	N	_	_	_
 o.5.4	3(ban2)	3(ban)[unit]	N	_	_	_
 o.5.5	sze	sze[barley]	N	_	_	_
 o.5.6	gur	gur[unit]	N	_	_	_
-o.5.7	lugal	lugal[king][-ak]	N.GEN	_	_	_
+o.5.7	lugal	lugal[king][-ak][-ø]	N.GEN.ABS	_	_	_
 r.1.1	sza3-gal	szaggal[food]	N	_	_	_
 r.1.2	gukkal	gukkal[fat-tailed_sheep][-ak][-ø]	N.GEN.ABS	_	_	_
 r.2.1	ki	ki[place]	N	_	_	_
