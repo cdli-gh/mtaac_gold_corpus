@@ -139,7 +139,7 @@ r.8.8	5(disz)	5(disz)[one]	NU
 r.8.9	gin2	gig[unit]	N
 r.8.10	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N
 r.8.11	gur	gur[unit]	N
-r.9.1	nig2-ka9-ak	nigkas[account]-ak	N.GEN	nigkas[account]	N _  _ _
+r.9.1	nig2-ka9-ak	nigSZID[account]-ak	N.GEN
 r.9.2	sze-numun	szenumun[seed]	N	szenumun[seed]	N
 r.9.3	mur-gu4	murgu[fodder]	N
 r.10.1	ur-mes	Urmes[1]	PN
