@@ -24,12 +24,12 @@ o.8.1	lu2-gir2-su{ki}	Lugirsu[1]	PN
 o.9.1	ur-x-da	_[1]	PN
 o.9.2	ugula	ugula[overseer]	N
 o.9.3	kas4	kas[runner][-ak][-ø]	N.GEN.ABS
-o.10.1	maszkim-bi-me	maszkim[administrator]-bi[-ø]-mesz[-a][-ø]	N.3-SG-POSS.ABS.COP-3-PL.SUB.ABS
+o.10.1	maszkim-bi-me	maszkim[administrator]-bi[-ø]-mesz[-a][-ø]	N.3-SG-NH-POSS.ABS.COP-3-PL.SUB.ABS
 o.10.2	bi2-in-du11	b-i-n-dug[speak][-ø]	3-SG-NH.L3.3-SG-H-A.V.3-SG-P
 o.11.1	en3	en[word][-ø]	N.ABS
 o.11.2	ba-ne-tar-ra	ba-nne-tar[ask][-ø]-a	MID.3-PL-DAT.V.3-SG-S.SUB
 o.12.1	mu	mu[name]	N
-o.12.2	inim-bi	inim[matter]-bi[-ø]	N.3-SG-POSS.ABS
+o.12.2	inim-bi	inim[matter]-bi[-ø]	N.3-SG-NH-POSS.ABS
 o.12.3	nu-u3-zu	nu-i[-n]-zu[know][-ø][-esz][-a][-ø]	NEG.FIN.3-SG-H-A.V.3-SG-P.3-PL.SUB.ABS
 o.12.4	bi2-in-ne2-sza-sze3	bi-i-n-e[speak][-ø]-esz-a[-ak]-sze	3-SG-NH.L2.3-SG-H-A.V.PL.3-SG-P.3-PL.SUB.GEN.TERM
 o.13.1	geme2	geme[female_worker][-ø]	N.ABS
@@ -42,7 +42,7 @@ o.15.2	maszkim	maszkim[administrator][-ø]	N.ABS
 o.16.1	lu2-{d}szara2	Luszara[1]	PN
 o.17.1	lu2-eb-gal	Lu'ebgal[1]	PN
 o.18.1	ur-{d}isztaran	Uristaran[1][-ø]	PN.ABS
-o.18.2	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N.3-SG-POSS.ABS.COP-3-PL
+o.18.2	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N.3-SG-NH-POSS.ABS.COP-3-PL
 o.19.1	gu3-de2-a	Gude'a[1]	PN
 o.19.2	dumu	dumu[child]	N
 o.19.3	szagina	szakkanak[governor][-ak]	N.GEN
@@ -52,7 +52,7 @@ o.20.3	dumu	dumu[child]	N
 o.20.4	ur-{d}lamma	Urlamma[1][-ak][-ø]	PN.GEN.ABS
 o.21.1	lu2	lu[person]	N
 o.21.2	mar-za	marza[rites]	N
-o.21.3	ki-ba	ki[place]-bi-'a	N.3-SG-POSS.L1
+o.21.3	ki-ba	ki[place]-bi-'a	N.3-SG-NH-POSS.L1
 o.21.4	tusz-sza-me	tusz[sit]-a[-ø]-mesz	NF.V.PT.ABS.COP-3-PL
 o.22.1	mu	mu[year]	N	mu[name]	N
 o.22.2	bad3	bad[wall]	N	bad[wall]	N
