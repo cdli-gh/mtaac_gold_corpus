@@ -515,26 +515,26 @@ r.col3.2.3	3(gesz2)	3(gesz)[sixty]	NU
 r.col3.2.4	2(u)	2(u)[ten]	NU
 r.col3.2.5	2(disz)	2(disz)[one]	NU	2(disz)[one]
 r.col3.2.6	u8	u[sheep][-ø]	N.ABS	u[ewe]	N	us[sheep][-ø]	N
-r.col3.2.7	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.2.7	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.3.1	szunigin	szunigin[total]	N
 r.col3.3.2	3(gesz'u)	3(gesz'u)[six_hundred]	NU
 r.col3.3.3	7(gesz2)	7(gesz)[sixty]	NU
 r.col3.3.4	5(u)	5(u)[ten]	NU
 r.col3.3.5	udu	udu[sheep][-ø]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
-r.col3.3.6	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.3.6	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.4.1	szunigin	szunigin[total]	N
 r.col3.4.2	...	_[_]	_
 r.col3.4.3	1(gesz'u)	1(gesz'u)[six_hundred]	NU
 r.col3.4.4	7(gesz2)	7(gesz)[sixty]	NU
 r.col3.4.5	u8	u[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
 r.col3.4.6	a-lum	aslum[type_of_sheep][-ø]	N.ABS
-r.col3.4.7	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.4.7	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.5.1	szunigin	szunigin[total]	N
 r.col3.5.2	...	_[_]	_
 r.col3.5.3	8(gesz2)	8(gesz2)[sixty]	NU
 r.col3.5.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 r.col3.5.5	a-lum	aslum[type_of_sheep][-ø]	N.ABS
-r.col3.5.6	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.5.6	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.6.1	szunigin	szunigin[total]	N
 r.col3.6.2	...	_[_]	_
 r.col3.6.3	1(gesz2)	1(gesz)[sixty]	NU
@@ -547,13 +547,13 @@ r.col3.7.3	1(gesz2)	1(gesz)[sixty]	NU
 r.col3.7.4	2(u)	2(u)[ten]	NU
 r.col3.7.5	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
 r.col3.7.6	ud5	uzud[goat][-ø]	N.ABS
-r.col3.7.7	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.7.7	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.8.1	szunigin	szunigin[total]	N
 r.col3.8.2	...	_[_]	_
 r.col3.8.3	1(gesz2)	1(gesz)[sixty]	NU
 r.col3.8.4	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
 r.col3.8.5	masz2-nita2	masznita[male_goat][-ø]	N.ABS
-r.col3.8.6	ba-usz2	ba-ug[die][-ø]	MID.V.PL.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
+r.col3.8.6	ba-usz2	ba-ug[die][-esz]	MID.V.PL.3-PL-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.9.1	...	_[_]	_
 r.col3.9.2	ba-usz2	ba-usz[die][-ø]	MID.V.3-SG-S	ba-usz[kill][-ø]	MID.V.3-SG-S
 r.col3.10.1	...	_[_]	_
