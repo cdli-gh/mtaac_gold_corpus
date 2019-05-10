@@ -8,9 +8,9 @@ o.2.2	3(u)	3(u)[ten]	NU
 o.2.3	ma-na	mana[unit][-ø]	N.ABS
 o.3.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	_	3(dish)[one]	NU	3(disz)[one][-ak]	NU.GEN
 o.3.2	kusz	kusz[leather]	N
-o.3.3	gu4	gud[ox][-ak]	N.GEN	gud[ox][-ak][-ø]	N.GEN.ABS
+o.3.3	gu4	gud[ox]	N	gud[ox][-ak][-ø]	N.GEN.ABS
 o.3.4	tul2	tul[ditch]	N
-o.3.5	ak	ak[do][-a][-sze]	NF.V.PT.TERM	ak[do][-a]	V.SUB	ak[do][-a][-ø]	NF.V.PT.ABS
+o.3.5	ak	ak[do][-a][-ak]	NF.V.PT.GEN	ak[do][-a]	V.SUB	ak[do][-a][-ø]	NF.V.PT.ABS
 o.4.1	5(disz)	5(disz)[one]	NU	5(disz)[one][-sze]	NU.TERM
 o.4.2	ma-na	mana[unit]	N	mana[unit][-ø]	N.ABS
 o.4.3	sze-gin2	szegin[paint]	N
