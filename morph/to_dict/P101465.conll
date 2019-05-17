@@ -13,7 +13,7 @@ r.1.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN
 r.1.2	min-esz3	Minesz[1][-'a]	MN.L1						
 r.2.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
 r.2.2	an-sza{ki}	Ansza[1][-ø]	GN.ABS
-r.2.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[destroy][-ø]	MID.V.3-SG-S	ba-hulu[bad][-ø][-ø]	MID.V.3-SG-S.ABS
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S
 s1.1.1	ur-{d}li9-si4	Urlisi[1]	PN	Urlisi[1][-e]	PN.ERG
 s1.2.1	ensi2	ensik[ruler]	N	ensik[ruler][-ak]	N.GEN	ensik[ruler]	N _ _ _	ensik[ruler][-ak][-ak]	N.GEN.GEN
 s1.2.2	umma{ki}	Umma[1][-ak]	SN.GEN	Umma[1][-ak][-ak]	SN.GEN.GEN	Umma[1][-ak][-ak][-ak]	SN.GEN.GEN.GEN
