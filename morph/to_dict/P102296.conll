@@ -317,7 +317,7 @@ r.col3.3'.2	lugal-ku3-zu	Lugalkuzu[1]	PN	Lugalkuzu[1][-ak]	PN	Lugalkuzu[1][-ak]	
 r.col3.3'.3	sukkal	sukkal[secretary][-ak]	N.GEN	sukkal[secretary][-ak]	N.GEN						
 r.col3.4'.1	5(disz)	5(disz)[one]	NU								
 r.col3.4'.2	gurusz	gurusz[male]	N								
-r.col3.4'.3	gu4-e-us2-sa	gu'eus[follow_ox]-a	V.SUB	gu'e'us[follow_ox]-a	V.SUB	gud[ox]-e-us[follow]-a	N.L3-NH-V-SUB	gudeusa[type_of_animal]	N		
+r.col3.4'.3	gu4-e-us2-sa	gu'eus[follow_ox]-a	NF.V.PT	gu'e'us[follow_ox]-a	V.SUB	gud[ox]-e-us[follow]-a	N.L3-NH-V-SUB	gudeusa[type_of_animal]	N		
 r.col3.5'.1	5(disz)	5(disz)[one]	NU								
 r.col3.5'.2	gurusz	gurusz[male]	N								
 r.col3.5'.3	a-sza3-da	aszag[field]-da	N.COM								
@@ -393,6 +393,6 @@ r.col5.1'.3	erin2-na	erin[people]
 r.col5.2'.1	lugal-ku3-zu	Lugalkuzu[1]	PN	Lugalkuzu[1][-ak]	PN	Lugalkuzu[1][-ak]	PN.GEN				
 r.col5.2'.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N.GEN.GEN.GEN	nubandagu[ox_overseer][-ak]	N.GEN	nubanda[ox_overseer]	N				
 r.col5.3'.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _				
-r.col5.3'.2	us2-sa	us[follow]-a	V.SUB	us[follow]-'a	V.SUB						
+r.col5.3'.2	us2-sa	us[follow]-a	NF.V.PT	us[follow]-'a	V.SUB						
 r.col5.3'.3	ki-masz{ki}	Kimasz[1][-ø]	SN.ABS	Kimasz[1]	SN	Kimasz[1][-ø]	SN	Kimasz[1][-ø]	GN.ABS		
 r.col5.3'.4	ba-hul	ba-hulu[destroy][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[destroy][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[bad][-ø]	MID.V.3-SG-S	ba-hulu[destroy][-ø][-ø]	MID.V.3-SG-S.ABS	ba-hulu[][-ø]	MID.V.3-SG-S
