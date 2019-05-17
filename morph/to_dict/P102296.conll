@@ -28,7 +28,7 @@ o.col1.8.1	2(u)	2(u)[ten]	NU
 o.col1.8.2	4(asz)	4(asz)[one]	NU								
 o.col1.8.3	1(barig)	1(bariga)[unit]	N								
 o.col1.8.4	4(ban2)	4(ban)[unit]	N								
-o.col1.8.5	la2	la[hang][-a]	V.SUB	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V
+o.col1.8.5	la2	la[hang][-ø]	NF.V.ABS	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V
 o.col1.8.6	1(disz)	1(disz)[one]	NU								
 o.col1.8.7	sila3	sila[unit]	N								
 o.col1.8.8	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N				
@@ -97,7 +97,7 @@ o.col1.25.3	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG
 o.col1.26.1	2(szar2)	2(szar)[thirty-six_hundred]	NU								
 o.col1.26.2	5(gesz'u)	5(gesz'u)[six_hundred]	NU								
 o.col1.26.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _						
-o.col1.26.4	la2	la[hang][-a]	V.SUB	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V
+o.col1.26.4	la2	la[hang][-ø]	NF.V.ABS	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V
 o.col1.26.5	1/2(disz)	1/2(disz)[one]	NU								
 o.col1.26.6	gurusz	gurusz[male]	N								
 o.col1.26.7	u4	ud[day]	N								
@@ -109,7 +109,7 @@ o.col2.3.2	gurusz	gurusz[male]	N
 o.col2.3.3	u4	ud[day]	N								
 o.col2.3.4	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.4.1	sze	sze[unit]	N	sze[barley]	N	sze[grain]	N				
-o.col2.4.2	gurx(|SZE.KIN|)-a	gur[reap]-a	V.SUB	gur[reap]-a	V.SUB						
+o.col2.4.2	gurx(|SZE.KIN|)-a	gur[reap]-a	NF.V.PT	gur[reap]-a	V.SUB						
 o.col2.5.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N					
 o.col2.5.2	a-kal-la	Akala[1][-ak]	PN.GEN	Akalla[1][-e]	PN.ERG	Akalla[1][-ak]	PN.GEN				
 o.col2.6.1	3(gesz2)	3(gesz)[sixty]	NU								
@@ -119,9 +119,9 @@ o.col2.6.4	gurusz	gurusz[male]	N
 o.col2.6.5	u4	ud[day]	N								
 o.col2.6.6	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.7.1	zar3	zar[sheaf]	N								
-o.col2.7.2	tab-ba	tab[grasp]-a	V.SUB								
+o.col2.7.2	tab-ba	tab[grasp]-a	NF.V.PT								
 o.col2.7.3	szu	szu[hand]	N								
-o.col2.7.4	ur3-ra	ur[level_off]-a	V.SUB								
+o.col2.7.4	ur3-ra	ur[level_off]-a	NF.V.PT								
 o.col2.8.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N					
 o.col2.8.2	e2-gal-e-si	Egalesi[1][-ak]	PN.GEN								
 o.col2.9.1	a-sza3	aszag[field]	N								
@@ -133,20 +133,20 @@ o.col2.10.4	gurusz	gurusz[male]	N
 o.col2.10.5	u4	ud[day]	N								
 o.col2.10.6	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.11.1	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N				
-o.col2.11.2	gurx(|SZE.KIN|)-a	gur[reap]-a	V.SUB	gur[reap]-a	V.SUB						
+o.col2.11.2	gurx(|SZE.KIN|)-a	gur[reap]-a	NF.V.PT	gur[reap]-a	V.SUB						
 o.col2.12.1	4(gesz2)	4(gesz)[sixty]	NU	4(gesz2)[sixty]	NU						
 o.col2.12.2	gurusz	gurusz[male]	N								
 o.col2.12.3	u4	ud[day]	N								
 o.col2.12.4	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.13.1	zar3	zar[sheaf]	N								
-o.col2.13.2	tab-ba	tab[grasp]-a	V.SUB								
+o.col2.13.2	tab-ba	tab[grasp]-a	NF.V.PT								
 o.col2.14.1	6(gesz2)	6(gesz)[sixty]	NU								
 o.col2.14.2	4(u)	4(u)[ten]	NU	4[u][ten]	NU						
 o.col2.14.3	gurusz	gurusz[male]	N								
 o.col2.14.4	u4	ud[day]	N								
 o.col2.14.5	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.15.1	ki-su7	kisur[threshing_floor]	N								
-o.col2.15.2	gub-ba	gub[stand]-a	V.SUB								
+o.col2.15.2	gub-ba	gub[stand]-a	NF.V.PT								
 o.col2.16.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N					
 o.col2.16.2	da-a-gi4	Da'agi[1][-ak]	PN.GEN								
 o.col2.17.1	a-sza3	aszag[field]	N								
@@ -156,9 +156,9 @@ o.col2.18.2	gurusz	gurusz[male]	N
 o.col2.18.3	u4	ud[day]	N								
 o.col2.18.4	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.19.1	zar3	zar[sheaf]	N								
-o.col2.19.2	tab-ba	tab[grasp]-a	V.SUB								
+o.col2.19.2	tab-ba	tab[grasp]-a	NF.V.PT								
 o.col2.19.3	ki-su7	kisur[threshing_floor]	N								
-o.col2.19.4	gub-ba	gub[stand]-a	V.SUB								
+o.col2.19.4	gub-ba	gub[stand]-a	NF.V.PT								
 o.col2.20.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N					
 o.col2.20.2	ur-{d}nun-gal	Urnungal[1][-ak]	PN.GEN	Urnungal[1][-e]	PN.ERG	Urnungal[1]	PN				
 o.col2.21.1	8(gesz2)	8(gesz2)[sixty]	NU								
@@ -166,11 +166,11 @@ o.col2.21.2	gurusz	gurusz[male]	N
 o.col2.21.3	u4	ud[day]	N								
 o.col2.21.4	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 o.col2.22.1	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N				
-o.col2.22.2	gurx(|SZE.KIN|)-a	gur[reap]-a	V.SUB	gur[reap]-a	V.SUB						
+o.col2.22.2	gurx(|SZE.KIN|)-a	gur[reap]-a	NF.V.PT	gur[reap]-a	V.SUB						
 o.col2.22.3	zar3	zar[sheaf]	N								
-o.col2.22.4	tab-ba	tab[grasp]-a	V.SUB								
+o.col2.22.4	tab-ba	tab[grasp]-a	NF.V.PT								
 o.col2.22.5	ki-su7	kisur[threshing_floor]	N								
-o.col2.22.6	gub-ba	gub[stand]-a	V.SUB								
+o.col2.22.6	gub-ba	gub[stand]-a	NF.V.PT								
 o.col2.22.7	a-sza3	aszag[field]	N								
 o.col2.22.8	gu2-de3-na	Gudena[1][-ak]	PN.GEN								
 o.col3.1.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N					
@@ -181,16 +181,16 @@ o.col3.3.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	szag[heart]-bi-ta	N.3
 o.col3.4.1	2(bur3)	2(bur)[unit]	N								
 o.col3.4.2	3(iku)	3(iku)[unit]	N								
 o.col3.4.3	GAN2	GAN[surface]	N								
-o.col3.4.4	tug2-gur10	tuggur[plow][-a]	V.SUB								
+o.col3.4.4	tug2-gur10	tuggur[plow][-a]	NF.V.PT								
 o.col3.4.5	x	_[_]	_								
-o.col3.4.6	ak	ak[do][-a]	V.SUB								
+o.col3.4.6	ak	ak[do][-a]	NF.V.PT								
 o.col3.4.7	1/2(iku)	1/2(iku)[unit]	N								
 o.col3.4.8	1/4(iku)	1/4(iku)[unit]	N								
 o.col3.4.9	GAN2-ta	GAN[surface]-ta	N.ABL								
 o.col3.4.10	tug2-x	_[_]	_								
 o.col3.4.11	1(iku)	1(iku)[unit]	N								
 o.col3.4.12	GAN2-ta	GAN[surface]-ta	N.ABL								
-o.col3.4.13	gesz-ur3-ra	geszur[harrow]-a	V.SUB								
+o.col3.4.13	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.4.14	a-ra2	ara[times]	N								
 o.col3.4.15	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.4.16	4(iku)	4(iku)[unit]	N								
@@ -204,12 +204,12 @@ o.col3.5.5	6(disz)-kam	6(disz)[one]-ak-am	NU.GEN.COP-3-SG
 o.col3.6.1	6(bur3)	6(bur)[unit]	N								
 o.col3.6.2	1(esze3)	1(esze)[unit]	N								
 o.col3.6.3	GAN2	GAN[field]	N								
-o.col3.6.4	tug2-gur10	tuggur[plow][-a]	V.SUB								
-o.col3.6.5	ak	ak[do][-a]	V.SUB								
+o.col3.6.4	tug2-gur10	tuggur[plow][-a]	NF.V.PT								
+o.col3.6.5	ak	ak[do][-a]  NF.V.PT								
 o.col3.6.6	1/2(iku)	1/2(iku)[unit]	N								
 o.col3.6.7	1/4(iku)	1/4(iku)[unit]	N								
 o.col3.6.8	GAN2-ta	GAN[surface]-ta	N.ABL								
-o.col3.6.9	gesz-ur3-ra	geszur[harrow]-a	V.SUB								
+o.col3.6.9	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.6.10	a-ra2	ara[times]	N								
 o.col3.6.11	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.6.12	4(disz)	4(disz)[one]	NU								
@@ -223,7 +223,7 @@ o.col3.8.1	1(bur'u)	1(bur'u)[unit]	N
 o.col3.8.2	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_						
 o.col3.8.3	1(esze3)	1(esze)[unit]	N								
 o.col3.8.4	GAN2	GAN[surface]	N								
-o.col3.8.5	gesz-ur3-ra	geszur[harrow]-a	V.SUB								
+o.col3.8.5	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.8.6	a-ra2	ara[times]	N								
 o.col3.8.7	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.8.8	4(disz)	4(disz)[one]	NU								
@@ -241,7 +241,7 @@ o.col3.10.3	2(esze3)	2(esze)[unit]	N
 o.col3.10.4	3(iku)	3(iku)[unit]	N								
 o.col3.10.5	1/2(iku)	1/2(iku)[unit]	N								
 o.col3.10.6	GAN2	GAN[surface]	N								
-o.col3.10.7	gesz-ur3-ra	geszur[harrow]-a	V.SUB								
+o.col3.10.7	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.10.8	a-ra2	ara[times]	N								
 o.col3.10.9	1(disz)-kam	1(disz)[one]-ak-am	NU.GEN.COP-3-SG								
 o.col3.10.10	4(iku)	4(iku)[unit]	N								
@@ -254,9 +254,9 @@ o.col3.11.4	3(gesz2)	3(gesz)[sixty]	NU
 o.col3.11.5	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _						
 o.col3.11.6	1/3(disz)-kam	1/3(disz)[one]-ak-am	NU.GEN.COP-3-SG								
 o.col3.12.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
-o.col3.12.2	gesz-ur3-ra	geszur[harrow]-a	V.SUB								
+o.col3.12.2	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.12.3	u3	u[and]	CNJ								
-o.col3.12.4	tug2-gurx(|SZE.KIN|)	tuggur[plow][-a][-ak]	V.SUB.GEN								
+o.col3.12.4	tug2-gurx(|SZE.KIN|)	tuggur[plow][-a][-ak]	NF.V.PT.GEN								
 o.col3.13.1	3(bur'u)	3(bur'u)[unit]	N								
 o.col3.13.2	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_						
 o.col3.13.3	1(esze3)	1(esze)[unit]	N								
@@ -269,7 +269,7 @@ o.col3.14.2	3(iku)	3(iku)[unit]	N
 o.col3.14.3	GAN2	GAN[surface]	N								
 o.col3.14.4	szuku	szukur[ration]	N								
 o.col3.14.5	...	_[_]	_								
-o.col3.15.1	uru4-a	uru[sow]-a	V.SUB								
+o.col3.15.1	uru4-a	uru[sow]-a	NF.V.PT								
 o.col3.15.2	2(iku)	2(iku)[unit]	N								
 o.col3.15.3	GAN2-ta	GAN[surface]-ta	N.ABL								
 o.col3.15.4	...	_[_]	_								
@@ -287,7 +287,7 @@ o.col3.18.2	3(gesz2)	3(gesz)[sixty]	NU
 o.col3.18.3	5(u)	5(u)[ten]	NU								
 o.col3.18.4	5(disz)	5(disz)[one]	NU								
 o.col3.18.5	...	_[_]	_								
-o.col3.18.6	al	al[hoe][-a]	V.SUB								
+o.col3.18.6	al	al[hoe][-a]	NF.V.PT								
 o.col3.18.7	5(disz)	5(disz)[one]	NU								
 o.col3.18.8	sar-ta	sar[unit]-ta	N.ABL	sar[unit]-ta	N.ABL						
 o.col3.19.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
@@ -300,7 +300,7 @@ o.col3.20.2	3(u)	3(u)[ten]	NU
 o.col3.20.3	6(disz)	6(disz)[one]	NU								
 o.col3.20.4	sar	sar[unit]	N								
 o.col3.20.5	...	_[_]	_								
-o.col3.20.6	al	al[hoe][-a]	V.SUB								
+o.col3.20.6	al	al[hoe][-a]	NF.V.PT								
 o.col3.20.7	n	_[_]	NU								
 o.col3.20.8	sar-ta	sar[unit]-ta	N.ABL	sar[unit]-ta	N.ABL						
 o.col4.1.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
@@ -321,7 +321,7 @@ r.col3.4'.3	gu4-e-us2-sa	gu'eus[follow_ox]-a	NF.V.PT	gu'e'us[follow_ox]-a	V.SUB	
 r.col3.5'.1	5(disz)	5(disz)[one]	NU								
 r.col3.5'.2	gurusz	gurusz[male]	N								
 r.col3.5'.3	a-sza3-da	aszag[field]-da	N.COM								
-r.col3.5'.4	tusz-a	tusz[dewell]-a	V.SUB								
+r.col3.5'.4	tusz-a	tusz[dewell]-a	NF.V.PT								
 r.col3.6'.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN				
 r.col3.6'.2	4(disz)-sze3	4(disz)[one]-sze	NU.TERM								
 r.col3.7'.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
@@ -366,7 +366,7 @@ r.col3.19'.5	1(disz)-sze3	1(disz)[one]-sze	NU.TERM
 r.col3.20'.1	nibru{ki}	Nibru[1][-'a]	SN.L1	Nibru[1][-ak][-a]	SN.GEN.L1	Nibru[1][-ak]	SN.GEN				
 r.col3.20'.2	ma2	ma[ship]	N	ma[ship][-ak]	N.GEN						
 r.col3.20'.3	sze	sze[barley][-ak]	N.GEN	sze[barley]	N	sze[grain]	N				
-r.col3.20'.4	gid2-da	gid[drag]-a	V.SUB	gid[long]-a[-ø]	V.SUB.ABS	gid[long]-'a	V.SUB				
+r.col3.20'.4	gid2-da	gid[drag]-a	NF.V.PT	gid[long]-a[-ø]	V.SUB.ABS	gid[long]-'a	V.SUB				
 r.col3.21'.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _						
 r.col3.21'.2	bi2-du11-ga	Biduga[1][-ak]	PN.GEN	Biduga[1]	PN						
 r.col4.1'.1	szunigin	szunigin[total]	N								
@@ -395,4 +395,4 @@ r.col5.2'.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N.GEN.GEN.GEN	nu
 r.col5.3'.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _				
 r.col5.3'.2	us2-sa	us[follow]-a	NF.V.PT	us[follow]-'a	V.SUB						
 r.col5.3'.3	ki-masz{ki}	Kimasz[1][-ø]	SN.ABS	Kimasz[1]	SN	Kimasz[1][-ø]	SN	Kimasz[1][-ø]	GN.ABS		
-r.col5.3'.4	ba-hul	ba-hulu[destroy][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[destroy][-ø][-a][-'a]	MID.V.3-SG-S.SUB.L1	ba-hulu[bad][-ø]	MID.V.3-SG-S	ba-hulu[destroy][-ø][-ø]	MID.V.3-SG-S.ABS	ba-hulu[][-ø]	MID.V.3-SG-S
+r.col5.3'.4	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S
