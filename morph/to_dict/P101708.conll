@@ -44,4 +44,4 @@ r.col1'.7'.2	GAN2	GAN[field]	N
 r.col1'.7'.3	4(asz)	4(asz)[one]	NU
 r.col1'.8'.1	...	_[_]	_
 r.col1'.8'.2	GAN2	GAN[field]	N
-r.col1'.8'.3	su3	sug[empty][-a]	V.SUB
+r.col1'.8'.3	su3	sug[empty][-ø]	NF.V.ABS
