@@ -18,13 +18,13 @@
 .col1.6'.2	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN.GEN.ABL
 .col1.7'.1	n	_[_]	NU
 .col1.7'.2	2(disz)	2(disz)[one]	NU	2(disz)[one]
-.col1.7'.3	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.7'.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.7'.4	5(u)	5(u)[ten]	NU
 .col1.7'.5	6(disz)	6(disz)[one]	NU
 .col1.7'.6	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 .col1.8'.1	n	_[_]	NU
 .col1.8'.2	1(disz)	1(disz)[one]	NU
-.col1.8'.3	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.8'.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.8'.4	a-lum	aslum[type_of_sheep]	N
 .col1.9'.1	n	_[_]	NU
 .col1.9'.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
@@ -39,7 +39,7 @@
 .col1.12'.2	x	_[_]	_
 .col1.12'.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 .col1.12'.4	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
-.col1.12'.5	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.12'.5	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.13'.1	x	_[_]	_
 .col1.13'.2	x	_[_]	_
 .col1.13'.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
@@ -47,7 +47,7 @@
 .col1.13'.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 .col1.14'.1	n	_[_]	NU
 .col1.14'.2	1(disz)	1(disz)[one]	NU
-.col1.14'.3	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.14'.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.14'.4	a-lum	aslum[type_of_sheep]	N
 .col1.15'.1	n	_[_]	NU
 .col1.15'.2	2(disz)	2(disz)[one]	NU	2(disz)[one]
@@ -62,12 +62,12 @@
 .col1.17'.2	a-ku-ku-ta	Akuku[1][-ak]-ta	PN.GEN.ABL
 .col1.18'.1	3(u)	3(u)[ten]	NU
 .col1.18'.2	6(disz)	6(disz)[one]	NU
-.col1.18'.3	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.18'.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.18'.4	5(u)	5(u)[ten]	NU
 .col1.18'.5	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
 .col1.18'.6	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 .col1.19'.1	2(disz)	2(disz)[one]	NU	2(disz)[one]
-.col1.19'.2	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col1.19'.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col1.19'.3	a-lum	aslum[type_of_sheep]	N
 .col1.20'.1	8(disz)	8(disz)[one]	NU
 .col1.20'.2	ud5	uzud[goat]	N
@@ -151,7 +151,7 @@
 .col2.21.4	7(disz)	7(disz)[one]	NU
 .col2.21.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 .col2.22.1	2(disz)	2(disz)[one]	NU	2(disz)[one]
-.col2.22.2	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+.col2.22.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 .col2.22.3	a-lum	aslum[type_of_sheep]	N
 .col2.22.4	2(disz)	2(disz)[one]	NU	2(disz)[one]
 .col2.22.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
@@ -355,7 +355,7 @@ r.col1.11.1	sipa	sipa[sheepherd]	N	sipa[shepherd]	N
 r.col1.11.2	iri-sa12-rig7{ki}-me	Irisarig[1][-ak]-mesz	SN.GEN.COP-3-PL
 r.col1.12.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.col1.12.2	8(disz)	8(disz)[one]	NU
-r.col1.12.3	u8	us[sheep]	N	u[ewe]	N	us[sheep][-ø]	N
+r.col1.12.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 r.col1.12.4	2(u)	2(u)[ten]	NU
 r.col1.12.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 r.col1.13.1	ki	ki[place]	N
