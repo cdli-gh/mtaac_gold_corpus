@@ -35,9 +35,9 @@ s1.col1.3.1	lugal	lugal[king]	N	_	_	_
 s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN.GEN	_	_	_
 s1.col1.4.1	lugal	lugal[king]	N	_	_	_
 s1.col1.4.2	an-ub-da	anubda[quarter]	N	_	_	_
-s1.col1.4.3	limmu2-ba	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN	_	_	_
+s1.col1.4.3	limmu2-ba	limmu[four]-bi-ak[-ø]	NU.3-SG-NH-POSS.GEN.ABS	_	_	_
 s1.col2.1.1	lugal-iti-da	Lugalitida[1]	PN	_	_	_
 s1.col2.2.1	dub-sar	dubsar[scribe]	N	_	_	_
 s1.col2.3.1	dumu	dumu[child]	N	_	_	_
-s1.col2.3.2	ur-{d}dumu-zi-da	Urdumuzida[1][-ak]	PN.GEN	_	_	_
-s1.col2.4.1	ARAD2-zu	arad[slave]-zu	N.2-SG-POSS	_	_	_
+s1.col2.3.2	ur-{d}dumu-zi-da	Urdumuzida[1][-ak][-ø]	PN.GEN.ABS	_	_	_
+s1.col2.4.1	ARAD2-zu	arad[slave]-zu[-ø]	N.2-SG-POSS.ABS	_	_	_
