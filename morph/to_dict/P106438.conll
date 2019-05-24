@@ -125,7 +125,7 @@ o.col2.4.1	3(disz)	3(disz)[one]	NU	_	_	_
 o.col2.4.2	sila4	sila[lamb]	N	_	_	_
 o.col2.4.3	bar-su-ga	barsuga[sheep_designation][-ø]	NF.V.ABS	_	_	_
 o.col2.5.1	masz2-da-re6-a	maszdarea[payment]	N	_	_	_
-o.col2.5.2	lugal	lugal[king][-ak]	N.DAT-H	_	_	_
+o.col2.5.2	lugal	lugal[king][-ak]	N.GEN	_	_	_
 o.col2.6.1	kiszib3	kiszib[seal]	N	_	_	_
 o.col2.6.2	ensi2-ka	ensik[ruler][-ak]	N.GEN	_	_	_
 o.col2.7.1	1(u)	1(u)[ten]	NU	_	_	_
@@ -143,7 +143,7 @@ o.col2.10.1	7(disz)	7(disz)[one]	NU	_	_	_
 o.col2.10.2	gu4	gud[ox]	N	_	_	_
 o.col2.10.3	niga	niga[fattened][-ø]	NF.V.ABS	_	_	_
 o.col2.11.1	nig2-{gesz}tag-ga	nigtaga[sacrifice]	N	_	_	_
-o.col2.11.2	lugal	lugal[king][-ak]	N.DAT-H	_	_	_
+o.col2.11.2	lugal	lugal[king][-ak]	N.GEN	_	_	_
 o.col2.12.1	x	_[_]	_	_	_	_
 o.col2.12.2	...	_	_	_	_	_
 o.col2.12.3	x	_[_]	_	_	_	_
