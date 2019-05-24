@@ -36,9 +36,9 @@ s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN.GEN	Urim[1][-ak]-'a	SN.GEN.L1	Urim[1]-ma	S
 s1.col1.4.1	lugal	lugal[king]	N	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-e]	N.ERG	lugal[king]	N _  _ _	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H	lugal[king]	Ns
 s1.col1.4.2	an-ub-da	anubda[quarter]	N
 
-s1.col1.4.3	limmu2-ba	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN
+s1.col1.4.3	limmu2-ba	limmu[four]-bi-ak[-ø]	NU.3-SG-NH-POSS.GEN.ABS	limmu[four]-bi-ak	NU.3-SG-NH-POSS.GEN
 s1.col2.1.1	lu2-du10-ga	Luduga[1]	PN
 s1.col2.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG
 s1.col2.3.1	dumu	dumu[child]	N
-s1.col2.3.2	nigar{gar}-ki-du10	Nigarkidu[1][-ak]	PN.GEN
-s1.col2.4.1	ARAD2-zu	arad[slave]-zu	N.2-SG-POSS	Aarad[slave]-zu	N.2-SG-POSS
+s1.col2.3.2	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN.GEN.ABS
+s1.col2.4.1	ARAD2-zu	arad[slave]-zu[-ø]	N.2-SG-POSS.ABS	Aarad[slave]-zu	N.2-SG-POSS
