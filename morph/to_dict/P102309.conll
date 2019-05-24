@@ -21,10 +21,10 @@ o.6.1	1(disz)	1(disz)[one]	NU
 o.6.2	ab2	ab[cow][-ø]	N.ABS
 o.7.1	7(disz)	7(disz)[one]	NU
 o.7.2	udu	udu[sheep]	N
-o.7.3	niga	niga[fattened][-a][-ø]	NF.V.PT.ABS
+o.7.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS
 o.8.1	1(disz)	1(disz)[one]	NU
 o.8.2	udu	udu[sheep]	N
-o.8.3	niga	niga[fattened][-a] NF.V.PT
+o.8.3	niga	niga[fattened][-ø] NF.V.ABS
 o.8.4	gesz-du3	geszdu[breeder][-ø]	N.ABS
 o.9.1	1(disz)	1(disz)[one]	NU
 o.9.2	masz2-gal	maszgal[billy_goat]	N
@@ -32,7 +32,7 @@ o.9.3	niga	niga[fattened][-ø]	NF.V.ABS
 o.9.4	szimaszgi2	Szimaszgi[Szimaszkian][-ø]	N.ABS
 o.10.1	8(disz)	8(disz)[one]	NU
 o.10.2	masz2-gal	maszgal[billy_goat]	N
-o.10.3	niga	niga[fattened][-a][-ø]	NF.V.PT.ABS
+o.10.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS
 o.11.1	2(gesz2)	2(gesz)[sixty]	NU
 o.11.2	3(u)	3(u)[ten]	NU
 o.11.3	7(disz)?	7(disz)[one]	NU
