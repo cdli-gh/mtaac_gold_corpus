@@ -253,8 +253,8 @@ r.col3.8.3	5(disz)-kam	5(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
 r.col3.9.1	sza3	szag[heart]	N	_	_	_
 r.col3.9.2	uri5{ki}-ma	Urim[1]-ak[-'a]	SN.GEN.L1	_	_	_
 r.col3.10.1	{d}suen-a-bu-szu	Suenabuszu[1]	PN	_	_	_
-r.col3.10.2	sagi	sagi[cup_bearer]	N	_	_	_
-r.col3.10.3	maszkim	maszkim[administrator][-ø]	N	_	_	_
+r.col3.10.2	sagi	sagi[cup_bearer][-ø]	N.ABS	_	_	_
+r.col3.10.3	maszkim	maszkim[administrator][-ø]	N.ABS	_	_	_
 r.col3.11.1	ki	ki[place]	N	_	_	_
 r.col3.11.2	puzur4-{d}en-lil2-ta	Puzurenlil[1][-ak]-ta	PN.GEN.ABL	_	_	_
 r.col3.12.1	ba-zi	ba-zig[rise][-ø]	MID.V.3-SG-S	_	_	_
