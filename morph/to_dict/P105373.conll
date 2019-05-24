@@ -63,7 +63,7 @@ r.2.2	gin2	gig[unit]	N	_	_	_
 r.2.3	apin-la2	apinla[tenancy]	N	_	_	_
 r.3.1	szuku	szukur[prebend_land]	N	_	_	_
 r.3.2	sza-lim-be-li2	Szalimbeli[1][-ak]	PN.GEN	_	_	_
-r.4.1	igi-6(disz)-gal2	igi6(disz)gal[fraction]	NU	_	_	_
+r.4.1	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	_	_	_
 r.4.2	1(u)	1(u)[ten]	NU	_	_	_
 r.4.3	5(disz)	5(disz)[one]	NU	_	_	_
 r.4.4	sze	sze[unit]	N	_	_	_
