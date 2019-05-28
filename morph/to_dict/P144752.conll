@@ -20,7 +20,7 @@ r.1.2	us2-sa	us[follow]-a	NF.V.PT	us[follow]-a	V.SUB	us[follow]-a	NF.V.SUB	us[fo
 r.1.3	{d}szu-{d}suen	Szusuen[1]	RN	Szusuen[1][-ø]	RN.ABS	Szusuen[1][-ak]	RN.GEN	Szusuen[1]	RN _  _ _
 r.1.4	lugal-e	lugal[king]-e	N.ERG
 r.1.5	bad3	bad[wall]	N	bad[wall][-ø]	N.ABS
-r.1.6	mar-tu	Martu[Amorite][-ak][-ø]	N.GEN.ABS	Martu[1][-ra]	EN.DAT-H	Martu[Amorite][-ø]	N.ABS	Martu[Amorite]	N	Martu[1][-ra]	EN.DAT-NH	Martu[Amorite][-ak]	N.GEN	martu[Amorite]	N	martu[Amorite][-ø]	AJ.ABS
+r.1.6	mar-tu	Martu[1][-ø]	EN.ABS
 r.1.7	ba-du3	ba-du[build][-ø]	MID.V.3-SG-S
 s1.1.1	gu-u2-gu-a	Gu'ugu'a[1]	PN
 s1.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-ak]	N.GEN	dubsar[scribe][-ø]	N.ABS
