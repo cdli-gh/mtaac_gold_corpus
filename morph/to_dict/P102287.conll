@@ -73,7 +73,7 @@ o.17.2	3(ban2)	3(ban)[unit]	N	3(ban2)[unit]	N
 o.17.3	giri3-se3-ga	girisega[servant]	N										
 o.17.4	{d}nin-ur4-ra	Ninura[1][-ak]	DN.GEN	Ninura[1][-ak]	DN.GEN								
 o.18.1	n	_[_]	NU										
-o.18.2	geme2	geme[worker]	N										
+o.18.2	geme2	geme[female_worker]	N										
 o.18.3	kikken-na	kikken[miller]-ak	N.GEN										
 o.19.1	...	_[_]	_										
 o.19.2	1(asz)	1(asz)[one]	NU										
@@ -120,7 +120,7 @@ r.2.2	n(ban2)	_(ban)[unit]	N
 r.2.3	5(disz)	5(disz)[one]	NU										
 r.2.4	sila3	sila[unit]	N										
 r.2.5	sze-ba	szeba[ration]	N										
-r.2.6	geme2	geme[worker]	N										
+r.2.6	geme2	geme[female_worker]	N										
 r.2.7	kikken-na	kikken[miller]-ak	N.GEN										
 r.3.1	1(asz)	1(asz)[one]	NU										
 r.3.2	5(ban2)	5(ban)[unit]	N	2(ban)[unit]	N								
