@@ -7,7 +7,7 @@ o.1.4	1(u)	1(u)[ten]	NU
 o.1.5	gin2	gig[unit]	N	gig[measuring_tool]	N
 o.1.6	siki	siki[wool]	N
 o.1.7	tug2	tug[textile]	N
-o.1.8	us2	us[follow][-ø]	NF.V.ABS	us[follow][-a]	NF.V.PT
+o.1.8	us2	us	us[follow][-a]	NF.V.PT
 o.1.9	szar3	szar[cloth_designation][-ø][-sze]	NF.V.PT.TERM
 o.2.1	1(u)	1(u)[ten]	NU
 o.2.2	8(disz)	8(disz)[one]	NU
@@ -15,7 +15,7 @@ o.2.3	ma-na	mana[unit]	N
 o.2.4	siki	siki[wool]	N
 o.2.5	tug2	tug[textile]	N
 o.2.6	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG
-o.2.7	us2	us[follow][-ø][-sze]	NF.V.ABS.TERM	us[follow][-a]	NF.V.PT
+o.2.7	us2	us[follow][-a][-sze]	NF.V.PT.TERM	us[follow][-a]	NF.V.PT
 o.3.1	e2-gal-ta	egal[palace]-ta	N.ABL
 o.4.1	e3-a	e[leave]-a[-ø]	NF.V.PT.ABS	e[leave]-a	V.SUB.GEN.GEN
 o.5.1	a-mur-{d}utu	Amurutu[1][-e]	PN.ERG
