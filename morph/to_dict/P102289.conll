@@ -7,7 +7,7 @@ o.1.4	kasz	kasz[beer]	N
 o.1.5	saga	sag[good]-a	NF.V.ABS
 o.2.1	2(ban2)	2(ban)[unit]	N
 o.2.2	kasz	kasz[beer]	N
-o.2.3	du	gin[quality_designation]	NF.V.ABS
+o.2.3	du	gin[quality_designation][-ø]	NF.V.ABS
 o.3.1	u4	ud[day]	N
 o.3.2	1(u)	1(u)[ten]	NU
 o.3.3	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG
@@ -20,7 +20,7 @@ o.5.1	3(ban2)	3(ban)[unit]	N
 o.5.2	7(disz)	7(disz)[one]	NU
 o.5.3	sila3	sila[unit]	N
 o.5.4	kasz	kasz[beer]	N
-o.5.5	du	gin[quality_designation]	NF.V.ABS
+o.5.5	du	gin[quality_designation][-ø]	NF.V.ABS
 r.1.1	u4	ud[day]	N
 r.1.2	1(u)	1(u)[ten]	NU
 r.1.3	5(disz)-kam	5(disz)[one]-ak-am	NU.GEN.COP-3-SG
