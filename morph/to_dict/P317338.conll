@@ -3,7 +3,7 @@
 o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	_	_	_
 o.2.1	sze-ba	szeba[ration]	N	_	_	_
 o.2.2	geme2	geme[female_worker]	N	_	_	_
-o.2.3	usz-bar	uszbar[garment][-ak][-ra]	N.GEN.DAT-H	_	_	_
+o.2.3	usz-bar	uszbar[garment_type][-ak][-ra]	N.GEN.DAT-H	_	_	_
 o.3.1	...	_[_]	_	_	_	_
 o.3.2	x	_[_]	_	_	_	_
 o.3.3	...	_[_]	_	_	_	_
