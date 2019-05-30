@@ -10,7 +10,7 @@ o.2.2	kasz	kasz[beer]	N
 o.2.3	du	gin[quality_designation]	NF.V.ABS
 o.3.1	u4	ud[day]	N
 o.3.2	1(u)	1(u)[ten]	NU
-o.3.3	4(disz)-kam	4(disz)[one][-ak][-am]	NU.GEN.COP-3-SG
+o.3.3	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG
 o.4.1	1(ban2)	1(ban)[unit]	N
 o.4.2	2(disz)	2(disz)[one]	NU
 o.4.3	sila3	sila[unit]	N
