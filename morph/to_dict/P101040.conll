@@ -230,7 +230,7 @@ r.col1.5'.3	3(ban2)	3(ban)[unit]	N	_	_	_
 r.col1.5'.4	mes-e2	Mese[1][-ra]	PN.DAT-H	_	_	_
 r.col1.5'.5	x	_[_]	_	_	_	_
 r.col1.6'.1	...	_[_]	_	_	_	_
-r.col1.6'.2	du3	gin[quality_designation]	N	_	_	_
+r.col1.6'.2	du3	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 r.col1.6'.3	...	_[_]	_	_	_	_
 r.col1.7'.1	4(iku)	4(iku)[unit]	N	_	_	_
 r.col1.7'.2	1/4(iku)	1/4(iku)[unit]	N	_	_	_
