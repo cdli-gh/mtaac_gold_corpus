@@ -43,7 +43,7 @@ o.9.4	sar	sar[unit]	N	_	_	_
 o.9.5	kin	kig[work]	N	_	_	_
 o.9.6	sahar	sahar[earth][-ak]	N.GEN	_	_	_
 o.10.1	kin	kig[work]	N	_	_	_
-o.10.2	szuku-ra	szukur[ration]	N.GEN	_	_	_
+o.10.2	szuku-ra	szukur[ration][-ak]	N.GEN	_	_	_
 o.10.3	engar	engar[farmer]	N	_	_	_
 o.10.4	nu-banda3-gu4	nubandagu[ox_overseer]	N	_	_	_
 o.10.5	u3	u[and]	CNJ	_	_	_
@@ -59,7 +59,7 @@ r.1.4	gin2	gig[unit]	N	_	_	_
 r.1.5	kin	kig[work]	N	_	_	_
 r.1.6	sahar	sahar[earth][-ak]	N.GEN	_	_	_
 r.2.1	i7	id[river]	N	_	_	_
-r.2.2	u3-wa-ri-da	Uwarida[1][-’a]	WN.L1	_	_	_
+r.2.2	u3-wa-ri-da	Uwarida[1][-'a]	WN.L1	_	_	_
 r.3.1	6(disz)	6(disz)[one]	NU	_	_	_
 r.3.2	1/2(disz)	1/2(disz)[one]	NU	_	_	_
 r.3.3	sar	sar[unit]	N	_	_	_
@@ -68,7 +68,7 @@ r.3.5	sahar	sahar[earth][-ak]	N.GEN	_	_	_
 r.3.6	e	eg[levee]	N	_	_	_
 r.3.7	sa-dur2-ra	sadurra[bottom]	N	_	_	_
 r.3.8	a-sza3	aszag[field]	N	_	_	_
-r.3.9	iszib-e-ne	Iszibene[1][-ak][-ak][-’a]	FN.GEN.GEN.L1	_	_	_
+r.3.9	iszib-e-ne	Iszibene[1][-ak][-ak][-'a]	FN.GEN.GEN.L1	_	_	_
 r.4.1	szunigin	szunigin[total]	N	_	_	_
 r.4.2	8(gesz2)	8(gesz2)[sixty]	NU	_	_	_
 r.4.3	5(disz)	5(disz)[one]	NU	_	_	_
