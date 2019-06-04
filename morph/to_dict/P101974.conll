@@ -18,7 +18,7 @@ r.3.1	iti	iti[month]	N	_	_	_
 r.3.2	gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-’a]	MN.L1	_	_	_
 r.4.1	mu	mu[year]	N	_	_	_
 r.4.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
-r.4.3	an-sza{ki}	Anszan[1][-ø]	SN.ABS	_	_	_
+r.4.3	an-sza{ki}	Anszan[1][-ø]	GN.ABS	_	_	_
 r.4.4	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_
 eo.5.1	2(u)	2(u)[ten]	NU	_	_	_
 eo.5.2	6(asz)	6(asz)[one]	NU	_	_	_
@@ -37,7 +37,7 @@ er.2.1	iti	iti[month]	N	_	_	_
 er.2.2	gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-’a]	MN.L1	_	_	_
 er.3.1	mu	mu[year]	N	_	_	_
 er.3.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
-er.3.3	an-sza-an{ki}	Anszan[1][-ø]	SN.ABS	_	_	_
+er.3.3	an-sza-an{ki}	Anszan[1][-ø]	GN.ABS	_	_	_
 er.3.4	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_
 s1.1.1	szul-e2-du3-du3	Szul-edudu[1]	PN	_	_	_
 s1.2.1	dub-sar	dubsar[scribe]	N	_	_	_
