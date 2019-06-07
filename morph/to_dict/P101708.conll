@@ -30,11 +30,11 @@ r.col1'.3'.4	gur	gur[unit]	N
 r.col1'.4'.1	...	_[_]	_
 r.col1'.4'.2	GAN2	GAN[field]	N
 r.col1'.4'.3	4(asz)	4(asz)[one]	NU
-r.col1'.4'.4	2(barig)	2(barig)[unit]	N	2(bariga)[unit]	N
+r.col1'.4'.4	2(barig)	2(bariga)[unit]	N	2(bariga)[unit]	N
 r.col1'.5'.1	...	_[_]	_
 r.col1'.5'.2	GAN2	GAN[field]	N
 r.col1'.5'.3	3(asz)	3(asz)[one]	NU
-r.col1'.5'.4	2(barig)	2(barig)[unit]	N	2(bariga)[unit]	N
+r.col1'.5'.4	2(barig)	2(bariga)[unit]	N	2(bariga)[unit]	N
 r.col1'.6'.1	...	_[_]	_
 r.col1'.6'.2	GAN2	GAN[field]	N
 r.col1'.6'.3	3(asz)	3(asz)[one]	NU
