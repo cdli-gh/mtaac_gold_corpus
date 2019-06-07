@@ -56,7 +56,7 @@ r.1.6	gur	gur[unit]	N	gur[unit][-ø]	N.ABS	gur[unit][-ø]	N
 r.2.1	nig2-{d}ba-ba6	Nigbaba[1][-e]	PN.ERG
 r.2.2	szu	szu[hand][-e]	N.L3-NH	szu[hand]	N	szu[hand][-ø]	N.ABS	szu[hand][-e]	N.L3
 r.2.3	ba-ti	ba[-n]-teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	ba[-n]teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	ba[-n]-teg[accept][-ø][-esz]	MID.3-SG-H-A.V.3-SG-P.3-PL
-r.3.1	la2-ia3	la’u[arrears]	N	la'u[arrears]	N
+r.3.1	la2-ia3	la'u[arrears]	N	la'u[arrears]	N
 r.3.2	su-ga	sug[repay]-a	NF.V.PT	sug[repay]-a[-ø]	NF.V.PT.ABS
 r.3.3	kiszib3	kiszib[seal]	N	kiszib[sealed_tablet]	N
 r.3.4	nu-tuku	nu-tuku[acquire][-a]	NEG.NF.V.PT
@@ -79,7 +79,7 @@ r.8.6	sila3	sila[unit]	N	sila[unit][-ø]	N.ABS
 r.8.7	gesz-i3	geszi[sesame]	N
 r.8.8	gur	gur[unit]	N	gur[unit][-ø]	N.ABS	gur[unit][-ø]	N
 r.9.1	zi-ga	zig[expend]-a	NF.V.PT	ziga[expenditure]	N	zig[rise]-a	NF.V.PT	zig[expend][-a]	NF.V.PT	zig[issue]-a	NF.V.PT	zig[raise]-a	NF.V.PT	zig[expend]-a[-ø]	NF.V.PT.ABS	zig[expend][-a][-ak][-ø]	NF.V.PT.GEN.ABS
-r.10.1	la2-ia3	la’u[arrears]	N	la'u[arrears]	N
+r.10.1	la2-ia3	la'u[arrears]	N	la'u[arrears]	N
 r.10.2	6(asz)	6(asz)[one]	NU	6(saz)[one]	NU
 r.10.3	gesz-i3	geszi[sesame]	N
 r.10.4	gur	gur[unit]	N	gur[unit][-ø]	N.ABS	gur[unit][-ø]	N
