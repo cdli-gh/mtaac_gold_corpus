@@ -12,13 +12,13 @@ o.3.4	1(disz)-sze3	1(disz)[one]-sze	NU.TERM	_	_	_
 o.4.1	sze	sze[barley]	N	_	_	_
 o.4.2	6(disz)	6(disz)[one]	NU	_	_	_
 o.4.3	sila3-ta	sila[unit]-ta	N.ABL	_	_	_
-o.4.4	ba-hun	ba-hug[hire][-ø][-a]	MID.V.3-SG-S.SUB	_	_	_
+o.4.4	ba-hun	ba-hug[hire][-ø]	MID.V.3-SG-S	_	_	_
 o.5.1	sahar	sahar[earth]	N	_	_	_
 o.5.2	zi-ga	zig[raise]-a	NF.V.PT	_	_	_
 o.5.3	kar-ki-mu-ra	karkimura[habour_of_depository][-'a]	N.L1	_	_	_
 o.5.4	si-ga	sig[place]-a	NF.V.PT	_	_	_
-r.1.1	mu-kux(DU)	mu[-ni][-n]-kur[enter][-ø]	VEN.L1.3-SG-H-A.V.3-SG-P	_	_	_
-r.1.2	dingir-su-dan	Dingirsudan[1][-e]	PN.ERG	_	_	_
+r.1.1	mu-kux(DU)	mukur[delivery]	N
+r.1.2	dingir-su-dan	Dingirsudan[1][-ak]	PN.GEN	_	_	_
 r.2.1	ugula	ugula[overseer][-ø]	N.ABS	_	_	_
 r.2.2	ba-zi	Bazi[1][-ø]	PN.ABS	_	_	_
 r.3.1	iti	iti[month]	N	_	_	_
