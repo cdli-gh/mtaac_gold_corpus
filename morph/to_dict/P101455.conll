@@ -9,7 +9,7 @@ o.col1.3'.1	1(disz)	1(disz)[one]	NU	_	_	_
 o.col1.3'.2	udu	udu[sheep]	N	_	_	_
 o.col1.3'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.3'.4	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-o.col1.3'.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+o.col1.3'.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 o.col1.4'.1	1(disz)	1(disz)[one]	NU	_	_	_
 o.col1.4'.2	udu	udu[sheep]	N	_	_	_
 o.col1.4'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
@@ -29,7 +29,7 @@ o.col1.11'.1	2(disz)	2(disz)[one]	NU	_	_	_
 o.col1.11'.2	udu	udu[sheep]	N	_	_	_
 o.col1.11'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.11'.4	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-o.col1.11'.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+o.col1.11'.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 o.col1.12'.1	siskur2	siszkur[offering]	N	_	_	_
 o.col1.12'.2	ki-{d}suen	Kisuen[1][-ak][-sze]	SN.GEN.TERM	_	_	_
 o.col1.13'.1	a2	a[time]	N	_	_	_
@@ -42,12 +42,12 @@ o.col1.15'.2	udu	udu[sheep]	N	_	_	_
 o.col1.15'.3	szimaszgi2	szimaszki[sheep_designation]	N	_	_	_
 o.col1.15'.4	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.15'.5	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-o.col1.15'.6	us2	us[follow][-a]	NF.V.PT	_	_	_
+o.col1.15'.6	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 o.col1.16'.1	1(disz)	1(disz)[one]	NU	_	_	_
 o.col1.16'.2	gukkal	gukkal[fat-tailed_sheep]	N	_	_	_
 o.col1.16'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 o.col1.16'.4	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-o.col1.16'.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+o.col1.16'.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 o.col1.17'.1	2(disz)	2(disz)[one]	NU	_	_	_
 o.col1.17'.2	udu	udu[sheep]	N	_	_	_
 o.col1.17'.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
@@ -150,7 +150,7 @@ r.col1.8.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col1.8.2	udu	udu[sheep]	N	_	_	_
 r.col1.8.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col1.8.4	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-r.col1.8.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+r.col1.8.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 r.col1.9.1	{d}nin-a-zu	Ninazu[1][-ra]	DN.DAT-H	_	_	_
 r.col1.10.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col1.10.2	masz2-...	_[_]	N	_	_	_
@@ -193,7 +193,7 @@ r.col2.9.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col2.9.2	udu	udu[sheep]	N	_	_	_
 r.col2.9.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col2.9.4	3(disz)-kam	3(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-r.col2.9.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+r.col2.9.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 r.col2.10.1	dub-la2-mah	dublamah[magnificent_tower][-sze]	TN.TERM	_	_	_
 r.col2.11.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col2.11.2	udu	udu[sheep]	N	_	_	_
@@ -222,7 +222,7 @@ r.col2.19.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col2.19.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 r.col2.19.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col2.19.4	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-r.col2.19.5	us2	us[follow][-a]	NF.V.PT	_	_	_
+r.col2.19.5	us2	us[follow][-ø]	NF.V.ABS	_	_	_
 r.col2.20.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col2.20.2	udu	udu[sheep]	N	_	_	_
 r.col2.20.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
