@@ -51,7 +51,7 @@ r.3.2	gin2	gig[unit]	N	_	_	_
 r.3.3	i3	i[oil]	N	_	_	_
 r.3.4	2(disz)	2(disz)[one]	NU	_	_	_
 r.3.5	gin2	gig[unit]	N	_	_	_
-r.3.6	naga	teme[plant]	N	_	_	_
+r.3.6	naga	naga[potash]	N	_	_	_
 r.4.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.4.2	ku6	kud[fish]	N	_	_	_
 r.4.3	1(disz)	1(disz)[one]	NU	_	_	_
@@ -76,7 +76,7 @@ r.7.8	i3	i[oil]	N	_	_	_
 r.8.1	szunigin	szunigin[total]	N	_	_	_
 r.8.2	6(disz)	6(disz)[one]	NU	_	_	_
 r.8.3	gin2	gig[unit]	N	_	_	_
-r.8.4	naga	teme[plant]	N	_	_	_
+r.8.4	naga	naga[potash]	N	_	_	_
 r.9.1	szunigin	szunigin[total]	N	_	_	_
 r.9.2	3(disz)	3(disz)[one]	NU	_	_	_
 r.9.3	ku6	kud[fish]	N	_	_	_
