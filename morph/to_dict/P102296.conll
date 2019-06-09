@@ -376,10 +376,10 @@ r.col4.1'.4	9(gesz2)	9(gesz)[sixty]	NU
 r.col4.1'.5	3(u)	3(u)[ten]	NU								
 r.col4.1'.6	9(disz)	9(disz)[one]	NU								
 r.col4.1'.7	5/6(disz)	5/6(disz)[one]	NU	5/6(disz)[one]	N						
-r.col4.1'.8	gurusz	gurusz[male]	N								
+r.col4.1'.8	gurusz	gurusz[male][-ø]	N.ABS								
 r.col4.1'.9	u4	ud[day]	N								
 r.col4.1'.10	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
-r.col4.2'.1	zi-ga-am3	ziga[expenditure]-am	N.COP-3-SG								
+r.col4.2'.1	zi-ga-am3	zig[expend]-a[-ø]-am	NF.V.PT.ABS.COP-3-SG								
 r.col4.3'.1	la2-ia3	la'u[arrears]	N								
 r.col4.3'.2	2(u)	2(u)[ten]	NU								
 r.col4.3'.3	9(disz)	9(disz)[one]	NU								
