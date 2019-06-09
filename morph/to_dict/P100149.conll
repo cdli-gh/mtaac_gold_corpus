@@ -14,7 +14,7 @@ o.2.4	kaskal	kaskal[way][-sze]	N.TERM	_	_	_
 o.3.1	ka5-a	Ka'a[1]	PN	_	_	_
 o.3.2	sukkal	sukkal[secretary]	N	_	_	_
 o.4.1	sa-bu-um{ki}-sze3	Sabum[1]-sze	SN.TERM	_	_	_
-o.4.2	du-ni	du[go][-ed]-ani	NF.V.PF.3-SG-H-POSS	_	_	_
+o.4.2	du-ni	du[go][-ed]-ani	NF.V.PF.F.3-SG-H-POSS	_	_	_
 o.5.1	1(ban2)	1(ban)[unit]	N	_	_	_
 o.5.2	zi3	zid[flour]	N	_	_	_
 o.5.3	u4	ud[day]	N	_	_	_
@@ -29,7 +29,7 @@ o.7.4	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
 o.8.1	kal-la-mu	Kallam[1]	PN	_	_	_
 o.8.2	aga3-us2-gal	aga'usgal[head_soldier]	N	_	_	_
 o.9.1	...{ki}-ta	[1]-ta	SN.ABL	_	_	_
-o.9.2	du-ni	du[go][-ed][-ani][-sze]	NF.V.PF.3-SG-H-POSS.TERM	_	_	_
+o.9.2	du-ni	du[go][-ed][-ani][-sze]	NF.V.PF.F.3-SG-H-POSS.TERM	_	_	_
 r.1'.1	1(ban2)	1(ban)[unit]	N	_	_	_
 r.1'.2	...	_[_]	_	_	_	_
 r.2'.1	da-da-ni	Dadani[1]	PN	_	_	_
@@ -44,7 +44,7 @@ r.4'.1	e-la-nu-id	Elanu'id[1]	PN	_	_	_
 r.4'.2	lu2	lu[person]	N	_	_	_
 r.4'.3	kas4	kas[runner]	N	_	_	_
 r.5'.1	sa-bu-um{ki}-ta	Sabum[1]-ta	SN.ABL	_	_	_
-r.5'.2	du-ni	du[go][-ed]-ani[-sze]	NF.V.PF.3-SG-H-POSS.TERM	_	_	_
+r.5'.2	du-ni	du[go][-ed]-ani[-sze]	NF.V.PF.F.3-SG-H-POSS.TERM	_	_	_
 r.6'.1	5(disz)	5(disz)[one]	NU	_	_	_
 r.6'.2	sila3	sila[unit]	N	_	_	_
 r.6'.3	zi3	zid[flour]	N	_	_	_
@@ -56,7 +56,7 @@ r.7'.4	kaskal-sze3	kaskal[way]-sze	N.TERM	_	_	_
 r.8'.1	szu-ku-bu-um	Szukubum[1]	PN	_	_	_
 r.8'.2	aga3-us2-gal	aga'usgal[head_soldier]	N	_	_	_
 l.1.1	szuszin{ki}-sze3	Szuszin[1]-sze	SN.TERM	_	_	_
-l.1.2	du-ni	du[go][-ed]-ani	NF.V.PF.3-SG-H-POSS	_	_	_
+l.1.2	du-ni	du[go][-ed]-ani	NF.V.PF.F.3-SG-H-POSS	_	_	_
 l.2.1	iti	iti[month]	N	_	_	_
 l.2.2	gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN.L1	_	_	_
 l.2.3	u4	ud[day]	N	_	_	_
