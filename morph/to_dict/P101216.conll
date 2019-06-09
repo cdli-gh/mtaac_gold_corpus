@@ -3,7 +3,7 @@
 o.1.1	5(disz)	5(disz)[one]	NU	_	_	_
 o.1.2	sila3	sila[unit]	N	_	_	_
 o.1.3	kasz	kasz[beer]	N	_	_	_
-o.1.4	saga	sag[good][-ø]	NF.V.ABS	_	_	_
+o.1.4	saga	saga[good][-ø]	NF.V.ABS	_	_	_
 o.1.5	3(disz)	3(disz)[one]	NU	_	_	_
 o.1.6	sila3	sila[unit]	N	_	_	_
 o.1.7	ninda	ninda[bread]	N	_	_	_
@@ -50,7 +50,7 @@ r.3.1	szunigin	szunigin[total]	N	_	_	_
 r.3.2	5(disz)	5(disz)[one]	NU	_	_	_
 r.3.3	sila3	sila[unit]	N	_	_	_
 r.3.4	kasz	kasz[beer]	N	_	_	_
-r.3.5	saga	sag[good][-ø]	NF.V.ABS	_	_	_
+r.3.5	saga	saga[good][-ø]	NF.V.ABS	_	_	_
 r.3.6	szunigin	szunigin[total]	N	_	_	_
 r.3.7	2(ban2)	2(ban)[unit]	N	_	_	_
 r.3.8	3(disz)	3(disz)[one]	NU	_	_	_
