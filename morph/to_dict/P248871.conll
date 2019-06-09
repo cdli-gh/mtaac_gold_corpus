@@ -82,7 +82,7 @@ r.9.1	nig2-ka9-ak	nigSZID[account]	N	_	_	_
 r.9.2	mu	mu[name]	N	_	_	_
 r.9.3	siki-sze3	siki[wool][-ak]-sze	N.GEN.TERM	_	_	_
 r.10.1	lu2-{d}suen	Lusuen[1]	PN	_	_	_
-r.10.2	kuruszda	kuruszda[fattener][-ak]	N.GEN	_	_	_
+r.10.2	kuruszda	kuruszda[animal_fattener][-ak]	N.GEN	_	_	_
 r.11.1	mu	mu[year]	N	_	_	_
 r.11.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
 r.11.3	ki-masz{ki}	Kimasz[1][-ø]	SN.ABS	_	_	_
