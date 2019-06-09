@@ -7,7 +7,7 @@ o.1.4	1(ban2)	1(ban)[unit]	N	_	_	_
 o.2.1	5(disz)	5(disz)[one]	NU	_	_	_
 o.2.2	sila3	sila[unit]	N	_	_	_
 o.2.3	kasz	kasz[beer]	N	_	_	_
-o.2.4	saga	sag[good][-ø]	NF.V.ABS	_	_	_
+o.2.4	saga	saga[good][-ø]	NF.V.ABS	_	_	_
 o.2.5	1(ban2)	1(ban)[unit]	N	_	_	_
 o.2.6	ninda	ninda[bread]	N	_	_	_
 o.3.1	2(disz)	2(disz)[one]	NU	_	_	_
@@ -25,7 +25,7 @@ o.5.1	ur-nigar{gar}	Urnigar[1][-ra]	PN.DAT-H	_	_	_
 o.6.1	5(disz)	5(disz)[one]	NU	_	_	_
 o.6.2	sila3	sila[unit]	N	_	_	_
 o.6.3	kasz	kasz[beer]	N	_	_	_
-o.6.4	saga	sag[good][-ø]	NF.V.ABS	_	_	_
+o.6.4	saga	saga[good][-ø]	NF.V.ABS	_	_	_
 o.6.5	3(disz)	3(disz)[one]	NU	_	_	_
 o.6.6	sila3	sila[unit]	N	_	_	_
 o.6.7	ninda	ninda[bread]	N	_	_	_
@@ -49,7 +49,7 @@ r.3.5	1(ban2)	1(ban)[unit]	N	_	_	_
 r.4.1	szunigin	szunigin[total]	N	_	_	_
 r.4.2	1(ban2)	1(ban)[unit]	N	_	_	_
 r.4.3	kasz	kasz[beer]	N	_	_	_
-r.4.4	saga	sag[good][-ø]	NF.V.ABS	_	_	_
+r.4.4	saga	saga[good][-ø]	NF.V.ABS	_	_	_
 r.4.5	1(ban2)	1(ban)[unit]	N	_	_	_
 r.4.6	3(disz)	3(disz)[one]	NU	_	_	_
 r.4.7	ninda	ninda[bread]	N	_	_	_
