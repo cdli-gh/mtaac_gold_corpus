@@ -4,7 +4,7 @@ o.1.1	1(ban2)	1(ban)[unit]	N
 o.1.2	1(disz)	1(disz)[one]	NU
 o.1.3	sila3	sila[unit]	N
 o.1.4	kasz	kasz[beer]	N
-o.1.5	saga	saga[good]-a	NF.V.ABS
+o.1.5	saga	saga[good][-ø]	NF.V.ABS
 o.2.1	2(ban2)	2(ban)[unit]	N
 o.2.2	kasz	kasz[beer]	N
 o.2.3	du	gin[quality_designation][-ø]	NF.V.ABS
