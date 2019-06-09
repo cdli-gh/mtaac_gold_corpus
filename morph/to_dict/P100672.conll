@@ -6,11 +6,11 @@ o.1.3	sila3	sila[unit]	N	_	_	_
 o.1.4	zu2-lum	zulum[date]	N	_	_	_
 o.2.1	1(barig)	1(bariga)[unit]	N	_	_	_
 o.2.2	kasz	kasz[beer]	N	_	_	_
-o.2.3	dida	dida[wort]	N	_	_	_
+o.2.3	dida	dida[sweet_wort]	N	_	_	_
 o.2.4	du	gin[quality_designation][-ø]	NF.V.ABS	_	_	_
 o.3.1	1(barig)	1(bariga)[unit]	N	_	_	_
 o.3.2	kasz	kasz[beer]	N	_	_	_
-o.3.3	dida	dida[wort]	N	_	_	_
+o.3.3	dida	dida[sweet_wort]	N	_	_	_
 o.3.4	saga	sag[good][-ø]	NF.V.ABS	_	_	_
 o.3.5	1(ban2)	1(ban)[unit]	N	_	_	_
 o.3.6	5(disz)	5(disz)[one]	NU	_	_	_
