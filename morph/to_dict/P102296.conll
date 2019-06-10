@@ -341,13 +341,13 @@ r.col3.13'.1	1/2(disz)	1/2(disz)[one]	NU
 r.col3.13'.2	nimgir-di-de3	Nimgirdide[1]	PN								
 r.col3.14'.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN				
 r.col3.14'.2	4(disz)-sze3	4(disz)[one]-sze	NU.TERM								
-r.col3.15'.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
+r.col3.15'.1	a2-bi	a[labor]-bi	N.3-SG-NH-POSS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
 r.col3.15'.2	u4	ud[day]	N								
 r.col3.15'.3	4(gesz2)-kam	4(gesz)[sixty]-ak-am	NU.GEN.COP-3-SG								
 r.col3.16'.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
-r.col3.16'.2	u4-du8-a	udu'a[free_day]	N								
+r.col3.16'.2	u4-du8-a	uduh[days_off]-'a	N.L1								
 r.col3.16'.3	dumu-gi7	dumugi[citizen]	N								
-r.col3.16'.4	sza3-gu4	szagu[ox-driver][-ak][-ak][-ak]	N.GEN.GEN.GEN								
+r.col3.16'.4	sza3-gu4	szagu[ox-driver]	N								
 r.col3.16'.5	x	_[_]	_								
 r.col3.17'.1	1(gesz2)	1(gesz)[sixty]	NU								
 r.col3.17'.2	6(disz)	6(disz)[one]	NU								
@@ -355,9 +355,9 @@ r.col3.17'.3	gurusz	gurusz[male]	N
 r.col3.17'.4	u4	ud[day]	N								
 r.col3.17'.5	1(disz)-sze3	1(disz)[one]-sze	NU.TERM								
 r.col3.18'.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
-r.col3.18'.2	u4-du8-a	udu'a[free_day]	N								
+r.col3.18'.2	u4-du8-a	uduh[days_off]-'a	N.L1								
 r.col3.18'.3	ug3-IL2	ugIL[porter]	N								
-r.col3.18'.4	sza3-gu4	szagu[ox-driver][-ak][-ak][-ak]	N.GEN.GEN.GEN								
+r.col3.18'.4	sza3-gu4	szagu[ox-driver]	N								
 r.col3.19'.1	2(u)	2(u)[ten]	NU								
 r.col3.19'.2	4(disz)	4(disz)[one]	NU								
 r.col3.19'.3	gurusz	gurusz[male]	N								
