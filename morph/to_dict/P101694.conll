@@ -352,7 +352,7 @@ r.col1.9.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS
 r.col1.10.1	ki	ki[place]	N
 r.col1.10.2	ur-ba-a-ta	Urba'a[1]-ak-ta	PN.GEN.ABL
 r.col1.11.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col1.11.2	iri-sa12-rig7{ki}-me	Irisarig[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col1.11.2	iri-sa12-rig7{ki}-me	Irisarig[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col1.12.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.col1.12.2	8(disz)	8(disz)[one]	NU
 r.col1.12.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
@@ -381,7 +381,7 @@ r.col1.18.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.AB
 r.col1.18.3	ki	ki[place]	N
 r.col1.18.4	a-bu-ni-ta	Abuni[1][-ak]-ta	PN.GEN.ABL
 r.col1.19.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col1.19.2	masz-kan2-szabra{ki}-me	Maszkanszabra[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col1.19.2	masz-kan2-szabra{ki}-me	Maszkanszabra[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col1.20.1	3(u)	3(u)[ten]	NU
 r.col1.20.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 r.col1.20.3	2(u)	2(u)[ten]	NU
@@ -442,7 +442,7 @@ r.col2.6.5	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS
 r.col2.7.1	ki	ki[place]	N
 r.col2.7.2	la-gi-ip-ta	Lagip[1][-ak]-ta	PN.GEN.ABL
 r.col2.8.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col2.8.2	isin2{si}{ki}-me	Isin[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col2.8.2	isin2{si}{ki}-me	Isin[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col2.9.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.col2.9.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 r.col2.9.3	2(u)	2(u)[ten]	NU
@@ -464,7 +464,7 @@ r.col2.13.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.AB
 r.col2.14.1	ki	ki[place]	N
 r.col2.14.2	ur-{d}KA-x-ra-ta	_[1][-ak]-ta	PN.GEN.ABL
 r.col2.15.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col2.15.2	szuruppak{ki}-me	Szuruppak[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col2.15.2	szuruppak{ki}-me	Szuruppak[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col2.16.1	2(u)	2(u)[ten]	NU
 r.col2.16.2	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
 r.col2.16.3	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
@@ -488,7 +488,7 @@ r.col2.20.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.AB
 r.col2.21.1	ki	ki[place]	N
 r.col2.21.2	er3-re-eb-ta	Erreb[1][-ak]-ta	PN.GEN.ABL
 r.col2.22.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col2.22.2	umma{ki}-me	Umma[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col2.22.2	umma{ki}-me	Umma[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col2.23.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.col2.23.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 r.col2.23.3	2(u)	2(u)[ten]	NU
@@ -508,7 +508,7 @@ r.col2.27.4	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.AB
 r.col2.28.1	ki	ki[place]	N
 r.col2.28.2	x-x-al-ta	_[1][-ak]-ta	PN.GEN.ABL
 r.col3.1.1	sipa	sipa[shepherd]	N	sipa[shepherd]	N
-r.col3.1.2	x-x{ki}-me	_[1][-ak]-mesz	SN.GEN.COP-3-PL
+r.col3.1.2	x-x{ki}-me	_[1][-ak][-ø]-mesz	SN.GEN.ABS.COP-3-PL
 r.col3.2.1	szunigin	szunigin[total]	N
 r.col3.2.2	2(gesz'u)	2(gesz’u)[six_hundred]	NU
 r.col3.2.3	3(gesz2)	3(gesz)[sixty]	NU
