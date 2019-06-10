@@ -47,11 +47,11 @@ r.2.1	1(barig)	1(bariga)[unit]	N	_	_	_
 r.2.2	lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN.DAT-H	_	_	_
 r.4.1	5(ban2)	5(ban)[unit]	N	_	_	_
 r.4.2	a2	a[wage]	N	_	_	_
-r.4.3	ma2	ma[ship]	N	_	_	_
+r.4.3	ma2	ma[ship][-ø]	N.ABS	_	_	_
 r.4.4	hun-ga2	hug[hire]-a	NF.V.PT	_	_	_
-r.4.5	ma2	ma[ship]	N	_	_	_
-r.4.6	sze	sze[barley]	N	_	_	_
-r.4.7	si-ga	sig[place]-a	NF.V.PT	_	_	_
+r.4.5	ma2	ma[ship][-'a]	N.L1	_	_	_
+r.4.6	sze	sze[barley][-ø]	N.ABS	_	_	_
+r.4.7	si-ga	sig[load]-a	NF.V.PT	_	_	_
 r.5.1	szunigin	szunigin[total]	N	_	_	_
 r.5.2	5(u)	5(u)[ten]	NU	_	_	_
 r.5.3	2(asz)	2(asz)[one]	NU	_	_	_
@@ -67,7 +67,7 @@ r.7.5	sila3	sila[unit]	N	_	_	_
 r.7.6	sze	sze[barley]	N	_	_	_
 r.7.7	gur	gur[unit]	N	_	_	_
 r.8.1	sze	sze[barley]	N	_	_	_
-r.8.2	zi-ga	zig[expend][-a]	NF.V.PT	_	_	_
+r.8.2	zi-ga	ziga[expenditure]	N	_	_	_
 r.8.3	a-pi4-sal4{ki}-ta	Apisal[1]-ta	SN.ABL	_	_	_
 r.9.1	giri3	giri[foot]	N	_	_	_
 r.9.2	ad-da	Adda[1][-ak]	PN.GEN	_	_	_
