@@ -1,7 +1,7 @@
 #new_text=P101791
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
-  o.1.1	pisan	pisan[basket]	N	_  _ _
-	o.1.2 dub-ba [dub-ba] dub[tablet]-ak N.GEN
+o.1.1	pisan	bisag[basket]	N	_  _ _
+o.1.2	dub-ba [dub-ba] dub[tablet]-ak N.GEN
 o.2.1	nig2-ka9-ak	nigSZID[account][-ak]	N.GEN	_  _ _
 o.3.1	i-din-er3-ra	Idinerra[1]	PN	_  _ _
 o.4.1	iti	iti[month]	N
