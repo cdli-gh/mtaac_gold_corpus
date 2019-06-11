@@ -390,7 +390,7 @@ r.col1.37.2	5/6(disz)	5/6(disz)[one]	NU	_	_	_
 r.col1.37.3	ma-na	mana[unit]	N	_	_	_
 r.col1.37.4	4(disz)	4(disz)[one]	NU	_	_	_
 r.col1.37.5	gin2	gig[unit]	N	_	_	_
-r.col1.37.6	uruda	uruda[copper]	N	_	_	_
+r.col1.37.6	uruda	urud[copper]	N	_	_	_
 r.col1.38.1	ku3-bi	kug[silver]-bi	N.3-SG-NH-POSS	_	_	_
 r.col1.38.2	3(disz)	3(disz)[one]	NU	_	_	_
 r.col1.38.3	5/6(disz)	5/6(disz)[one]	NU	_	_	_
@@ -539,7 +539,7 @@ r.col2.23.4	6(disz)	6(disz)[one]	NU	_	_	_
 r.col2.23.5	sze	sze[unit]	N	_	_	_
 r.col2.23.6	ku3	kug[silver]	N	_	_	_
 r.col2.23.7	sa10-am3	sa[pay_for][-a]-am	NF.V.PT.COP-3-SG	_	_	_
-r.col2.23.8	uruda	uruda[copper][-ak]	N.GEN	_	_	_
+r.col2.23.8	uruda	urud[copper][-ak]	N.GEN	_	_	_
 r.col2.23.9	uri5{ki}-ma	Urim[1]-'a	SN.L1	_	_	_
 r.col2.24.1	giri3	giri[foot]	N	_	_	_
 r.col2.24.2	ur-{d}lamma	Urlamma[1]	PN	_	_	_
