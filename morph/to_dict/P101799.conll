@@ -51,7 +51,7 @@ o.11.1	9(asz)	9(asz)[one]	NU
 o.11.2	ku6	kud[fish]	N				
 o.11.3	nig2-ki	nigki[fish]	N				
 o.11.4	gur	gur[unit]	N				
-o.12.1	nig2-szuku	nig[thing]-szukur[ration][-ak]	N.N.GEN				
+o.12.1	nig2-szuku	nigszukur[ration]	N				
 o.13.1	e2-kiszib3-ba	ekiszibak[storeroom]-ak	N.GEN				
 r.1.1	1(gesz2)	1(gesz)[sixty]	NU				
 r.1.2	4(u)	4(u)[ten]	NU	4[u][ten]	NU		
@@ -64,7 +64,7 @@ r.2.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.2.2	7(asz)	7(asz)[one]	NU				
 r.2.3	ku6-sze6	kusze[cooked_fish]	N				
 r.2.4	gur	gur[unit]	N				
-r.3.1	nig2-szuku	nig[thing]-szukur[ration][-ak]	N.N.GEN				
+r.3.1	nig2-szuku	nigszukur[ration]	N				
 r.4.1	2(gesz2)	2(gesz)[sixty]	NU				
 r.4.2	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
 r.4.3	5(disz)	5(disz)[one]	NU				
@@ -92,7 +92,7 @@ r.9.2	ku6	kud[fish]	N
 r.9.3	nig2-ki	nigki[fish]	N				
 r.9.4	gur	gur[unit]	N				
 r.9.5	zabar-dab5	zabardab[official]	N				
-r.10.1	nig2-szuku	nig[thing]-szukur[ration][-ak]	N.N.GEN				
+r.10.1	nig2-szuku	nigszukur[ration]	N				
 r.11.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
 r.11.2	ku6	kud[fish]	N				
 r.11.3	nig2-ki	nigki[fish]	N				
@@ -111,7 +111,7 @@ r.15.2	4(u)	4(u)[ten]	NU	4[u][ten]	NU
 r.15.3	4(asz)	4(asz)[one]	NU				
 r.15.4	4(barig)	4(bariga)[unit]	N				
 r.15.5	gur	gur[unit]	N				
-r.15.6	nig2-szuku	nig[thing]-szukur[ration][-ak]	N.N.GEN				
+r.15.6	nig2-szuku	nigszukur[ration]	N			
 r.16.1	szunigin	szunigin[total]	N				
 r.16.2	4(u)	4(u)[ten]	NU	4[u][ten]	NU		
 r.16.3	1(asz)	1(asz)[one]	NU				
