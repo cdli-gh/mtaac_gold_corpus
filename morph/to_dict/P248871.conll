@@ -15,7 +15,7 @@ o.3.2	3(u)	3(u)[ten]	NU	_	_	_
 o.3.3	la2	la[hang][-ø]	NF.V.ABS	_	_	_
 o.3.4	1(disz@t)	1(disz@t)[one]	NU	_	_	_
 o.3.5	udu	udu[sheep]	N	_	_	_
-o.3.6	bar-gal2	bargal[sheep_designation][-ø]	NF.V.ABS	_	_	_
+o.3.6	bar-gal2	bargal[fleeced_sheep]	N	_	_	_
 o.4.1	nig2-ka9	nigSZID[account]	N	_	_	_
 o.4.2	udu-ta	udu[sheep]-ta	N.ABL	_	_	_
 o.5.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	_	_	_
@@ -40,10 +40,10 @@ o.11.1	2(gesz2)	2(gesz)[sixty]	NU	_	_	_
 o.11.2	1(u)	1(u)[ten]	NU	_	_	_
 o.11.3	5(disz)	5(disz)[one]	NU	_	_	_
 o.11.4	udu	udu[sheep]	N	_	_	_
-o.11.5	bar-gal2	bargal[sheep_designation][-ø]	NF.V.ABS	_	_	_
+o.11.5	bar-gal2	bargal[fleeced_sheep]	N	_	_	_
 o.12.1	mu	mu[name]	N	_	_	_
 o.12.2	sila4	sila[lamb]	N	_	_	_
-o.12.3	bar-gal2	bargal[sheep_designation][-ø][-ak]	NF.V.ABS	_	_	_
+o.12.3	bar-gal2	bargal[fleeced_sheep]	N	_	_	_
 r.1.1	diri	dirig[excess]	N	_	_	_
 r.1.2	nig2-ka9-ak-sze3	nigSZID[account]-sze	N.TERM	_	_	_
 r.2.1	szunigin	szunigin[total]	N	_	_	_
@@ -51,7 +51,7 @@ r.2.2	4(gesz2)	4(gesz)[sixty]	NU	_	_	_
 r.2.3	1(u)	1(u)[ten]	NU	_	_	_
 r.2.4	7(disz)	7(disz)[one]	NU	_	_	_
 r.2.5	udu	udu[sheep]	N	_	_	_
-r.2.6	bar-gal2	bargal[sheep_designation][-ø]	NF.V.ABS	_	_	_
+r.2.6	bar-gal2	bargal[fleeced_sheep]	N	_	_	_
 r.3.1	szunigin	szunigin[total]	N	_	_	_
 r.3.2	5(u)	5(u)[ten]	NU	_	_	_
 r.3.3	7(disz)	7(disz)[one]	NU	_	_	_
@@ -70,7 +70,7 @@ r.6.2	5(u)	5(u)[ten]	NU	_	_	_
 r.6.3	la2	la[hang][-ø]	NF.V.ABS	_	_	_
 r.6.4	2(disz@t)	2(disz@t)[one]	NU	_	_	_
 r.6.5	udu	udu[sheep]	N	_	_	_
-r.6.6	bar-gal2	bargal[sheep_designation][-ø]	NF.V.ABS	_	_	_
+r.6.6	bar-gal2	bargal[fleeced_sheep]	N	_	_	_
 r.7.1	siki-bi	siki[wool]-bi	N.3-SG-NH-POSS	_	_	_
 r.7.2	1(asz)	1(asz)[one]	NU	_	_	_
 r.7.3	gu2	gun[unit]	N	_	_	_
