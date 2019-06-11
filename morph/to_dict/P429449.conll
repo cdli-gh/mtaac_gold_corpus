@@ -23,9 +23,9 @@ o.5.3	esza	esza[flour]	N
 o.6.1	zi3	zid[flour]	N	zid[flour][-ø]	N.ABS
 o.6.2	dub-dub-sze3	dubdub[flour_designation]-sze	N.TERM
 o.7.1	siskur2	siszkur[offering]	N	siskur[offering]	N	siszkur[prayer]	N
-o.7.2	sza3-bala	szagbala[produce_offering][-a]	NF.V.PT
+o.7.2	sza3-bala	szagbala[produce_offering][-a][-ø]	NF.V.PT.ABS
 o.7.3	sza3	szag[heart]	N
-o.7.4	gesz	gesz[kernel][-ak][-ø]	N.GEN.ABS
+o.7.4	gesz	gesz[barrage][-ak][-'a]	N.GEN.L1
 r.1.1	ki	ki[place]	N
 r.1.2	an-...-ta	_[1][-ak]-ta	PN.GEN.ABL
 r.2.1	ba-zi	ba-zig[expend][-ø]	MID.V.3-SG-S	ba-zig[issue][-ø]	MID.V.3-SG-S	Bazi[1]	PN	Bazi[1][-ø]	PN.ABS	Bazi[1][-ak][-ak]	PN.GEN.GEN
