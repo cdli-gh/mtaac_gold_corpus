@@ -34,12 +34,12 @@ o.7.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	szag[heart]-bi-ta	N.3-SG-P
 o.8.1	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_
 o.8.2	2(esze3)	2(esze)[unit]	N
 o.8.3	1(iku)	1(iku)[unit]	N
-o.8.4	GAN2	GAN[surface]	N
+o.8.4	GAN2	gana[field]	N
 o.8.5	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.8.6	2(disz)-ta	2(disz)[one]-ta	NU.ABL
 o.9.1	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_
 o.9.2	4(iku)	4(iku)[unit]	N
-o.9.3	GAN2	GAN[surface]	N
+o.9.3	GAN2	gana[field]	N
 o.9.4	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.9.5	1(disz)-ta	1(disz)[one]-ta	NU.ABL
 o.10.1	1(bur'u)	1(bur'u)[unit]	N
@@ -48,10 +48,10 @@ o.10.3	2(esze3)	2(esze)[unit]	N
 o.10.4	4(iku)	4(iku)[unit]	N
 o.10.5	1/2(iku)	1/2(iku)[unit]	N
 o.10.6	1/4(iku)	1/4(iku)[unit]	N
-o.10.7	GAN2	GAN[surface]	N
+o.10.7	GAN2	gana[field]	N
 o.10.8	1(u)-ta	1(u)[ten]-ta	NU.ABL
 o.11.1	3(bur3)	3(bur)[unit]	N
-o.11.2	GAN2	GAN[surface]	N
+o.11.2	GAN2	gana[field]	N
 o.11.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.11.4	la2	la[hang][-ø]	NF.V.ABS	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V
 o.11.5	1(disz@t)-ta	1(disz@t)[one]-ta	NU.ABL
@@ -76,7 +76,7 @@ o.13.11	gur	gur[unit][-ø]	N.ABS
 o.14.1	gu4-e	gud[ox]-e	N.L3-NH
 o.14.2	uru4-a	uru[sow]-a	NF.V.PT
 o.15.1	4(iku)	4(iku)[unit]	N
-o.15.2	GAN2	GAN[surface]	N
+o.15.2	GAN2	gana[field]	N
 o.15.3	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.15.4	2(disz)-ta	2(disz)[one]-ta	NU.ABL
 o.16.1	sze-numun-bi	szenumun[seed]-bi[-ø]	N.3-SG-NH-POSS.ABS
@@ -89,7 +89,7 @@ o.18.2	da-umma{ki}	Da'umma[1][-ak]	SN.GEN
 r.1.1	5(bur3)	5(bur)[unit]	N
 r.1.2	1(esze3)	1(esze)[unit]	N
 r.1.3	4(iku)	4(iku)[unit]	N
-r.1.4	GAN2	GAN[surface]	N
+r.1.4	GAN2	gana[field]	N
 r.1.5	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 r.1.6	2(disz)-ta	2(disz)[one]-ta	NU.ABL
 r.2.1	sze-numun-bi	szenumun[seed]-bi[-ø]	N.3-SG-NH-POSS.ABS
