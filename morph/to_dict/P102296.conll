@@ -180,22 +180,22 @@ o.col3.2.2	e2-gal-e-si	Egalesi[1][-ak]	PN.GEN
 o.col3.3.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	szag[heart]-bi-ta	N.3-SG-POSS.ABL						
 o.col3.4.1	2(bur3)	2(bur)[unit]	N								
 o.col3.4.2	3(iku)	3(iku)[unit]	N								
-o.col3.4.3	GAN2	GAN[surface]	N								
+o.col3.4.3	GAN2	gana[field]	N								
 o.col3.4.4	tug2-gur10	tuggur[plow][-a]	NF.V.PT								
 o.col3.4.5	x	_[_]	_								
 o.col3.4.6	ak	ak[do][-a]	NF.V.PT								
 o.col3.4.7	1/2(iku)	1/2(iku)[unit]	N								
 o.col3.4.8	1/4(iku)	1/4(iku)[unit]	N								
-o.col3.4.9	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.4.9	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.4.10	tug2-x	_[_]	_								
 o.col3.4.11	1(iku)	1(iku)[unit]	N								
-o.col3.4.12	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.4.12	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.4.13	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.4.14	a-ra2	ara[times]	N								
 o.col3.4.15	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.4.16	4(iku)	4(iku)[unit]	N								
 o.col3.4.17	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.4.18	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.4.18	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.5.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
 o.col3.5.2	u4	ud[day]	N								
 o.col3.5.3	5(gesz2)	5(gesz)[sixty]	NU								
@@ -203,18 +203,18 @@ o.col3.5.4	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
 o.col3.5.5	6(disz)-kam	6(disz)[one]-ak-am	NU.GEN.COP-3-SG								
 o.col3.6.1	6(bur3)	6(bur)[unit]	N								
 o.col3.6.2	1(esze3)	1(esze)[unit]	N								
-o.col3.6.3	GAN2	GAN[field]	N								
+o.col3.6.3	GAN2	gana[field]	N								
 o.col3.6.4	tug2-gur10	tuggur[plow][-a]	NF.V.PT								
 o.col3.6.5	ak	ak[do][-a]	NF.V.PT								
 o.col3.6.6	1/2(iku)	1/2(iku)[unit]	N								
 o.col3.6.7	1/4(iku)	1/4(iku)[unit]	N								
-o.col3.6.8	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.6.8	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.6.9	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.6.10	a-ra2	ara[times]	N								
 o.col3.6.11	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.6.12	4(disz)	4(disz)[one]	NU								
 o.col3.6.13	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.6.14	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.6.14	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.7.1	a2-bi	a[labor]-bi[-ø]	N.3-SG-NH-POSS.ABS	a[wage]-bi	N.3-SG-NH-POSS	a[arm]-bi	N.3-SG-NH-POSS				
 o.col3.7.2	u4	ud[day]	N								
 o.col3.7.3	1(gesz'u)	1(gesz'u)[six_hundred]	NU								
@@ -222,13 +222,13 @@ o.col3.7.4	4(u)-kam	4(u)[ten]-ak-am	NU.GEN.COP-3-SG
 o.col3.8.1	1(bur'u)	1(bur'u)[unit]	N								
 o.col3.8.2	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_						
 o.col3.8.3	1(esze3)	1(esze)[unit]	N								
-o.col3.8.4	GAN2	GAN[surface]	N								
+o.col3.8.4	GAN2	gana[field]	N								
 o.col3.8.5	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.8.6	a-ra2	ara[times]	N								
 o.col3.8.7	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _						
 o.col3.8.8	4(disz)	4(disz)[one]	NU								
 o.col3.8.9	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.8.10	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.8.10	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.9.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
 o.col3.9.2	erin2-bi	erin[people][-ak]-bi[-ø]	N.GEN.3-SG-NH-POSS.ABS								
 o.col3.9.3	u4	ud[day]	N								
@@ -240,13 +240,13 @@ o.col3.10.2	5(bur3)	5(bur)[unit]	N
 o.col3.10.3	2(esze3)	2(esze)[unit]	N								
 o.col3.10.4	3(iku)	3(iku)[unit]	N								
 o.col3.10.5	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.10.6	GAN2	GAN[surface]	N								
+o.col3.10.6	GAN2	gana[field]	N								
 o.col3.10.7	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT								
 o.col3.10.8	a-ra2	ara[times]	N								
 o.col3.10.9	1(disz)-kam	1(disz)[one]-ak-am	NU.GEN.COP-3-SG								
 o.col3.10.10	4(iku)	4(iku)[unit]	N								
 o.col3.10.11	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.10.12	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.10.12	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.11.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
 o.col3.11.2	erin2-bi	erin[people][-ak]-bi[-ø]	N.GEN.3-SG-NH-POSS.ABS								
 o.col3.11.3	u4	ud[day]	N								
@@ -262,16 +262,16 @@ o.col3.13.2	1(bur3)	1(bur)[unit]	N	1(bur)[unit]	_
 o.col3.13.3	1(esze3)	1(esze)[unit]	N								
 o.col3.13.4	3(iku)	3(iku)[unit]	N								
 o.col3.13.5	1/2(iku)	1/2(iku)[unit]	N								
-o.col3.13.6	GAN2	GAN[surface]	N								
+o.col3.13.6	GAN2	gana[field]	N								
 o.col3.13.7	...	_[_]	_								
 o.col3.14.1	4(bur3)	4(bur)[unit]	N								
 o.col3.14.2	3(iku)	3(iku)[unit]	N								
-o.col3.14.3	GAN2	GAN[surface]	N								
+o.col3.14.3	GAN2	gana[field]	N								
 o.col3.14.4	szuku	szukur[ration]	N								
 o.col3.14.5	...	_[_]	_								
 o.col3.15.1	uru4-a	uru[sow]-a	NF.V.PT								
 o.col3.15.2	2(iku)	2(iku)[unit]	N								
-o.col3.15.3	GAN2-ta	GAN[surface]-ta	N.ABL								
+o.col3.15.3	GAN2-ta	gana[field]-ta	N.ABL								
 o.col3.15.4	...	_[_]	_								
 o.col3.16.1	a2	a[labor]	N	a[arm]	N	a[wage]	N	a[labor]	N		
 o.col3.16.2	erin2-bi	erin[people][-ak]-bi[-ø]	N.GEN.3-SG-NH-POSS.ABS								
