@@ -58,8 +58,8 @@ o.15.1	lu2-dingir-ra	Ludingira[1]	PN	Ludingira[1][-e]	PN.ERG
 o.15.2	dumu	dumu[child]	N
 o.15.3	ga-du	Gadu[1][-ak][-ra]	PN.GEN.DAT-H
 r.1.1	sze-numun	szenumun[seed][-ø]	N.ABS
-r.1.2	ugu2-a	ugu[capital]-'a	N.L1
-r.1.3	ba-a-gar	ba-a-gar[place][-ø]	MID.DAT.V.3-SG-S	ba-a-gar[place][-ø]	MID.DAT.V.3-SG-S	ba-a-gar[place][-ø][-a]	MID.DAT.V.3-SG-S.SUB
+r.1.2	ugu2-a	ugu[capital]-'a	N.L2-NH
+r.1.3	ba-a-gar	ba-e-gar[place][-ø]	MID.L2.V.3-SG-S	ba-a-gar[place][-ø]	MID.DAT.V.3-SG-S	ba-a-gar[place][-ø][-a]	MID.DAT.V.3-SG-S.SUB
 r.2.1	1(gesz2)	1(gesz)[sixty]	NU
 r.2.2	3(u)	3(u)[ten]	NU
 r.2.3	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
