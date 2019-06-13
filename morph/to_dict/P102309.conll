@@ -43,13 +43,13 @@ o.12.3	udu	udu[sheep]	N
 o.12.4	ge6	giggi[black][-ø]	NF.V.ABS
 o.13.1	1(disz)	1(disz)[one]	NU
 o.13.2	udu	udu[sheep]	N
-o.13.3	a-lum	aslum[type_of_sheep]	N
+o.13.3	a-lum	aslum[sheep_type]	N
 o.13.4	gesz-du3	geszdu[breeder][-ø]	N.ABS
 o.14.1	1(u)	1(u)[ten]	NU
 o.14.2	la2	lal[hang][-ø]	NF.V.ABS
 o.14.3	1(disz)	1(disz)[one]	NU
 o.14.4	udu	udu[sheep]	N
-o.14.5	a-lum	aslum[type_of_sheep][-ø]	N.ABS
+o.14.5	a-lum	aslum[sheep_type][-ø]	N.ABS
 o.15.1	4(u)	4(u)[ten]	NU
 o.15.2	gukkal	gukkal[fat-tailed_sheep]	N
 o.16.1	5(gesz2)	5(gesz)[sixty]	NU
