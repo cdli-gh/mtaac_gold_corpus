@@ -29,7 +29,7 @@ o.7.1	1(gesz2)	1(gesz)[sixty]	NU
 o.7.2	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N						
 o.7.3	gur	gur[unit]	N										
 o.7.4	7(asz)	7(asz)[one]	NU										
-o.7.5	gig	gig[type_of_resin]	N										
+o.7.5	gig	gig[resin_type]	N										
 o.7.6	gur	gur[unit]	N										
 o.8.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _								
 o.8.2	lu2-dingir-ra	Ludingira[1]	PN	Ludingira[1][-e]	PN.ERG								
