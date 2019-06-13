@@ -341,9 +341,9 @@ r.col1.29.6	1(u)	1(u)[ten]	NU	_	_	_
 r.col1.29.7	5(disz)	5(disz)[one]	NU	_	_	_
 r.col1.29.8	sze	sze[unit]	N	_	_	_
 r.col1.29.9	ku3-babbar	kugbabbar[silver]	N	_	_	_
-r.col1.30.1	kiszib3-bi	kiszib[seal]-bi	N.3-SG-NH-POSS	_	_	_
+r.col1.30.1	kiszib3-bi	kiszib[seal]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
 r.col1.30.2	1(u)	1(u)[ten]	NU	_	_	_
-r.col1.30.3	4(disz)-am3	4(disz)[one]-am	NU.COP-3-SG	_	_	_
+r.col1.30.3	4(disz)-am3	4(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 r.col1.30.4	kiszib3	kiszib[seal]	N	_	_	_
 r.col1.30.5	lu2-kal-la	Lukala[1][-ak]	PN.GEN	_	_	_
 r.col1.31.1	5(disz)	5(disz)[one]	NU	_	_	_
@@ -398,8 +398,8 @@ r.col1.38.4	gin2	gig[unit]	N	_	_	_
 r.col1.38.5	1(u)	1(u)[ten]	NU	_	_	_
 r.col1.38.6	8(disz)	8(disz)[one]	NU	_	_	_
 r.col1.38.7	sze	sze[unit]	N	_	_	_
-r.col2.1.1	kiszib3-bi	kiszib[seal]-bi	N.3-SG-NH-POSS	_	_	_
-r.col2.1.2	3(disz)-am3	3(disz)[one]-am	NU.COP-3-SG	_	_	_
+r.col2.1.1	kiszib3-bi	kiszib[seal]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
+r.col2.1.2	3(disz)-am3	3(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 r.col2.1.3	kiszib3	kiszib[seal]	N	_	_	_
 r.col2.1.4	lu2-{d}en-lil2	Luyenlil[1][-ak]	PN.GEN	_	_	_
 r.col2.2.1	1(barig)	1(bariga)[unit]	N	_	_	_
@@ -501,8 +501,8 @@ r.col2.17.2	gin2	gig[unit]	N	_	_	_
 r.col2.17.3	ku3	kug[silver]	N	_	_	_
 r.col2.17.4	sa10-am3	sa[pay_for][-a]-am	NF.V.PT.COP-3-SG	_	_	_
 r.col2.17.5	{gesz}kab2-kul	kabkul[container][-ak]	N.GEN	_	_	_
-r.col2.18.1	kiszib3-bi	kiszib[seal]-bi	N.3-SG-NH-POSS	_	_	_
-r.col2.18.2	2(disz)-am3	2(disz)[one]-am	NU.COP-3-SG	_	_	_
+r.col2.18.1	kiszib3-bi	kiszib[seal]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
+r.col2.18.2	2(disz)-am3	2(disz)[one][-ø]-am	NU.ABS.COP-3-SG	_	_	_
 r.col2.18.3	kiszib3	kiszib[seal]	N	_	_	_
 r.col2.18.4	a-gu	Agu[1][-ak]	PN.GEN	_	_	_
 r.col2.19.1	1(u)	1(u)[ten]	NU	_	_	_
