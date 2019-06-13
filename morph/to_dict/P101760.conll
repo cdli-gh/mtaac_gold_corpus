@@ -7,14 +7,14 @@ o.1.4	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 o.1.5	bar-gal2	bargal[fleeced_sheep]	N	bargal[~sheep][-ak]	N
 o.2.1	8(disz)	8(disz)[one]	NU
 o.2.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
-o.2.3	bar-su	barsuga[without_fleece]	N
+o.2.3	bar-su	barsuga[without_fleece][-ø]	NF.V.ABS
 o.3.1	3(u)	3(u)[ten]	NU
 o.3.2	7(disz)	7(disz)[one]	NU
 o.3.3	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 o.3.4	bar-gal2	bargal[fleeced_sheep]	N	bargal[~sheep][-ak]	N
 o.4.1	2(disz)	2(disz)[one]	NU	2(disz)[one]
 o.4.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
-o.4.3	bar-su	barsuga[without_fleece]	N
+o.4.3	bar-su	barsuga[without_fleece][-ø]	NF.V.ABS
 o.5.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N
 o.5.2	...	_[_]	_
 o.5.3	szusz3	kusz[cattle_manager][-ak]	N.GEN	kusz[official]	N	kusz[cattle_manager][-ak]	N.GEN
@@ -23,13 +23,13 @@ o.6.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
 o.6.3	bar-gal2	bargal[fleeced_sheep]	N	bargal[~sheep][-ak]	N
 o.7.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU
 o.7.2	u8	u[ewe]	N	u[ewe]	N	us[sheep][-ø]	N
-o.7.3	bar-su	barsuga[without_fleece]	N
+o.7.3	bar-su	barsuga[without_fleece][-ø]	NF.V.ABS
 o.8.1	x	_[_]	_
 o.8.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
 o.8.3	bar-gal2	bargal[fleeced_sheep]	N	bargal[~sheep][-ak]	N
 o.9.1	x	_[_]	_
 o.9.2	udu	udu[sheep]	N	udu[sheep][-ø]	N.ABS	udu[sheep][-ak][-ø]	N.GEN.ABS	udu[sheep][-ak]	N.GEN
-o.9.3	bar-su	barsuga[without_fleece]	N
+o.9.3	bar-su	barsuga[without_fleece][-ø]	NF.V.ABS
 o.10.1	...-x	_[_]	_
 o.10.2	szusz3	kusz[cattle_manager][-ak]	N.GEN	kusz[official]	N	kusz[cattle_manager][-ak]	N.GEN
 o.11.1	...	_[_]	_
