@@ -28,7 +28,7 @@ r.3.1	mu	mu[year]	N	mu[name]	N	mu[year]	mu[name]
 r.3.2	en	en[priest]	N
 r.3.3	{d}inanna	Inanna[1][-ak][-ø]	DN.GEN.ABS	Inanna[1][-ak][-ak]	DN.GEN.GEN
 r.3.4	ba-hun	ba-hug[hire][-ø]	MID.V.3-SG-S	ba-hung[hire][-ø]	MID.V.3-SG-S	Ba-hug[hire][-ø]	MID.V.3-SG-S	ba-hug[hire][-ø][-ø]	MID.V.3-SG-S.ABS
-s1.col1.1.1	{d}szul-gi	Szulgi[1]	RN
+s1.col1.1.1	{d}szul-gi	Szulgir[1]	RN
 s1.col1.2.1	nita	nita[male]	N
 s1.col1.2.2	kal-ga	kalag[strong]-a	NF.V.PT
 s1.col1.3.1	lugal	lugal[king]	N	lugal[king][-ra]	N.DAT	lugal[king][-ak]	N.GEN	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-e]	N.ERG	lugal[king]	N _  _ _	lugal[king][-ak][-ra]	N.GEN.DAT	lugal[king][-ra]	N.DAT-H	lugal[king]	Ns
