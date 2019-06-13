@@ -10,7 +10,7 @@ o.1.7	sze	sze[barley]	N	_	_	_
 o.1.8	gur	gur[unit]	N	_	_	_
 o.2.1	1(asz)	1(asz)[one]	NU	_	_	_
 o.2.2	3(barig)	3(bariga)[unit]	N	_	_	_
-o.2.3	gig	gig[resin]	N	_	_	_
+o.2.3	gig	gig[resin_type]	N	_	_	_
 o.2.4	gur	gur[unit]	N	_	_	_
 o.3.1	4(asz)	4(asz)[one]	NU	_	_	_
 o.3.2	2(barig)	2(bariga)[unit]	N	_	_	_
@@ -75,7 +75,7 @@ r.4.2	3(barig)	3(bariga)[unit]	N	_	_	_
 r.4.3	3(ban2)	3(ban)[unit]	N	_	_	_
 r.4.4	5(disz)	5(disz)[one]	NU	_	_	_
 r.4.5	sila3	sila[unit]	N	_	_	_
-r.4.6	gig	gig[resin]	N	_	_	_
+r.4.6	gig	gig[resin_type]	N	_	_	_
 r.4.7	gur	gur[unit]	N	_	_	_
 r.5.1	9(asz)	9(asz)[one]	NU	_	_	_
 r.5.2	3(barig)	3(bariga)[unit]	N	_	_	_
