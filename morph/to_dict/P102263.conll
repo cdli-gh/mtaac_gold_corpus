@@ -141,7 +141,7 @@ o.col3.7'.2	gu2	gu[bank]	N	gun[load]	N	gu[neck]	N
 o.col3.7'.3	i7	id[river]	N				
 o.col3.7'.4	idigna	Idigna[1][-ak]	WN.GEN				
 o.col3.8'.1	ugula	ugula[overseer]	N				
-o.col3.8'.2	sanga	sagga[official]	N				
+o.col3.8'.2	sanga	sagga[temple_administrator]	N				
 o.col3.8'.3	e2-babbar2	Ebabbar[1][-ak]	TN.GEN				
 o.col3.9'.1	3(bur3)	3(bur)[unit]	N				
 o.col3.9'.2	2(esze3)	2(esze)[unit]	N				
