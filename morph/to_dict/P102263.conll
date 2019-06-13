@@ -55,7 +55,7 @@ o.col2.2'.2	2(bur3)	2(bur)[unit]	N
 o.col2.2'.3	1(esze3)	1(esze)[unit]	N				
 o.col2.2'.4	1/4(iku)	1/4(iku)[unit]	N				
 o.col2.2'.5	GAN2	gana[field]	N				
-o.col2.2'.6	murgu2	murgu[type_of_tree]	N				
+o.col2.2'.6	murgu2	murgu[tree_type]	N				
 o.col2.3'.1	2(esze3)	2(esze)[unit]	N				
 o.col2.3'.2	4(iku)	4(iku)[unit]	N				
 o.col2.3'.3	GAN2	gana[field]	N				
@@ -73,7 +73,7 @@ o.col2.6'.1	1(bur'u)	1(bur'u)[unit]	N
 o.col2.6'.2	2(bur3)	2(bur)[unit]	N				
 o.col2.6'.3	4(iku)	4(iku)[unit]	N				
 o.col2.6'.4	GAN2	gana[field]	N				
-o.col2.6'.5	murgu2	murgu[type_of_tree]	N				
+o.col2.6'.5	murgu2	murgu[tree_type]	N				
 o.col2.7'.1	a-sza3	aszag[field]	N				
 o.col2.7'.2	KA-TUL2	KATUL[1]	FN				
 o.col2.8'.1	u3	u[and]	CNJ				
