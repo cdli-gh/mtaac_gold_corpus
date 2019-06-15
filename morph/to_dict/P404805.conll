@@ -2,7 +2,7 @@
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
 o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	_	_	_
 o.2.1	e2-tum	bitum[administrative_term]	N	_	_	_
-o.3.1	sag-nig2-gur11-ra	sagnigGAra[assets]	N	_	_	_
+o.3.1	sag-nig2-gur11-ra	sagnigGAra[available_assets]	N	_	_	_
 o.4.1	u3	u[and]	CNJ	_	_	_
 o.4.2	zi-ga	ziga[expenditure]	N	_	_	_
 o.5.1	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN.GEN.GEN.ABS	_	_	_
