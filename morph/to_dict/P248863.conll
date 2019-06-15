@@ -43,7 +43,7 @@ o.11.4	4(ban2)	4(ban)[unit]	N	_	_	_
 o.11.5	5(disz)	5(disz)[one]	NU	_	_	_
 o.11.6	sila3	sila[unit]	N	_	_	_
 o.11.7	sza3-gal	szaggal[food]	N	_	_	_
-o.11.8	{ansze}kunga2	kunga[equid]	N	_	_	_
+o.11.8	{ansze}kunga2	kunga[equid_type]	N	_	_	_
 o.12.1	sag-da-na	Sagdana[1][-ak][-ak]	PN.GEN.GEN	_	_	_
 o.12.2	3(disz)	3(disz)[one]	NU	_	_	_
 o.12.3	a-ba	Aba[1][-ra]	PN.DAT-H	_	_	_
