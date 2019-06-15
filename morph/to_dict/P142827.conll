@@ -162,7 +162,7 @@ o.col2.15.6	sze	sze[unit]	N	_	_	_
 o.col2.16.1	nig2-dab5	nigdab[requisitions]	N	_	_	_
 o.col2.16.2	tug2	tug[textile]	N	_	_	_
 o.col2.16.3	a-gi4-um	Agiwum[1]	ON	_	_	_
-o.col2.16.4	szar3	szar[cloth_designation][-ak]	N.GEN	_	_	_
+o.col2.16.4	szar3	szar[cloth_designation][-ø]	NF.V.ABS	_	_	_
 o.col2.17.1	ki	ki[place]	N	_	_	_
 o.col2.17.2	{d}utu-GIR2@g-gal	UtuGIRgal[1][-ak]	PN.GEN	_	_	_
 o.col2.17.3	giri3	giri[foot]	N	_	_	_
@@ -212,7 +212,7 @@ o.col2.28.2	2(disz)	2(disz)[one]	NU	_	_	_
 o.col2.28.3	sze	sze[unit]	N	_	_	_
 o.col2.29.1	nig2-dab5	nigdab[requisitions]	N	_	_	_
 o.col2.29.2	{kusz}suhub2	suhub[boots]	N	_	_	_
-o.col2.29.3	szar3	szar[cloth_designation][-ak]	N.GEN	_	_	_
+o.col2.29.3	szar3	szar[cloth_designation][-ø]	NF.V.ABS	_	_	_
 o.col2.29.4	ki	ki[place]	N	_	_	_
 o.col2.29.5	szu-esz18-dar	Szu'eszdar[1][-ak]	PN.GEN	_	_	_
 o.col2.30.1	giri3	giri[foot]	N	_	_	_
