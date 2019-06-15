@@ -60,7 +60,7 @@ o.14.7	5(ban2)	5(ban)[unit]	N	_	_	_
 o.14.8	3(disz)	3(disz)[one]	NU	_	_	_
 o.14.9	sila3	sila[unit]	N	_	_	_
 o.14.10	gur	gur[unit][-ø]	N.ABS	_	_	_
-r.1.1	sag-nig2-gur11-ra-kam	sagnigGAra[assets]	N	_	_	_
+r.1.1	sag-nig2-gur11-ra-kam	sagnigGAra[available_assets]	N	_	_	_
 r.2.1	sza3-bi-ta	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	_	_	_
 r.3.1	2(gesz'u)	2(gesz'u)[six_hundred]	NU	_	_	_
 r.3.2	1(gesz2)	1(gesz)[sixty]	NU	_	_	_
