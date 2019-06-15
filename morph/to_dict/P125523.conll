@@ -8,7 +8,7 @@ o.1.5	gin2	gig[unit]	N	gig[measuring_tool]	N
 o.1.6	siki	siki[wool]	N
 o.1.7	tug2	tug[textile]	N
 o.1.8	us2	us[follow][-ø]	NF.V.ABS
-o.1.9	szar3	szar[cloth_designation][-ø][-sze]	NF.V.PT.TERM
+o.1.9	szar3	szar[cloth_designation][-ø][-sze]	NF.V.ABS.TERM
 o.2.1	1(u)	1(u)[ten]	NU
 o.2.2	8(disz)	8(disz)[one]	NU
 o.2.3	ma-na	mana[unit]	N
