@@ -181,7 +181,7 @@ r.col2.14.3	3(ban2)	3(ban)[unit]	N	_	_	_
 r.col2.14.4	7(disz)	7(disz)[one]	NU	_	_	_
 r.col2.14.5	sila3	sila[unit]	N	_	_	_
 r.col2.14.6	i3-gesz	igesz[oil]	N	_	_	_
-r.col2.15.1	i3-ba	iba[ration]	N	_	_	_
+r.col2.15.1	i3-ba	iba[oil_ration]	N	_	_	_
 r.col2.15.2	lukur	lukur[priestess]	N	_	_	_
 r.col2.15.3	{d}szara2	Szara[1][-ak][-ak]	DN.GEN.GEN	_	_	_
 r.col2.16.1	kiszib3	kiszib[seal]	N	_	_	_
