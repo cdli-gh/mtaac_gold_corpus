@@ -15,7 +15,7 @@ o.2.2	2(asz)	2(asz)[one]	NU	_	_	_
 o.2.3	4(barig)	4(bariga)[unit]	N	_	_	_
 o.2.4	3(ban2)	3(ban)[unit]	N	_	_	_
 o.2.5	zi3	zid[flour]	N	_	_	_
-o.2.6	ISZ isz[flour_type] N	_	_	_	_	_
+o.2.6	ISZ	isz[flour_type]	N	_	_	_	_	_
 o.2.7	ba-ba	baba[porridge]	N	_	_	_
 o.2.8	gur	gur[unit][-ø]	N.ABS	_	_	_
 o.3.1	ki	ki[place]	N	_	_	_
