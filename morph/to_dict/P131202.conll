@@ -7,7 +7,7 @@ o.1.4	1(ban2)	1(ban)[unit]	N	_	_	_
 o.1.5	9(disz)	9(disz)[one]	NU	_	_	_
 o.1.6	sila3	sila[unit]	N	_	_	_
 o.1.7	zi3	zid[flour]	N	_	_	_
-o.1.8	sig15 sig[flour_type] N	_	_	_	_	_
+o.1.8	sig15	sig[flour_type]	N	_	_	_	_	_
 o.1.9	gur	gur[unit]	N	_	_	_
 o.1.10	lugal	lugal[king][-ak]	N.GEN	_	_	_
 o.2.1	2(u)	2(u)[ten]	NU	_	_	_
