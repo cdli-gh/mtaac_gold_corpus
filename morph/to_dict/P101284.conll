@@ -35,7 +35,7 @@ o.7.2	sa	sa[bundle]	N
 o.7.3	szum2	szum[garlic]	N						
 o.8.1	giri3	giri[foot]	N	giri[foot]	PRP	giri[foot]  N			
 o.8.2	i3-li2-sa6	Ilisa[1]	PN						
-o.8.3	ka-us2-sa2	ka’usa[function][-ak]	N.GEN						
+o.8.3	ka-us2-sa2	ka'usa[profession_type][-ak]	N.GEN						
 r.1.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU			
 r.1.2	sila3	sila[unit]	N						
 r.1.3	kasz	kasz[beer]	N						
@@ -52,7 +52,7 @@ r.3.1	1(disz)	1(disz)[one]	NU
 r.3.2	sa	sa[bundle]	N						
 r.3.3	szum2	szum[garlic]	N						
 r.4.1	lugal-ha-ma-ti	Lugalhamati[1]	PN						
-r.4.2	ka-us2-sa2	ka’usa[function]	N						
+r.4.2	ka-us2-sa2	ka'usa[profession_type]	N						
 r.5.1	szunigin	szunigin[total]	N						
 r.5.2	5(disz)	5(disz)[one]	NU						
 r.5.3	sila3	sila[unit]	N						
