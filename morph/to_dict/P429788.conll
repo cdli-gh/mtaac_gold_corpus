@@ -105,7 +105,7 @@ r.12.2	masz2-gal	maszgal[billy_goat]	N	_	_	_
 r.12.3	su4	su[red][-ø]	NF.V.ABS	_	_	_
 r.12.4	niga	niga[fattened][-ø]	NF.V.ABS	_	_	_
 r.12.5	1(disz)	1(disz)[one]	NU	_	_	_
-r.12.6	{munus}asz2-gar3	aszgar[kid]	N	_	_	_
+r.12.6	{munus}asz2-gar3	aszgar[female_kid]	N	_	_	_
 r.12.7	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.13.1	ur-nigar{gar}	Urnigar[1]	PN	_	_	_
 r.13.2	ka-guru7	kaguruk[supervisor][-e]	N.ERG	_	_	_
@@ -113,7 +113,7 @@ r.14.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.14.2	sila4	sila[lamb][-ø]	N.ABS	_	_	_
 r.14.3	zi2-na-na	Zinana[1][-e]	PN.ERG	_	_	_
 r.15.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.15.2	{munus}asz2-gar3	aszgar[kid][-ø]	N.ABS	_	_	_
+r.15.2	{munus}asz2-gar3	aszgar[female_kid][-ø]	N.ABS	_	_	_
 r.15.3	nu-ur2-i3-li2	Nurili[1]	PN	_	_	_
 r.15.4	nu-banda3	nubanda[overseer][-e]	N.ERG	_	_	_
 r.16.1	1(disz)	1(disz)[one]	NU	_	_	_
@@ -128,7 +128,7 @@ r.17.6	masz2-gal	maszgal[billy_goat]	N	_	_	_
 r.17.7	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.17.8	szimaszgi	Szimaszgi[sheep_designation]	N	_	_	_
 r.18.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.18.2	{munus}asz2-gar3	aszgar[kid]	N	_	_	_
+r.18.2	{munus}asz2-gar3	aszgar[female_kid]	N	_	_	_
 r.18.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.18.4	e2-a-i3-li2	E’a’ili[1][-e]	PN.ERG	_	_	_
 r.19.1	mu-kux(DU)	mu[-ni][-n]-kur[enter][-esz]	VEN.L1.3-SG-H-A.V.3-PL	_	_	_
