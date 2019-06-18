@@ -143,7 +143,7 @@ r.col1.4.1	2(disz)	2(disz)[one]	NU	_	_	_
 r.col1.4.2	udu-...	_[_]	N	_	_	_
 r.col1.5.1	{d}nin-gesz-zi-da	Ningeszzida[1][-ra]	DN.DAT-H	_	_	_
 r.col1.6.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.col1.6.2	{munus}asz2-gar3	aszgar[kid][-ø]	N.ABS	_	_	_
+r.col1.6.2	{munus}asz2-gar3	aszgar[female_kid][-ø]	N.ABS	_	_	_
 r.col1.6.3	...	_[_]	_	_	_	_
 r.col1.7.1	{d}lugal-ka-...	[1]	DN	_	_	_
 r.col1.8.1	1(disz)	1(disz)[one]	NU	_	_	_
@@ -184,7 +184,7 @@ r.col2.4.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col2.4.4	gu4-e-us2-sa	gude'usa[lowest_quality]	N	_	_	_
 r.col2.5.1	du6-ur3	du’ur[cultic_mound][-ak][-ra]	N.GEN.DAT-H	_	_	_
 r.col2.6.1	1(disz)	1(disz)[one]	NU	_	_	_
-r.col2.6.2	{munus}asz2-gar3	aszgar[kid]	N	_	_	_
+r.col2.6.2	{munus}asz2-gar3	aszgar[female_kid]	N	_	_	_
 r.col2.6.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	_	_
 r.col2.7.1	1(disz)	1(disz)[one]	NU	_	_	_
 r.col2.7.2	sila4	sila[lamb][-ø]	N.ABS	_	_	_
