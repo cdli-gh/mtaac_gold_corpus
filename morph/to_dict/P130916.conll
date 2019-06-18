@@ -39,8 +39,8 @@ o.13.2	2(barig)	2(bariga)[unit]	N
 o.13.3	ba-ha-an-sze-er	Bahanszer[1]	PN
 o.14.1	gu2-ra-ti-ir	Guratir[1][-ra]	PN.DAT-H
 o.15.1	sze-ba	szeba[ration]	N
-o.15.2	iti-da	iti[month]-da	N.COM
-o.15.3	a-bala	abala[hire][-a]	NF.V.PT
+o.15.2	iti-da	itud[worker_category]	N
+o.15.3	a-bala	abala[hire][-a][-ak]	NF.V.PT.GEN
 r.1.1	2(asz)	2(asz)[one]	NU
 r.1.2	2(barig)	2(bariga)[unit][-ø]	N.ABS
 r.1.3	{d}szara2-a-mu	Szarayamu[1]	PN
