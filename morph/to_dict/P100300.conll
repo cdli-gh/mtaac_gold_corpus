@@ -23,16 +23,15 @@ o.6.3	5(disz)	5(disz)[one]	NU	_	_	_
 o.6.4	ninda	nindan[pole]	N	_	_	_
 o.6.5	im-du8-a	imdua[wall]	N	_	_	_
 o.6.6	szu	szu[hand][-ø]	N.ABS	_	_	_
-o.6.7	du11-du11-ga	dug-dug[transform][-ed][-sze]	NF.V.RDP.PT.TERM	_	_	_
+o.6.7	du11-du11-ga	dug-dug[transform]-a	NF.V.RDP.PT	_	_	_
 r.1.1	gesz-kesz2	geszkesz[dam]	N	_	_	_
 r.1.2	{d}en-lil2-la2-sze3	Enlil[1]-ak-sze	DN.GEN.TERM	_	_	_
 r.2.1	gesz-kesz2	geszkesz[dam]	N	_	_	_
 r.2.2	{d}en-lil2-la2-ta	Enlil[1]-ak-ta	DN.GEN.ABL	_	_	_
 r.3.1	4(gesz2)	4(gesz)[sixty]	NU	_	_	_
 r.3.2	3(u)	3(u)[ten]	NU	_	_	_
-r.3.3	ninda	ninda[bread]	N	_	_	_
-r.3.4	gi	gi[reed]	N	_	_	_
-r.3.5	du3	du[a designation of grain]	N	_	_	_
+r.3.3	ninda	nindan[pole]	N	_	_	_
+r.3.4	gi-du3	gidua[reed_fence]	N	_	_	_
 r.4.1	e2-sar-ra-du10-sze3	Esarradu[1]-sze	SN.TERM	_	_	_
 r.5.1	a-sza3	aszag[field]	N	_	_	_
 r.5.2	{d}nansze-gar-ra	Nanszegarra[1][-ak]	DN.GEN	_	_	_
