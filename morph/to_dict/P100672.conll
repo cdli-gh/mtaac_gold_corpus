@@ -73,5 +73,5 @@ r.10'.2	3(ban2)	3(ban)[unit]	N	_	_	_
 r.10'.3	zi3	zid[flour]	N	_	_	_
 r.10'.4	dub-dub	dubdub[flour_designation]	N	_	_	_
 l.1.1	mu	mu[year]	N	_	_	_
-l.1.2	{d}x-{d}suen	[1]	RN	_	_	_
+l.1.2	{d}x-{d}suen	_[1]	RN	_	_	_
 l.1.3	lugal	lugal[king]	N	_	_	_
