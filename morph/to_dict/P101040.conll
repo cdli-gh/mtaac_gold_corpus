@@ -20,7 +20,7 @@
 .col1.3.7	gur	gur[unit]	N	_	_	_
 .col1.4.1	a-ra2	ara[times]	N	_	_	_
 .col1.4.2	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
-.col1.5.1	ur-{d}en-lil2-la2	Urenlilla[1][-ra]	PN.DAT-H	_	_	_
+.col1.5.1	ur-{d}en-lil2-la2	Urenlilak[1][-ra]	PN.DAT-H	_	_	_
 .col1.6.1	1(esze3)	1(esze)[unit]	N	_	_	_
 .col1.6.2	3(iku)	3(iku)[unit]	N	_	_	_
 .col1.6.3	...	_[_]	_	_	_	_
@@ -257,7 +257,7 @@ r.col1.11'.3	1(u)	1(u)[ten]	NU	_	_	_
 r.col1.11'.4	la2	la[hang][-ø]	NF.V.ABS	_	_	_
 r.col1.11'.5	1(asz)	1(asz)[one]	NU	_	_	_
 r.col1.11'.6	gur	gur[unit]	N	_	_	_
-r.col1.12'.1	ur-{d}en-lil2-la2	Urenlilla[1][-ra]	PN.DAT-H	_	_	_
+r.col1.12'.1	ur-{d}en-lil2-la2	Urenlilak[1][-ra]	PN.DAT-H	_	_	_
 r.col1.13'.1	...	_[_]	_	_	_	_
 r.col1.13'.2	GAN2	gana[field]	N	_	_	_
 r.col1.13'.3	1(asz)	1(asz)[one]	NU	_	_	_
@@ -292,7 +292,7 @@ r.col2.9'.4	2(asz)	2(asz)[one]	NU	_	_	_
 r.col2.9'.5	3(barig)	3(bariga)[unit]	N	_	_	_
 r.col2.9'.6	x	_[_]	_	_	_	_
 r.col2.9'.7	gur	gur[unit]	N	_	_	_
-r.col2.10'.1	ur-{d}en-lil2-la2	Urenlilla[1][-ra]	PN.DAT-H	_	_	_
+r.col2.10'.1	ur-{d}en-lil2-la2	Urenlilak[1][-ra]	PN.DAT-H	_	_	_
 r.col2.11'.1	1(esze3)	1(esze)[unit]	N	_	_	_
 r.col2.11'.2	GAN2	gana[field]	N	_	_	_
 r.col2.11'.3	1(asz)	1(asz)[one]	NU	_	_	_
