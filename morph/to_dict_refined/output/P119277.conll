@@ -1,0 +1,22 @@
+#new_text=P119277
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	2(asz)	2(asz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	gu2	gun[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	gi	gi[reed]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	al-zi-ra	zir[break]	VERB	V	_	_	_	_	_
+o.2.1	ninda	ninda[bread]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	DUL3	dul[shade]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	du8-de3	du[bake]	VERB	V	_	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ur-ge6-par4-ta	Urgepar[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	e2-iti-6(disz)	E'iti6[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.2.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	bala-a	bala[tax]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+s1.1.1	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	da-da-a	Dadaya[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

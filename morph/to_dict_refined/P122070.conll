@@ -1,0 +1,18 @@
+#new_text=P122070
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	2(disz)	2(disz)[one]	NU
+a.1.2	u8	u[ewe]	N
+a.2.1	ri-ri-ga	deg[collect]-a	NF.V.PT
+a.3.1	am3-ma	Amma[1]	PN
+a.3.2	na-gada	nagada[herdsman][-ak]	N.GEN
+a.4.1	kiszib3	kiszib[seal]	N
+a.4.2	ur-e11-e	Ure'e[1][-ak]	PN.GEN
+b.1.1	iti	iti[month]	N
+b.1.2	e2-iti-6(disz)	E'iti6[1][-'a]	MN.L1
+b.2.1	mu	mu[year]	N
+b.2.2	ki-masz{ki}	Kimasz[1][-ø]	SN.ABS
+b.2.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S
+s1.1.1	ur-e11-e	Ure'e[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-nigar{gar}	Urnigar[1][-ak]	PN.GEN

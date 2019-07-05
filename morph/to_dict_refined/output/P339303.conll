@@ -1,0 +1,33 @@
+#new_text=P339303
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	la2-ia3	la'u[arrears]	NOUN	N	Number=Sing	_	_	_	_
+o.1.2	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	1/2(disz)	1/2(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.4	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.5	i3-nun	inun[ghee]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	5(ban2)	5(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	7(disz)	7(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.3	2/3(disz)	2/3(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.4	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.5	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.6	gin2	gig[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.7	ga-ar3	ga'ar[cheese]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	4(u)	4(u)[ten]	NUM	NU	_	_	_	_	_
+o.3.2	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.3	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.3.4	siki-ud5	siki'ud[goat_wool]	NOUN	N	Number=Sing	_	_	_	_
+o.4.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	...	_[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	la2-ia3	la'u[arrears]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	ka-ga	kag[mouth]	NOUN	N	Number=Sing	_	_	_	_
+r.1.3	gi-na	gina[dues]	NOUN	N	Number=Sing	_	_	_	_
+r.1.4	lugal-hi-li	Lugalhili[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.5	su-su-dam	sug[repay]	VERB	V	Number=Sing|Person=3	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	ma2	ma[ship]	NOUN	N	Number=Sing	_	_	_	_
+r.2.3	{d}en-ki	Enki[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+r.2.4	ba-ab-du8	du[caulk]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	lugal-hi-li	Lugalhili[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.2.2	ur-a-ba-...	_[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

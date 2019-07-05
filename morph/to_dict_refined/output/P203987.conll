@@ -1,0 +1,28 @@
+#new_text=P203987
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	{kusz}du10-gan-na	duggan[leather_bag]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.3.1	kasz	kasz[beer]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	zi3	zid[flour]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	i3	i[oil]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.4.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	kas4-ke4-ne	kasz[runner]	NOUN	N	Number=Plur|Case=Gen	_	_	_	_
+o.5.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	diri	diri[excess]	NOUN	N	Number=Sing	_	_	_	_
+o.5.3	sze-sag11-ku5-ta	Szesagku[1]	PROPN	MN	Number=Sing|Case=Abl	_	_	_	_
+o.6.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	sze-il2-la-sze3	Sze'illa[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.1.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.2.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	gu2-ab-ba{ki}	Gu'abba[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+r.3.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	ki-nu-nir{ki}	Kinunir[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+r.4.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	ki-ma-da-sal4-la{ki}	Kimadasalla[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+r.5.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.6.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.6.2	ha-ar-szi{ki}	Harszi[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.6.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

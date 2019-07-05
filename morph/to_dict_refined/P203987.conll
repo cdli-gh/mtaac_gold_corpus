@@ -1,0 +1,27 @@
+#new_text=P203987
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	sza3	szag[heart]	N
+o.2.2	{kusz}du10-gan-na	duggan[leather_bag]-ak[-'a]	N.GEN.L1
+o.3.1	kasz	kasz[beer]	N
+o.3.2	zi3	zid[flour]	N
+o.3.3	i3	i[oil][-ø]	N.ABS
+o.4.1	giri3	giri[foot]	N
+o.4.2	kas4-ke4-ne	kasz[runner]-ak-ene	N.GEN.PL
+o.5.1	iti	iti[month]	N
+o.5.2	diri	diri[excess]	N
+o.5.3	sze-sag11-ku5-ta	Szesagku[1]-ta	MN.ABL
+o.6.1	iti	iti[month]	N
+o.6.2	sze-il2-la-sze3	Sze'illa[1]-sze	MN.TERM
+r.1.1	iti	iti[month]	N
+r.1.2	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG
+r.2.1	sza3	szag[heart]	N
+r.2.2	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	SN.GEN.L1
+r.3.1	sza3	szag[heart]	N
+r.3.2	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	SN.GEN.L1
+r.4.1	sza3	szag[heart]	N
+r.4.2	ki-ma-da-sal4-la{ki}	Kimadasalla[1][-ak][-'a]	SN.GEN.L1
+r.5.1	i3-gal2	i[-ni]-gal[be][-ø]	FIN.L1.V.3-SG-S
+r.6.1	mu	mu[year]	N
+r.6.2	ha-ar-szi{ki}	Harszi[1][-ø]	SN.ABS
+r.6.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S

@@ -1,0 +1,10 @@
+#new_text=P116260
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	kiszib3	kiszib[sealed_tablet]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	ra-a	ra[beat]	VERB	V	_	_	_	_	_
+o.2.3	sipa-e-ne	sipa[shepherd]	NOUN	N	Number=Plur	_	_	_	_
+o.3.1	ma-da	mada[land]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	gir2-su{ki}-ke4-ne	Girsu[1]	PROPN	SN	Number=Plur|Case=Gen,Gen,Gen,Abs	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+

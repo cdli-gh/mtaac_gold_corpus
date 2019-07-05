@@ -1,0 +1,11 @@
+#new_text=P107368
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	{d}en-lil2-la2	Enlil[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+o.4.1	igi-sze3	igi[eye]	NOUN	N	Number=Sing	_	_	_	_
+o.5.1	en3-bi	en[word]	NOUN	N	Number=Sing|Animacy=Hum|Case=Abs	_	_	_	_
+o.5.2	tar-re	tar[ask]	VERB	V	_	_	_	_	_
+o.6.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	gu-za-ni	Guzani[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

@@ -1,0 +1,61 @@
+#new_text=P133620
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	di	did[lawsuit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.2	til-la	til[complete]	VERB	V	_	_	_	_	_
+o.2.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	geme2-{d}ig-alim	Geme'igalim[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.2.3	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.2.4	nam-mah	Nammah[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+o.2.5	SIG7-a-ra	Sigara[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.1	mar-tu	Martu[1]	PROPN	EN	Number=Sing	_	_	_	_
+o.3.2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	lu2-nigin6{ki}-ke4	Lunigin[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Erg	_	_	_	_
+o.4.1	inim	inim[word]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.4.2	in-ni-gar-ra	gar[claim]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.5.1	geme2-mu	geme[female_worker]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.2	ni	ni[self]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.3	i3-me-a	me[be]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.6.1	i3-bi2-za-asz	ibiza[financial_loss]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	e2-gal-e	egal[palace]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+o.6.3	ma-ab-szum2-ma	szum[give]	VERB	V	Number=Sing|Person=3	_	_	_	_
+o.7.1	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.7.2	ab-ba-iri	abba'iri[city_elder]	NOUN	N	Number=Sing	_	_	_	_
+o.8.1	lu2-gir2-su{ki}	Lugirsu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.9.1	ur-x-da	_[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.9.2	ugula	ugula[overseer]	NOUN	N	Number=Sing	_	_	_	_
+o.9.3	kas4	kas[runner]	NOUN	N	Number=Sing|Case=Gen,Abs	_	_	_	_
+o.10.1	maszkim-bi-me	maszkim[administrator]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs,Abs	_	_	_	_
+o.10.2	bi2-in-du11	dug[speak]	VERB	V	Number=Sing|Person=3	_	_	_	_
+o.11.1	en3	en[word]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.11.2	ba-ne-tar-ra	tar[ask]	VERB	V	Number=Plur|Person=3|Voice=Mid	_	_	_	_
+o.12.1	mu	mu[name]	NOUN	N	Number=Sing	_	_	_	_
+o.12.2	inim-bi	inim[matter]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.12.3	nu-u3-zu	n]	VERB	V	Polarity=Neg|Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.12.4	bi2-in-ne2-sza-sze3	e[speak]	VERB	V	Number=Plur|Person=3	_	_	_	_
+o.13.1	geme2	geme[female_worker]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.13.2	lu2-gu2-gal	Lugugal[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.13.3	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.13.4	lu2-{d}ba-ba6-ka	Lubaba[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+o.14.1	ba-na-gi-in	gin[comfirm]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.15.1	erin-da	Erinda[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.15.2	maszkim	maszkim[administrator]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.16.1	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.17.1	lu2-eb-gal	Lu'ebgal[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.18.1	ur-{d}isztaran	Uristaran[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.18.2	di-ku5-bi-me	dikud[judge]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.19.1	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.19.2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.19.3	szagina	szakkanak[governor]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.20.1	...	_[_]	_	_	_	_	_	_	_
+o.20.2	x	_[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.20.3	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.20.4	ur-{d}lamma	Urlamma[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+o.21.1	lu2	lu[person]	NOUN	N	Number=Sing	_	_	_	_
+o.21.2	mar-za	marza[rites]	NOUN	N	Number=Sing	_	_	_	_
+o.21.3	ki-ba	ki[place]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+o.21.4	tusz-sza-me	tusz[sit]	VERB	V	Number=Plur|Person=3	_	_	_	_
+o.22.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+o.22.2	bad3	bad[wall]	NOUN	N	Number=Sing	_	_	_	_
+o.22.3	mar-tu	Martu[1]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.22.4	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

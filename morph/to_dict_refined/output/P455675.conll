@@ -1,0 +1,9 @@
+#new_text=P455675
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+a.1.1	lu2-ma2-gur8-re	Lumagure[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+a.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+a.3.2	e2-di	Edi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.4.1	nu-esz3	nu'eszak[priest]	NOUN	N	Number=Sing	_	_	_	_
+a.4.2	{d}en-lil2-la2-ka	Enlil[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Gen	_	_	_	_
+

@@ -1,0 +1,22 @@
+#new_text=P416146
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	{uruda}zi-ir	zir[slip]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	ki-la2-bi	kila[weight]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.2.2	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.3	1/2(disz)	1/2(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.4	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.5	8(disz)	8(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.6	gin2	gig[unit]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	i3-kal-la-ta	Ikala[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	tug2-ba-a	tugba[textile_distribution]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	bala-a-sze3	bala[tax]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.1.1	ku3-{d}nin-ur4-ra	Kugninura[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+r.2.1	in-la2	la[weigh]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.3.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	e2-{d}szara2	Eszara[1]	PROPN	TN	Number=Sing|Case=Abs	_	_	_	_
+r.4.3	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

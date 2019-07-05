@@ -1,0 +1,27 @@
+#new_text=P453803
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	sze-ba	szeba[ration]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	guru7-a	guru[store]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	tak4-a	taka[abandon]	VERB	V	_	_	_	_	_
+o.3.1	geme2	geme[female_worker]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ARAD2-da	arad[slave]	NOUN	N	Number=Sing|Case=Gen,Abs	_	_	_	_
+o.4.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.5.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	szu-gar-ra-ta	Szugarra[1]	PROPN	MN	Number=Sing|Case=Abl	_	_	_	_
+o.6.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	diri	dirig[excess]	NOUN	N	Number=Sing	_	_	_	_
+o.6.3	sze-sag11-ku5-sze3	Szesagku[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.1.1	iti-bi	iti[month]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+r.1.2	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.1.3	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+r.1.4	3(disz)-am3	3(disz)[one]	NUM	NU	Case=Abs	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.3	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+r.2.4	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Number=Sing|Case=Gen,Erg	_	_	_	_
+r.2.5	na-ru2-a-mah	naruamah[magnificent_stele]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.2.6	{d}en-lil2	Enlil[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.7	{d}nin-lil2-ra	Ninlil[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.8	mu-ne-du3	a]	VERB	V	Number=Plur|Person=3	_	_	_	_
+

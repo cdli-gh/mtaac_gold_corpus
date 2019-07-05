@@ -1,0 +1,28 @@
+#new_text=P453609
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	tu7	tu[soup]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+o.2.2	ku6	kud[fish]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+o.3.3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.3.4	3(u)-sze3	3(u)[ten]	NUM	NU	_	_	_	_	_
+o.4.1	tu7-bi	tu[soup]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.4.2	3(u)	3(u)[ten]	NUM	NU	_	_	_	_	_
+o.4.3	sila3	sila[unit]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.1	ku6-bi	kud[fish]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.5.2	1(gesz'u)	1(gesz'u)[six_hundred]	NUM	NU	Case=Abs	_	_	_	_
+r.1.1	geme2	geme[female_worker]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	usz-bar-e	uszbar[weaver]	NOUN	N	Number=Sing|Case=Erg	_	_	_	_
+r.2.1	ib2-gu7	gu[eat]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	puzur4-{d}iszkur	Puzuriszkur[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.4.1	zi-ga	zig[expend]	VERB	V	_	_	_	_	_
+r.5.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.5.2	kir11-si-ak	Kirsi'ak[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.6.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.6.2	hu-uh2-nu-ri{ki}	Huhnuri[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.6.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

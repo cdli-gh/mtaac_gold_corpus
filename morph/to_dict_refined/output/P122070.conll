@@ -1,0 +1,19 @@
+#new_text=P122070
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+a.1.1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+a.1.2	u8	u[ewe]	NOUN	N	Number=Sing	_	_	_	_
+a.2.1	ri-ri-ga	deg[collect]	VERB	V	_	_	_	_	_
+a.3.1	am3-ma	Amma[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.3.2	na-gada	nagada[herdsman]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+a.4.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+a.4.2	ur-e11-e	Ure'e[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+b.1.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+b.1.2	e2-iti-6(disz)	E'iti6[1]	PROPN	MN	Number=Sing	_	_	_	_
+b.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+b.2.2	ki-masz{ki}	Kimasz[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+b.2.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	ur-e11-e	Ure'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	ur-nigar{gar}	Urnigar[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

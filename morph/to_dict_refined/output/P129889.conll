@@ -1,0 +1,32 @@
+#new_text=P129889
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	8(asz)	8(asz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	...	_[_]	_	_	_	_	_	_	_
+o.1.3	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	masz2	masz[goat]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	igi	igi[eye]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	...	_[_]	_	_	_	_	_	_	_
+o.2.4	si	_[_]	_	_	_	_	_	_	_
+o.2.5	gal	gal[big]	VERB	V	_	_	_	_	_
+o.2.6	...	_[_]	_	_	_	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ur-x-...	_[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	nigar{gar}-ki-du10	Nigarkidu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.4.2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	ugula-gesz2-da	Ugulageszda[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Erg	_	_	_	_
+r.1.1	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+r.1.2	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.2.1	ezem	ezem[festival]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	nesag-sze3	nesag[first_fruit_offering]	NOUN	N	Number=Sing	_	_	_	_
+r.3.1	ag2-e-dam	ag[measure]	VERB	V	Number=Sing|Person=3	_	_	_	_
+r.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	ma2-dara3-abzu	Madara'abzu[1]	PROPN	ON	Number=Sing	_	_	_	_
+r.4.3	{d}en-ki	Enki[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+r.4.4	ba-ab-du8	du[caulk]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	nigar{gar}-ki-du10	Nigarkidu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	sipa	sipa[shepherd]	NOUN	N	Number=Sing	_	_	_	_
+s1.2.2	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+s1.2.3	niga	niga[fattened]	VERB	V	_	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	lugal-sa6-ga	Lugalsaga[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

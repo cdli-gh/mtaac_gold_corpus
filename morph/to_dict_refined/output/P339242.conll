@@ -1,0 +1,30 @@
+#new_text=P339242
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	e2	e[house]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	szu-szum2-ma	szuszuma[consignment]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.3.1	nig2-gur11	nigGA[property]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.3	ensi2	ensik[ruler]	NOUN	N	Number=Sing	_	_	_	_
+o.3.4	umma	Umma[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+o.4.1	u3	u[and]	CCONJ	CNJ	_	_	_	_	_
+o.4.2	dam	dam[spouse]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	dumu-na	dumu[child]	NOUN	N	Number=Sing|Animacy=Hum|Case=Gen	_	_	_	_
+o.5.1	nig2-gur11	nigGA[property]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	{d}szul-gi-ra	Szulgir[1]	PROPN	RN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	sza3-ta-ku3-zu	Szatakuzu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.3	sukkal	sukkal[secretary]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.2.1	u3	u[and]	CCONJ	CNJ	_	_	_	_	_
+r.2.2	nig2-gur11	nigGA[property]	NOUN	N	Number=Sing	_	_	_	_
+r.2.3	bar-ra	bar[outside]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.3.1	gaba-ri	gabari[copy]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	kiszib3-ba	kiszib[seal]	VERB	V	_	_	_	_	_
+r.3.3	ba-ba-ti	Babati[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+r.4.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.5.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.5.2	{d}dumu-zi	Dumuzi[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.6.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.6.2	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+r.6.3	eridu{ki}	Eridug[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+

@@ -1,0 +1,17 @@
+#new_text=P356065
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	sipa	sipa[shepherd]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	gukkal-na-ke4	tailed_sheep]	NOUN	N	Number=Plur|Animacy=Hum|Case=Gen,Abs	_	_	_	_
+o.4.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.5.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	ma-da	mada[land]	NOUN	N	Number=Sing	_	_	_	_
+o.5.3	gir2-su{ki}	Girsu[1]	PROPN	SN	Number=Sing|Case=Gen,Gen	_	_	_	_
+o.6.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.6.2	a-a-kal-la	Ayakala[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.6.3	szusz3	kusz[cattle_manager]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.7.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+o.7.2	si-mu-ru-um{ki}	Simurrum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+o.7.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

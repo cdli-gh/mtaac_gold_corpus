@@ -1,0 +1,22 @@
+#new_text=P100257
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	udu	udu[sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	niga	niga[fattened]	VERB	V	_	_	_	_	_
+o.1.4	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.2.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	an-na-hi-li-bi-ta	Annahilibi[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.3.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	lu2-kal-la	Lukala[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+o.4.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	pa4-u2-e	Pa'u'e[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	en-unu6-gal	Enunugal[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.3	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+r.1.4	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	lu2-kal-la	Lukala[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	ur-e11-e	Ure'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.3.3	szusz3	kusz[cattle_manager]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+

@@ -1,0 +1,28 @@
+#new_text=P100723
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	udu-nita2	udunita[ram]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.1.3	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.2.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	sila4	sila[lamb]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	ASZ-ur4	azur[type_of_sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.2.4	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+_	_	_	_	_	_	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ur-u3-ta	Uru[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	bala-a	bala[tax]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.1.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	ARAD2	Arad[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.2.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	sze-sag11-ku5	Szesagku[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.3.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+r.3.3	ki-masz{ki}	Kimasz[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.3.4	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	ARAD2-mu	Aradmu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	ur-nigar{gar}	Urnigar[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.3.3	szusz3	kusz[cattle_manager]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+

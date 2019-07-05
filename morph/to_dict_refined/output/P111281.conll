@@ -1,0 +1,36 @@
+#new_text=P111281
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	tug2-mah	tugmah[ceremonial_garment]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	ki-la2-bi	kila[weight]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.2.2	3(u)	3(u)[ten]	NUM	NU	_	_	_	_	_
+o.2.3	ma-na	mana[unit]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.2	kusz	kusz[leather]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+o.3.4	tul2	tul[ditch]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.5	ak	ak[excavate]	VERB	V	_	_	_	_	_
+o.4.1	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.2	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	sze-gin2	szegin[paint]	NOUN	N	Number=Sing	_	_	_	_
+o.5.1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.5.2	aszgab	aszgab[leatherworker]	NOUN	N	Number=Sing	_	_	_	_
+o.6.1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.6.2	nagar	nagar[carpenter]	NOUN	N	Number=Sing	_	_	_	_
+r.1.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+r.1.3	3(disz)-sze3	3(disz)[one]	NUM	NU	_	_	_	_	_
+r.2.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	lu2-{d}nin-gir2-su-ta	Luningirsu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.3.1	e2-gesz	egesz[workshop]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	{d}nansze	Nansze[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+r.3.3	nigin6{ki}-sze3	Nigin[1]	PROPN	SN	Number=Sing|Case=Gen,Gen	_	_	_	_
+r.4.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	ku5-da	kuda[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.4.3	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+r.4.4	ab-ba-mu	Abbamu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Gen	_	_	_	_
+r.5.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.5.2	hu-hu-nu-ri{ki}	Huhunuri[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.5.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

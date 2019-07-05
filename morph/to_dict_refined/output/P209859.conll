@@ -1,0 +1,24 @@
+#new_text=P209859
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(asz)	1(asz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	sze	sze[barley]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	du10-ge	Duge[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.1	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	dingir-ra-bi	Dingirrabi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.4.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.2	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	i-di3-dingir	Ididingir[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.5.1	3(barig)	3(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	na-ki-ki	Nakiki[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.1	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	nu-hi-dingir	Nuhidingir[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.1	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	ti-ti	Titi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.3.1	szunigin	szunigin[total]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	3(asz)	3(asz)[one]	NUM	NU	_	_	_	_	_
+r.3.3	4(barig)	4(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+r.3.4	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+r.4.1	szu-nir-ru-ku	Szunirruku[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.4.2	maszkim	maszkim[administrator]	NOUN	N	Number=Sing	_	_	_	_
+

@@ -1,0 +1,34 @@
+#new_text=P324758
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	...	_[_]	_	_	_	_	_	_	_
+o.2.1	a2	a[labor]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	gurusz-a	gurusz[male]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.2.3	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.2.4	gin2-ta	gig[unit]	NOUN	N	Number=Sing|Case=Abl	_	_	_	_
+o.3.1	gurusz-bi	gurusz[male]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.3.2	4(disz)	4(disz)[one]	NUM	NU	Case=Abs	_	_	_	_
+o.3.3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.3.4	1(disz)-sze3	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.1	sze	sze[barley]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.3	sila3-ta	sila[unit]	NOUN	N	Number=Sing|Case=Abl	_	_	_	_
+o.4.4	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.5.1	sahar	sahar[earth]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.2	zi-ga	zig[raise]	VERB	V	_	_	_	_	_
+o.5.3	kar-ki-mu-ra	karkimura[habour_of_depository]	NOUN	N	Number=Sing	_	_	_	_
+o.5.4	si-ga	sig[pile_up]	VERB	V	_	_	_	_	_
+r.1.1	mu-kux(DU)	mukur[delivery]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	dingir-su-dan	Dingirsudan[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.2.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.2.2	ba-zi	Bazi[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+r.3.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	ezem-mah	Ezemmah[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.4.3	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+r.4.4	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Number=Sing|Case=Gen,Erg	_	_	_	_
+r.4.5	ma-da	mada[land]	NOUN	N	Number=Sing	_	_	_	_
+r.4.6	za-ab-sza-li{ki}	Zabszali[1]	PROPN	SN	Number=Sing|Case=Gen,Abs	_	_	_	_
+r.4.7	mu-hul	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+l.1.1	gaba-ri	gabari[copy]	NOUN	N	Number=Sing	_	_	_	_
+

@@ -1,0 +1,14 @@
+#new_text=P135742
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	gurum2	gurum[inspection]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.2.2	ak	ak[inspect]	VERB	V	_	_	_	_	_
+o.3.1	szu-ku6	szukud[fisherman]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	x	_[_]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	muszen-du3	muszendu[bird_catcher]	NOUN	N	Number=Sing	_	_	_	_
+o.4.1	u3	u[and]	CCONJ	CNJ	_	_	_	_	_
+o.4.2	nam-x-ni	_[_]	NOUN	N	Number=Sing|Case=Gen,Abs	_	_	_	_
+o.5.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	ki-masz{ki}	Kimasz[1]	PROPN	SN	Number=Sing	_	_	_	_
+

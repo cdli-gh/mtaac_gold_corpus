@@ -1,0 +1,7 @@
+#new_text=P456556
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+a.1.1	na-ba-sa6	Nabasa[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.2.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+a.2.2	lugal-nig2-nesag-e	Lugalnignesage[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.3.1	kuruszda	kuruszda[animal_fattener]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+

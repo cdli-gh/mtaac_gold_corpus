@@ -1,0 +1,33 @@
+#new_text=P139527
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	4(asz)	4(asz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	4(ban2)	4(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.5	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.6	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.7	gig	gig[resin_type]	NOUN	N	Number=Sing	_	_	_	_
+o.1.8	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.9	lugal	lugal[king]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.2.1	8(asz)	8(asz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	la2	la[hang]	VERB	V	_	_	_	_	_
+o.2.4	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.5	ziz2	ziz[emmer]	NOUN	N	Number=Sing	_	_	_	_
+o.2.6	gur	gur[unit]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	zabar	zabar[measuring_vessel]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	gibil-ta	gibil[new]	VERB	V	_	_	_	_	_
+o.4.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	lugal-he2-gal2-ta	Lugalhegal[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.1.1	ARAD2	Arad[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+r.1.2	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+r.1.3	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.2.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	diri	diri[intercalary_month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	a-ra2	ara[times]	NOUN	N	Number=Sing	_	_	_	_
+r.3.3	3(disz)-kam	3(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.3.4	si-mu-ru-um{ki}	Simurrum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.3.5	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

@@ -1,0 +1,23 @@
+#new_text=P113642
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	{gi}gur	gur[measuring_vessel]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+o.1.5	1(barig)-ta	bariga[unit]	NOUN	N	Number=Sing|Case=Abl	_	_	_	_
+o.2.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	lu2-igi-sa6-sa6-ta	Lu'igisasa[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.3.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	a-da-ga	Adaga[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+o.4.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	nesag	Nesag[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	sza3-asz-ru-um{ki}	Szaszrum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.1.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.col1.1.1	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.col1.2.1	ensi2	ensik[ruler]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.3.1	umma{ki}	Umma[1]	PROPN	SN	Number=Sing|Case=Gen,Abs	_	_	_	_
+s1.col2.1.1	a-da-ga	Adaga[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.col2.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+s1.col2.3.1	ARAD2-zu	arad[slave]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+

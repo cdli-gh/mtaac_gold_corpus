@@ -1,0 +1,8 @@
+#new_text=P457733
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+a.1.1	ur-{d}lamma	Urlamma[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.2.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+a.2.2	lu2-gu-la	Lugula[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+a.3.1	x	_[_]	_	_	_	_	_	_	_
+a.3.2	sza3-ba-na-sig	Szabanasig[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Gen	_	_	_	_
+

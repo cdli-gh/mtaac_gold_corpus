@@ -1,0 +1,19 @@
+#new_text=P340100
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	im	im[clay]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	sze	sze[barley]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	gesz	gesz[tree]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	e3-a	e[leave]	VERB	V	_	_	_	_	_
+o.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+o.4.3	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+o.4.4	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+o.4.5	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Number=Sing|Case=Gen,Erg	_	_	_	_
+o.4.6	bad3	bad[wall]	NOUN	N	Number=Sing	_	_	_	_
+o.4.7	mar-tu	Martu[1]	PROPN	EN	Number=Sing	_	_	_	_
+o.4.8	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1]	PROPN	ON	Number=Sing|Case=Abs	_	_	_	_
+o.4.9	mu-du3-a	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+

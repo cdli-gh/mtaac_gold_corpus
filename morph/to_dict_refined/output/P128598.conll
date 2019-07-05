@@ -1,0 +1,29 @@
+#new_text=P128598
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	udu	udu[sheep]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.2.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	u8	u[ewe]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.2	sila4	sila[lamb]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.4.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.2	masz2-gal	maszgal[billy_goat]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.1	ba-usz2	ug[die]	VERB	V	Number=Plur|Person=3|Voice=Mid	_	_	_	_
+o.5.2	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.5.3	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.5.4	la2	la[hang]	VERB	V	_	_	_	_	_
+o.5.5	1(disz@t)-kam	1(disz@t)[one]	NUM	NU	Case=Gen	_	_	_	_
+o.6.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	tum-ma-al	Tummal[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+r.1.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	en-dingir-mu-ta	Endingirmu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.2.1	{d}szul-gi-iri-mu	Szulgi'irimu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+r.3.1	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+r.3.2	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.4.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	a2-ki-ti	Akiti[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.5.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.5.2	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+r.5.3	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+r.5.4	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

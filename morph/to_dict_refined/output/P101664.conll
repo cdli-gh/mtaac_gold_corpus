@@ -1,0 +1,32 @@
+#new_text=P101664
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	1(disz)-sze3	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.1	mar-sa	marsa[shipyard]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	gub-ba	gub[assigned]	VERB	V	_	_	_	_	_
+o.3.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.2	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.4.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	lugal-nir	Lugalnir[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+r.1.2	1/2(disz)	1/2(disz)[one]	NUM	NU	_	_	_	_	_
+r.1.3	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+r.1.4	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+r.1.5	1(disz)-sze3	1(disz)[one]	NUM	NU	_	_	_	_	_
+r.2.1	szu-sar	szusar[string]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.2.2	szu	szu[hand]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.2.3	gurx(|SZE.KIN|)-a	gur[roll_up]	VERB	V	_	_	_	_	_
+r.3.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	{d}dumu-zi	Dumuzi[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	bad3	bad[wall]	NOUN	N	Number=Sing	_	_	_	_
+r.4.3	mar-tu	Martu[1]	PROPN	EN	Number=Sing|Case=Abs	_	_	_	_
+r.4.4	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	lugal-nir	Lugalnir[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	ur-{d}szara2	Urszara[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.4.1	sza13-dub-ba-ka	bisagdubak[archivist]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+

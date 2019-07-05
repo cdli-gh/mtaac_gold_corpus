@@ -1,0 +1,29 @@
+#new_text=P101147
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	kusz	kusz[leather]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	sila4	sila[lamb]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.2.1	{kusz}du10-gan	duggan[leather_bag]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	ti-bala-a-sze3	tibala[portent]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	a-kal-la-ta	Akala[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	ensi2-ka	ensik[ruler]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.1.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.3	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.col1.2.1	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.2.2	kal-ga	kalag[strong]	VERB	V	_	_	_	_	_
+s1.col1.3.1	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.3.2	uri5{ki}-ma	Urim[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+s1.col1.4.1	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.4.2	an-ub-da	anubda[quarter]	NOUN	N	Number=Sing	_	_	_	_
+s1.col1.4.3	limmu2-ba	limmu[four]	NUM	NU	Case=Gen,Abs	_	_	_	_
+s1.col2.1.1	a-a-kal-la	Ayakala[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.col2.2.1	ensi2	ensik[ruler]	NOUN	N	Number=Sing	_	_	_	_
+s1.col2.3.1	umma{ki}	Umma[1]	PROPN	SN	Number=Sing|Case=Gen,Abs	_	_	_	_
+s1.col2.4.1	ARAD2-zu	arad[slave]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+

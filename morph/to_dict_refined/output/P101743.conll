@@ -1,0 +1,13 @@
+#new_text=P101743
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	im	im[clay]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	di	did[lawsuit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	til-la	til[complete]	VERB	V	_	_	_	_	_
+o.3.1	{d}szara2-kam	Szarakam[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.2	ensi2-ka	ensik[ruler]	NOUN	N	Number=Sing|Case=Gen,Gen,Abs	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	sza-asz-ru{ki}	Szaszru[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.2.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

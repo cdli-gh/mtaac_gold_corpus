@@ -1,0 +1,9 @@
+#new_text=P448068
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(asz@c)	1(asz@c)[one]	NUM	NU	_	_	_	_	_
+o.1.2	udu	udu[sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	1(asz@c)	1(asz@c)[one]	NUM	NU	_	_	_	_	_
+o.2.2	masz2	masz[goat]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	lugal-{d}utu	Lugalutu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.1	...	_[_]	_	_	_	_	_	_	_
+

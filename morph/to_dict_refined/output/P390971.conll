@@ -1,0 +1,22 @@
+#new_text=P390971
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	...	_[_]	_	_	_	_	_	_	_
+o.1.2	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	...	_[_]	_	_	_	_	_	_	_
+o.2.2	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	gesz-du3	geszdu[breeding_stock]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+o.4.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	ab-ba-sa6-ga-ta	Abbasaga[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.5.1	ur-tur	Urtur[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+r.1.1	i3-dab5	n]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	ezem-me-ki-gal2	Ezemmekigal[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.3.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+r.3.3	hu-uh2-nu-ri{ki}	Huhnuri[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.3.4	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+l.1.1	...	_[_]	_	_	_	_	_	_	_
+l.1.2	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+

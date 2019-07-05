@@ -1,0 +1,32 @@
+#new_text=P125128
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(asz)	1(asz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	nig2-ar3-ra	nigara[groats]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	2(barig)	2(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	munu4	munu[malt]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	si-e3	si'e[sprout]	VERB	V	_	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	lugal-ku3-zu-ta	Lugalkuzu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	ma2-gur8-re	Magure[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+o.4.2	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+o.4.3	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.5.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	bala	bala[tax]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.6.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	sze-kar-ra-gal2-la	Szekaragala[1]	PROPN	MN	Number=Sing	_	_	_	_
+o.7.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+o.7.2	lu-lu-bu-um{ki}	Lulubum[1]	PROPN	SN	Number=Sing	_	_	_	_
+o.7.3	si-mu-ru-um{ki}	Simurrum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+o.7.4	a-ra2	ara[times]	NOUN	N	Number=Sing	_	_	_	_
+o.7.5	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.7.6	la2	la[hang]	VERB	V	_	_	_	_	_
+o.7.7	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+o.7.8	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	ma2-gur8-re	Magure[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.2.2	e2-{gesz}gesztin	Egesztin[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.3.1	lu2	lu[person]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	lunga	lungak[brewer]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+

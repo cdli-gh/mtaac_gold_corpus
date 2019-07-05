@@ -1,0 +1,18 @@
+#new_text=P136370
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.2	kuruszda	kuruszda[animal_fattener]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	5(disz)-kam	5(disz)[one]	NUM	NU	Case=Gen,Gen,Abs	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	ki-masz{ki}	Kimasz[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.2.3	ba-hul-ta	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.3.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	{d}amar-{d}suen	Amarsuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.3.3	lugal	lugal[king]	NOUN	N	Number=Sing|Case=Erg	_	_	_	_
+r.3.4	ur-bi2-lum{ki}	Urbilum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.3.5	mu-hul-sze3	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+

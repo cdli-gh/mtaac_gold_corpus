@@ -1,0 +1,22 @@
+#new_text=P142653
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	hun-ga2	hug[hire]	VERB	V	_	_	_	_	_
+o.2.1	al	al[hoeing]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.3	sar-ta	sar[unit]	NOUN	N	Number=Sing|Case=Abl	_	_	_	_
+o.3.1	a-sza3	aszag[field]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	gi-apin-ku5-ra2	Gi'apinkudra[1]	PROPN	FN	Number=Sing	_	_	_	_
+o.4.1	szuku	szukur[prebend_land]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	ensi2-ka	ensik[ruler]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.1.1	ugula	ugula[overseer]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	szu-ma-am3	Szumam[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.1	gurum2	gurum[inspection]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+r.2.3	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+r.2.4	6(disz)-kam	6(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.3.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	min3-esz3	Minesz[1]	PROPN	MN	Number=Sing	_	_	_	_
+

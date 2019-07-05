@@ -1,0 +1,33 @@
+#new_text=P139265
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.1.2	x	_[_]	_	_	_	_	_	_	_
+o.1.3	nu-ub-tuku	tuku[acquire]	VERB	V	Polarity=Neg|Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+o.2.1	n	_(_)[_]	NUM	NU	_	_	_	_	_
+o.2.2	sila4-ga	sila[lamb]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ensi2	ensik[ruler]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	bala-a-ta	bala[rotate]	VERB	V	_	_	_	_	_
+o.4.1	x	_[_]	_	_	_	_	_	_	_
+o.4.2	udu	udu[sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	niga	niga[fattened]	VERB	V	_	_	_	_	_
+o.5.1	e2-gal-ta	egal[palace]	NOUN	N	Number=Sing|Case=Abl	_	_	_	_
+o.6.1	e2	e[house]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	{d}nanna-sze3	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	a2-ge6-ba-a	agiba[midnight]	NOUN	N	Number=Sing	_	_	_	_
+r.2.1	zi-ga	zig[expend]	VERB	V	_	_	_	_	_
+r.3.1	esz3-esz3	eszesz[festival]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	lugal	lugal[king]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+r.4.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	e2	e[house]	NOUN	N	Number=Sing	_	_	_	_
+r.4.3	{d}nanna-ka	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Gen	_	_	_	_
+r.5.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+r.5.2	n-kam	_(_)[_]	NUM	NU	Case=Gen	_	_	_	_
+r.6.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.6.2	u5-bi2{muszen}-gu7	Ubigu[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.7.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.7.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+r.7.3	en-am-gal	Enamgalanna[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.7.4	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+r.7.5	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

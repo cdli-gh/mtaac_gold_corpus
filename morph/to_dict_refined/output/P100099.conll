@@ -1,0 +1,26 @@
+#new_text=P100099
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(ban2)	1(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.2	kasz	kasz[beer]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	1(ban2)	1(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.4	...	_[_]	_	_	_	_	_	_	_
+o.2.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	...	_[_]	_	_	_	_	_	_	_
+o.3.1	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.3.2	...	_[_]	_	_	_	_	_	_	_
+o.3.3	gesz	gesz[tree]	NOUN	N	Number=Sing	_	_	_	_
+o.4.1	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	kasz	kasz[beer]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	...	_[_]	_	_	_	_	_	_	_
+o.4.4	x	_[_]	_	_	_	_	_	_	_
+o.4.5	...	_[_]	_	_	_	_	_	_	_
+o.5.1	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	x	_[_]	_	_	_	_	_	_	_
+o.6.1	nam-ha-ni	Namhani[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.6.2	sagi	sagi[cup_bearer]	NOUN	N	Number=Sing	_	_	_	_
+o.7.1	{d}gu-la	Gula[1]	PROPN	DN	Animacy=Hum|Number=Sing|Case=Gen,Abs	_	_	_	_
+o.8.1	mu-da-gen-na-a	b]	VERB	V	Number=Sing|Person=3	_	_	_	_
+o.9.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.9.2	sze-kar-ra-gal2-la	Szekaragala[1]	PROPN	MN	Number=Sing	_	_	_	_
+

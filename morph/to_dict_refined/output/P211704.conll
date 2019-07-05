@@ -1,0 +1,14 @@
+#new_text=P211704
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	...	_[_]	_	_	_	_	_	_	_
+o.3.1	zi-ga	zig[expend]	VERB	V	_	_	_	_	_
+o.3.2	...	_[_]	_	_	_	_	_	_	_
+o.4.1	zi-ga	zig[expend]	VERB	V	_	_	_	_	_
+o.4.2	lugal	lugal[king]	NOUN	N	Number=Sing|Animacy=Hum	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+r.1.3	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+r.1.4	kar-zi-da	Karzida[1]	PROPN	SN	Number=Sing|Case=Gen,Gen,Abs	_	_	_	_
+r.1.5	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

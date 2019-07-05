@@ -1,0 +1,21 @@
+#new_text=P303771
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	udu	udu[sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	niga	niga[fattened]	VERB	V	_	_	_	_	_
+o.2.1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	udu	udu[sheep]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.2	sila4	sila[lamb]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.4.1	ba-usz2	ug[die]	VERB	V	Number=Plur|Person=3|Voice=Mid	_	_	_	_
+o.4.2	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	3(disz)-kam	3(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.1.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	na-lu5-ta	Nalu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.2.1	{d}szul-gi-iri-mu	Szulgi'irimu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+r.3.1	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+r.3.2	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.4.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	sze-sag11-ku5	Szesagku[1]	PROPN	MN	Number=Sing	_	_	_	_
+l.1.1	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+

@@ -1,0 +1,37 @@
+#new_text=P134075
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.2.2	lugal-ma2-gur8-re	Lugalmagure[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.3.1	9(disz)	9(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.4	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.3.5	tu-ra	tur[young]	VERB	V	_	_	_	_	_
+o.4.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.4.2	lugal-mu-ma-ag2	Lugalmumag[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.5.1	8(disz)	8(disz)[one]	NUM	NU	_	_	_	_	_
+o.5.2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.6.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.6.2	lugal-ezem	Lugalezem[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+r.1.1	gurum2	gurum[inspection]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.1.2	ak	ak[inspect]	VERB	V	_	_	_	_	_
+r.1.3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+r.1.4	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.2.1	guru7	guru[grain_heap]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	sahar-u2-u2	Saharu'u[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+r.3.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	e2-iti-6(disz)	E'iti6[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.4.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+r.4.3	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.4.4	si-mu-ru-um	Simurum[1]	PROPN	SN	Number=Sing	_	_	_	_
+r.4.5	lu-lu-bu{ki}	Lulubu[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.4.6	a-ra2	ara[times]	NOUN	N	Number=Sing	_	_	_	_
+r.4.7	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+r.4.8	la2	la[hang]	VERB	V	_	_	_	_	_
+r.4.9	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+r.4.10	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+

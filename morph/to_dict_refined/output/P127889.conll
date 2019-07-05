@@ -1,0 +1,37 @@
+#new_text=P127889
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	i3-gesz	igesz[oil]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	ig-bi-dingir	Igbidingir[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.2.2	sukkal	sukkal[secretary]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	lugal	lugal[king]	NOUN	N	Number=Sing|Animacy=Hum|Case=Gen	_	_	_	_
+o.3.1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.3.2	sila3	sila[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	i3-gesz	igesz[oil]	NOUN	N	Number=Sing	_	_	_	_
+r.1.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	lugal	lugal[king]	NOUN	N	Number=Sing|Animacy=Hum|Case=Gen	_	_	_	_
+r.1.3	e2	e[house]	NOUN	N	Number=Sing	_	_	_	_
+r.1.4	szu-szum2-ma	szuszuma[consignment]	NOUN	N	Number=Sing|Case=Gen,Abl	_	_	_	_
+r.2.1	e2-usz-bar-sze3	e'uszbar[textile_workshop]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	gen-na-me	gen[go]	VERB	V	Number=Plur|Person=3	_	_	_	_
+r.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	ur-ab-ba-ta	Uraba[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.4.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+r.4.2	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+r.5.1	sza13-dub-ba	bisagdubak[archivist]	NOUN	N	Number=Sing|Animacy=Hum	_	_	_	_
+r.6.1	zi-ga	zig[expend]	VERB	V	_	_	_	_	_
+r.7.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.7.2	sze-il2-la	Sze'ila[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.8.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.8.2	sza-asz-ru-um{ki}	Szaszrum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.8.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	sza13-dub-ba	bisagdubak[archivist]	NOUN	N	Number=Sing	_	_	_	_
+s1.2.2	gir2-su{ki}	Girsu[1]	PROPN	SN	Number=Sing|Case=Gen	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	la-ni	Lani[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.4.1	sza13-dub-ba	bisagdubak[archivist]	NOUN	N	Number=Sing	_	_	_	_
+s1.4.2	gu-la	gal[big]	VERB	V	_	_	_	_	_
+s1.4.3	gir2-su{ki}-ka	Girsu[1]	PROPN	SN	Number=Sing|Case=Gen,Gen	_	_	_	_
+

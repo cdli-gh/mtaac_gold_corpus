@@ -1,0 +1,19 @@
+#new_text=P340047
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	lu2	lu[person]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	nig2-dab5-ba-ke4-ne	nigdab[requisitions]	NOUN	N	Number=Plur|Case=Gen,Abs	_	_	_	_
+o.3.1	sza3	szag[heart]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	pisan	bisag[basket]	NOUN	N	Number=Sing	_	_	_	_
+o.3.3	a-a-kal-la	Ayakala[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.3.4	ensi2-ka	ensik[ruler]	NOUN	N	Number=Sing|Case=Gen,Gen	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.3	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+r.2.4	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Number=Sing|Case=Gen,Erg	_	_	_	_
+r.2.5	ma-da	mada[land]	NOUN	N	Number=Sing	_	_	_	_
+r.2.6	za-ab-sza-li{ki}	Zabszali[1]	PROPN	SN	Number=Sing|Case=Gen,Abs	_	_	_	_
+r.2.7	mu-hul	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+

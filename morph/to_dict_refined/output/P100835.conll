@@ -1,0 +1,20 @@
+#new_text=P100835
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	4(u)	4(u)[ten]	NUM	NU	_	_	_	_	_
+o.1.2	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.3	{gesz}tug2-gurx(|SZE.KIN|)	tuggur[plow]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	lu2-igi-sa6-sa6-ta	Lu'igisasa[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.3.1	na-ba-sa2	Nabasa[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+o.3.2	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+o.3.3	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+o.4.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	diri	dirig[excess]	NOUN	N	Number=Sing	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	ki-masz{ki}	Kimasz[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.1.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	na-ba-sa2	Nabasa[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	ugu2-du6	Ugudu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

@@ -1,0 +1,26 @@
+#new_text=P101470
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	x	_[_]	_	_	_	_	_	_	_
+o.1.2	{gi}murux(|KID.SZU2.MA2|)	muru[mat]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.2.1	ki-la2-bi	kila[size]	NOUN	N	Number=Sing|Animacy=Nhum|Case=Abs	_	_	_	_
+o.2.2	1/3(disz)	1/3(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.3	sar	sar[unit]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.3.1	kin-EN-ke4	kinENke[unknown]	_	_	_	_	_	_	_
+o.3.2	ba-ra-gi-ne	barag[spread]	VERB	V	Number=Plur	_	_	_	_
+o.4.1	ad-da	Adda[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.4.2	lu2	lu[person]	NOUN	N	Number=Sing	_	_	_	_
+o.5.1	ur3-ke4	ur[yoked_team]	NOUN	N	Number=Sing|Case=Gen,Erg	_	_	_	_
+o.5.2	szu	szu[hand]	NOUN	N	Number=Sing|Animacy=Nhum	_	_	_	_
+o.5.3	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+r.1.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	lu2-igi-sa6-sa6-ta	Lu'igisasa[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+r.2.1	giri3	giri[foot]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	lugal-nig2-lagar-e	Lugalniglagare[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.3.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.3.2	ur-bi2-lum{ki}	Urbilum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.3.3	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	lugal-si-NE-e	Lugalsine'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	lugal-sa6-ga	Lugalsaga[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

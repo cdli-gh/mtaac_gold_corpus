@@ -1,0 +1,20 @@
+#new_text=P102310
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	sila4	sila[lamb]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.2.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+o.2.3	8(disz)-kam	8(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+o.3.1	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	ab-ba-sa6-ga-ta	Abbasaga[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Abl	_	_	_	_
+o.4.1	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Erg	_	_	_	_
+o.5.1	i3-dab5	n]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.1.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	ses-da-gu7	Sesdagu[1]	PROPN	MN	Number=Sing	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	{d}amar-{d}suen	Amarsuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.3	lugal-e	lugal[king]	NOUN	N	Number=Sing|Case=Erg	_	_	_	_
+r.2.4	ur-bi2-lum{ki}	Urbilum[1]	PROPN	SN	Number=Sing|Case=Abs	_	_	_	_
+r.2.5	mu-hul	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+r.1.1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+

@@ -1,0 +1,23 @@
+#new_text=P121779
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	kiszib3	kiszib[sealed_tablet]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	dab-ba	dab[seize]	VERB	V	_	_	_	_	_
+o.3.1	a2	a[wage]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	erin2-na	erin[people]	NOUN	N	Number=Sing|Case=Gen	_	_	_	_
+o.4.1	lu2-du10-ga	Luduga[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+o.4.2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	he2-ma-du	Hemadu[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen,Gen	_	_	_	_
+o.5.1	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+o.5.2	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.5.3	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen,Gen,Abs	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+r.2.3	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.4	lugal-e	lugal[king]	NOUN	N	Number=Sing|Case=Erg	_	_	_	_
+r.2.5	bad3	bad[wall]	NOUN	N	Number=Sing	_	_	_	_
+r.2.6	mar-tu	Martu[1]	PROPN	EN	Number=Sing	_	_	_	_
+r.2.7	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1]	PROPN	ON	Number=Sing|Case=Abs	_	_	_	_
+r.2.8	mu-du3	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+

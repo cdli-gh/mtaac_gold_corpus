@@ -1,0 +1,28 @@
+#new_text=P139771
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+o.1.2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+o.1.3	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	8(disz)	8(disz)[one]	NUM	NU	_	_	_	_	_
+o.2.2	ug3-IL2	uggaga[porter]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	4(ban2)	4(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+o.3.1	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+o.3.2	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+o.3.3	3(disz)-sze3	3(disz)[one]	NUM	NU	_	_	_	_	_
+o.4.1	kun-zi-da	kunzida[weir]	NOUN	N	Number=Sing	_	_	_	_
+o.4.2	i7	id[river]	NOUN	N	Number=Sing	_	_	_	_
+o.4.3	si-sa2-ka	Sisa[1]	PROPN	WN	Number=Sing|Case=Gen	_	_	_	_
+o.4.4	gub-ba	gub[assigned]	VERB	V	_	_	_	_	_
+o.5.1	ugula	ugula[overseer]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+o.5.2	ARAD2	Arad[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Abs	_	_	_	_
+o.6.1	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+o.6.2	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+r.1.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.1.2	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+r.1.3	ga-esz{ki}	Ga'esz[1]	PROPN	SN	Number=Sing|Case=Gen,Abs	_	_	_	_
+r.1.4	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+s1.1.1	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+s1.3.2	iri-bar-re	Iribare[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
+

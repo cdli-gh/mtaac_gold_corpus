@@ -1,0 +1,19 @@
+#new_text=P317338
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+o.2.1	sze-ba	szeba[ration]	NOUN	N	Number=Sing	_	_	_	_
+o.2.2	geme2	geme[female_worker]	NOUN	N	Number=Sing	_	_	_	_
+o.2.3	usz-bar	uszbar[garment_type]	NOUN	N	Number=Sing|Animacy=Hum|Case=Gen	_	_	_	_
+o.3.1	...	_[_]	_	_	_	_	_	_	_
+o.3.2	x	_[_]	_	_	_	_	_	_	_
+o.3.3	...	_[_]	_	_	_	_	_	_	_
+o.3.4	x	_[_]	_	_	_	_	_	_	_
+r.1.1	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|Verb Form=Fin	_	_	_	_
+r.2.1	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+r.2.2	{d}x-{d}suen	_[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+r.2.3	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+r.2.4	x	_[_]	_	_	_	_	_	_	_
+r.2.5	x	_[_]	_	_	_	_	_	_	_
+r.2.6	na-ru2-a-mah	naruamah[magnificent_stele]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
+r.2.7	mu-du3	n]	VERB	V	Number=Sing|Person=3	_	_	_	_
+
