@@ -1,7 +1,0 @@
-#new_text=P331506
-#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
-s1.1.1	lu2-gi-na	Lugina[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-s1.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
-s1.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
-s1.3.2	lu2-nin-ga2-ka	Luningaka[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
-

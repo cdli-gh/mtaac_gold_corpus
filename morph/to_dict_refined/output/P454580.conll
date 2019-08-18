@@ -1,7 +1,0 @@
-#new_text=P454580
-#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
-a.1.1	a2-na-mu	Anamu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-a.2.1	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	_	_	_	_
-a.3.1	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
-a.3.2	ur-{d}ba-ba6	Urbaba[1]	PROPN	PN	Animacy=Hum|Number=Sing|Case=Gen	_	_	_	_
-

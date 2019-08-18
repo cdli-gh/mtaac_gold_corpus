@@ -1,7 +1,0 @@
-#new_text=P457288
-#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
-a.1.1	ur-mes	Urmes[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-a.2.1	ugula	ugula[overseer]	NOUN	N	Number=Sing	_	_	_	_
-a.2.2	x	_[_]	_	_	_	_	_	_	_
-a.3.1	lu2-{d}utu	Lu'utu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-

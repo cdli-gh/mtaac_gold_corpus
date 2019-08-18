@@ -1,9 +1,0 @@
-#new_text=P456685
-#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
-a.1.1	nin-he2-du7	Ninhedu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-a.2.1	dumu-munus	dumumunus[daughter]	NOUN	N	Number=Sing	_	_	_	_
-a.2.2	lugal	lugal[king]	NOUN	N	Number=Sing|Case=Gen,Abs	_	_	_	_
-a.3.1	ur-gu	Urgu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
-a.3.2	kuruszda	kuruszda[animal_fattener]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
-a.4.1	ARAD2-zu	arad[slave]	NOUN	N	Number=Sing|Case=Abs	_	_	_	_
-
