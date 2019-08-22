@@ -24,7 +24,7 @@ o.7.2	udu	udu[sheep]	N
 o.7.3	niga	niga[fattened][-ø][-ø]	NF.V.ABS.ABS
 o.8.1	1(disz)	1(disz)[one]	NU
 o.8.2	udu	udu[sheep]	N
-o.8.3	niga	niga[fattened][-ø] NF.V.ABS
+o.8.3	niga	niga[fattened][-ø]	NF.V.ABS
 o.8.4	gesz-du3	geszdu[breeder][-ø]	N.ABS
 o.9.1	1(disz)	1(disz)[one]	NU
 o.9.2	masz2-gal	maszgal[billy_goat]	N
@@ -75,7 +75,7 @@ r.5.3	ud5	uzud[goat][-ø]	N.ABS
 r.6.1	1(disz)	1(disz)[one]	NU
 r.6.2	kir11	kir[female_lamb]	N
 r.6.3	gukkal	gukkal[fat-tailed_sheep][-ø]	N.ABS
-r.7.1	mu-kux(DU)	mukur[delivery] N
+r.7.1	mu-kux(DU)	mukur[delivery]	N
 r.7.2	lugal	lugal[king][-ra]	N.DAT-H
 r.8.1	ki	ki[place]	N
 r.8.2	na-sa6-ta	Nasa[1][-ak]-ta	PN.GEN.ABL
