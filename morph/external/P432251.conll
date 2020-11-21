@@ -1,0 +1,27 @@
+#new_text=P432251
+#source: transcription: CDLI (P432251), annotation: ETCSRI (Q001772)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}szara2	{d}szara2[1]	DN	_	_	E
+a.2.1	nir-gal2	nir-gal2[authoritative]	NF.V	_	_	E
+a.2.2	an-na	an[1]	DN.GEN	_	_	E
+a.3.1	dumu	dumu[child]	N	_	_	E
+a.3.2	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.3.3	{d}inanna	{d}inana[1]	DN.GEN	_	_	E
+a.4.1	lugal-a-ni	lugal[king]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.5.1	nam-ti	nam-til3[life]	N	_	_	E
+a.6.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.7.1	nita	nita[male]	N	_	_	E
+a.7.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.8.1	lugal	lugal[king]	N	_	_	E
+a.8.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.9.1	lugal	lugal[king]	N	_	_	E
+a.9.2	an	?	?	_	_	E
+a.9.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.9.4	limmu2-ba-ka-sze3	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	_	_	E
+a.10.1	lu2-{d}nanna	lu2-{d}nanna[2]	PN	_	_	E
+a.12.1	dumu	dumu[child]	N	_	_	E
+a.12.2	szu-er3-ra	szu-er3-ra[1]	PN	_	_	E
+a.12.1	dam-gar3-ke4	dam-gar3[merchant]	N.GEN.ERG	_	_	E
+a.13.1	x	_[_]	_	_	_	E
+a.13.2	...	_[_]	_	_	_	E
+

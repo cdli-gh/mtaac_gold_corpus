@@ -1,0 +1,33 @@
+#new_text=P432277
+#source: transcription: CDLI (P432277), annotation: ETCSRI (Q001808)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}nun-gal	{d}nun-gal[1]	DN	_	_	E
+a.2.1	nin	nin[lady]	N	_	_	E
+a.2.2	e2-kur-ra	e2-kur[prison]	N.GEN	_	_	E
+a.3.1	nin	nin[lady]	N	_	_	E
+a.3.2	lu2	lu2[person]	N.ABS	_	_	E
+a.3.3	ti-ti	til3-til3[live]	NF.V.RDP	_	_	E
+a.4.1	nin-a-ni-ir	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.5.1	nam-ti	nam-til3[life]	N	_	_	E
+a.6.1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	_	_	E
+a.7.1	nibru{ki}-a	nibru{ki}[1]	SN.L1	_	_	E
+a.8.1	{d}en-lil2-le	{d}en-lil2[1]	DN.ERG	_	_	E
+a.9.1	mu	mu[name]	N.ABS	_	_	E
+a.9.2	pa3-da	pad3[find]	NF.V.SUB	_	_	E
+a.10.1	sag-us2	sag-us2[constant]	NF.V	_	_	E
+a.11.1	e2	e2[house]	N	_	_	E
+a.11.2	{d}en-lil2-ka	{d}en-lil2[1]	DN.GEN.GEN	_	_	E
+a.12.1	nita	nita[male]	N	_	_	E
+a.12.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.13.1	lugal	lugal[king]	N	_	_	E
+a.13.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.14.1	lugal	lugal[king]	N	_	_	E
+a.14.2	an	?	?	_	_	E
+a.14.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.14.4	limmu2-ba-ka-sze3	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	_	_	E
+a.15.1	puzur4-i3-li2	puzur4-i3-li2[1]	PN	_	_	E
+a.16.1	szabra-e2	szabra[administrator]	N	_	_	E
+a.16.2	ug-ti-ke4	e₂-UG-ti[1]	TN.GEN.ERG	_	_	E
+a.17.1	a	a[water]	N.ABS	_	_	E
+a.17.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

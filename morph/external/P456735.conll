@@ -1,0 +1,12 @@
+#new_text=P456735
+#source: transcription: CDLI (P456735), annotation: ETCSRI (Q001840)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	s,e-lu-usz-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	_	_	E
+a.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.2.2	si-mu-ru-um{ki}	si-mu-ru-um{ki}[1]	SN.GEN.ABS	_	_	E
+a.3.1	i-la-ak-szu-qir	i-la-ak-szu-qir[1]	PN	_	_	E
+a.4.1	dumu	dumu[child]	N	_	_	E
+a.4.2	a-lu-a	a-lu[1]	PN	_	_	E
+a.4.3	szabra	szabra[administrator]	NN5=GEN.ABS	_	_	E
+a.5.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

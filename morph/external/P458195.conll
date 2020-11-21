@@ -1,0 +1,13 @@
+#new_text=P458195
+#source: transcription: CDLI (P458195), annotation: ETCSRI (Q001752)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	_	_	E
+a.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.2.2	nibru{ki}	nibru{ki}[1]	SN.GEN.ABS	_	_	E
+a.3.1	lugal-me3-a	lugal-me3-a[1]	PN	_	_	E
+a.4.1	sukkal	sukkal[secretary]	N	_	_	E
+a.4.2	kas4	kasz4[runner]	N.GEN	_	_	E
+a.5.1	ugula	ugula[overseer]	N	_	_	E
+a.5.2	aga3-us2	aga3-us2[soldier]	N.GEN.ABS	_	_	E
+a.6.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

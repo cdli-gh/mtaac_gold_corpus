@@ -1,0 +1,15 @@
+#new_text=P216736
+#source: transcription: CDLI (P216736), annotation: ETCSRI (Q001444)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	da-da	da-da[3]	PN	_	_	E
+a.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.3.1	szuruppak{ki}	szuruppak{ki}[1]	SN.GEN	_	_	E
+a.4.1	ha-la-ad-da	ha-la-ad-da[1]	PN	_	_	E
+a.5.1	ensi2	ensi2[ruler]	N	_	_	E
+a.6.1	szuruppak{ki}	szuruppak{ki}[1]	SN.GEN	_	_	E
+a.7.1	dumu-ni	dumu[child]	N.3-SG-H-POSS.ERG	_	_	E
+a.8.1	ad-us2	ad-us2[plank]	N.ABS	_	_	E
+a.8.2	abul	abul[gate]	N	_	_	E
+a.9.1	{d}sud3-da-ke4	{d}sud3[1]	DN.GEN.L3-NH	_	_	E
+a.10.1	bi2-in-us2	us2[follow]	3-NH.L3.3-SG-H-A.V.3-SG-P	_	_	E
+

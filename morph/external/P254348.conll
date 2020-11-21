@@ -1,0 +1,19 @@
+#new_text=P254348
+#source: transcription: CDLI (P254348), annotation: ETCSRI (Q004878)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	{d}ba-ba6	{d}ba-u2[1]	DN	_	_	E
+o.2.1	nin-a-ni	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+o.3.1	nam-ti	nam-til3[life]	N	_	_	E
+o.4.1	ur-{d}nin-mar{ki}	ur-{d}nin-mar-ki[2]	PN	_	_	E
+o.5.1	ensi2	ensi2[ruler]	N	_	_	E
+o.6.1	lagasz{ki}-ka-sze3	lagasz{ki}[1]	SN.GEN.GEN.TERM	_	_	E
+o.7.1	geme2-gir2-nun	geme2-gir2-nun[1]	PN	_	_	E
+o.8.1	dam	dam[spouse]	N	_	_	E
+o.8.2	amar-su4	amar-su4[1]	PN.GEN	_	_	E
+o.9.1	dumu	dumu[child]	N	_	_	E
+o.9.2	al-ke4	al[3]	PN.GEN.ERG	_	_	E
+o.10.1	u3	u3[and]	CNJ	_	_	E
+o.10.2	nam-ti-la-ni-sze3	nam-til3[life]	N.3-SG-H-POSS.TERM	_	_	E
+o.11.1	a	a[water]	N.ABS	_	_	E
+o.11.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

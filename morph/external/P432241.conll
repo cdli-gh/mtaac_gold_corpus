@@ -1,0 +1,11 @@
+#new_text=P432241
+#source: transcription: CDLI (P432241), annotation: ETCSRI (Q001761)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}mes-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	_	_	E
+a.2.1	dingir-a-ni	digir[deity]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.3.1	lu2-nimgir-ke4	lu2-nigir[1]	PN.ERG	_	_	E
+a.4.1	nam-ti	nam-til3[life]	N	_	_	E
+a.5.1	szul-gi-sze3	szul-gi[1]	RN.GEN.TERM	_	_	E
+a.6.1	a	a[water]	N.ABS	_	_	E
+a.6.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

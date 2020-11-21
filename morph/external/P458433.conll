@@ -1,0 +1,12 @@
+#new_text=P458433
+#source: transcription: CDLI (P458433), annotation: ETCSRI (Q004326)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.2.1	nita	nita[male]	N	_	_	E
+a.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.3.1	lugal	lugal[king]	N	_	_	E
+a.3.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN.ABS	_	_	E
+a.4.1	sipa-{d}nin-gir2-su-ke4-i3-pa3	sipad-{d}nin-gir2-su-ke4-i3-pad3[1]	PN	_	_	E
+a.5.1	sagi	sagi[cup-bearer]	N.ABS	_	_	E
+a.5.2	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

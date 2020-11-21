@@ -1,0 +1,14 @@
+#new_text=P430453
+#source: transcription: CDLI (P430453), annotation: ETCSRI (Q005003)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	_	_	E
+a.2.1	nita	nita[male]	N	_	_	E
+a.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.3.1	lugal	lugal[king]	N	_	_	E
+a.3.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN.ABS	_	_	E
+a.4.1	szesz-kal-la	szesz-kal-la[3]	PN.GEN.ABS	_	_	E
+a.5.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.6.1	dumu	dumu[child]	N	_	_	E
+a.6.2	ur-...	ur-x[14]	PN.GEN.ABS	_	_	E
+a.7.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

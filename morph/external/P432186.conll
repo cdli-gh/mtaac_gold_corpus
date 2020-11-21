@@ -1,0 +1,22 @@
+#new_text=P432186
+#source: transcription: CDLI (P432186), annotation: ETCSRI (Q000972)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}inanna	{d}inana[1]	DN	_	_	E
+a.2.1	nin-a-ni	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.3.1	szul-gi	szul-gi[1]	RN	_	_	E
+a.4.1	nita	nita[male]	N	_	_	E
+a.4.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.5.1	lugal	lugal[king]	N	_	_	E
+a.5.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.6.1	lugal	lugal[king]	N	_	_	E
+a.6.2	ki-en-gi	ki-en-gi[1]	GN	_	_	E
+a.6.3	ki-uri-ke4	ki-uri[1]	GN.GEN.ERG	_	_	E
+a.7.1	e2	?	?	_	_	E
+a.7.2	dur-an-ki-ka-ni	e2-dur-an-ki[1]	TN.3-SG-H-POSS.ABS	_	_	E
+a.8.1	mu-na-du3	du3[build]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+a.9.1	ki-be2	ki[place]	N.3-SG-NH-POSS.L3-NH	_	_	E
+a.9.2	mu-na-gi4	gi4[turn]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+a.10.1	nam-ti-la-ni-sze3	nam-til3[life]	N.3-SG-H-POSS.TERM	_	_	E
+a.11.1	a	a[water]	N.ABS	_	_	E
+a.11.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

@@ -1,0 +1,23 @@
+#new_text=P432235
+#source: transcription: CDLI (P432235), annotation: ETCSRI (Q001740)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}lamma	{d}lamma[deity]	N	_	_	E
+a.1.2	tar-sir2-sir2-ra	tar-sir2-sir2[1]	SN.GEN	_	_	E
+a.2.1	ama	ama[mother]	N	_	_	E
+a.2.2	{d}ba-ba6	{d}ba-u2[1]	DN	_	_	E
+a.3.1	nin-a-ni	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.4.1	nam-ti	nam-til3[life]	N	_	_	E
+a.5.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.6.1	nita	nita[male]	N	_	_	E
+a.6.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.7.1	lugal	lugal[king]	N	_	_	E
+a.7.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.8.1	lugal	lugal[king]	N	_	_	E
+a.8.2	ki-en-gi	ki-en-gi[1]	GN	_	_	E
+a.8.3	ki-uri-ka-sze3	ki-uri[1]	GN.GEN.GEN.TERM	_	_	E
+a.9.1	ha-la-{d}lamma	ha-la-{d}lamma[1]	PN	_	_	E
+a.10.1	dumu	dumu[child]	N	_	_	E
+a.10.2	lu2-giri17-zal	lu2-giri17-zal[1]	PN	_	_	E
+a.11.1	ensi2	ensi2[ruler]	N	_	_	E
+a.12.1	lagasz{ki}-ka-ke4	lagasz{ki}[1]	SN.GEN.GEN.ERG	_	_	E
+

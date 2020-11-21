@@ -1,0 +1,12 @@
+#new_text=P458053
+#source: transcription: CDLI (P458053), annotation: ETCSRI (Q001727)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	ur-{d}suen	ur-{d}suen[1]	PN	_	_	E
+a.2.1	szagina	szagina[general]	N	_	_	E
+a.2.2	unu{ki}-ga	unug{ki}[1]	SN.GEN	_	_	E
+a.3.1	u3	u3[and]	CNJ	_	_	E
+a.3.2	|BAD3.AN|{ki}-ka	|BAD₃.AN.KI|[1]	SN.GEN.ABS	_	_	E
+a.4.1	ur-{d}en-ki	ur-{d}en-ki[1]	PN	_	_	E
+a.5.1	ab-ba-iri	ab-ba[father]	N	_	_	E
+a.5.2	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

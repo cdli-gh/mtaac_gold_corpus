@@ -1,0 +1,13 @@
+#new_text=P430567
+#source: transcription: CDLI (P430567), annotation: ETCSRI (Q001702)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}szul-gi-si2-im-ti	{d}szul-gi-si2-im-ti[1]	PN	_	_	E
+a.2.1	lukur	lukur[priestess]	N	_	_	E
+a.2.2	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.2.3	lugal	lugal[king]	N.GEN.ABS	_	_	E
+a.3.1	ur-{d}lugal-edin-ka	ur-{d}lugal-eden-ka[2]	PN	_	_	E
+a.4.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.5.1	dumu	dumu[child]	N	_	_	E
+a.5.2	ku5-da-a	kud-da-x[1]	PN.GEN.ABS	_	_	E
+a.6.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

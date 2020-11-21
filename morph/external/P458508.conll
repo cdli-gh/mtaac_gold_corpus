@@ -1,0 +1,12 @@
+#new_text=P458508
+#source: transcription: CDLI (P458508), annotation: ETCSRI (Q001719)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	en-nir-zi-an-na	en-nir-zid-an-na[1]	PN	_	_	E
+a.col1.2.1	en	en[priest]	N	_	_	E
+a.col1.2.2	{d}nanna	{d}nanna[1]	DN.GEN.ABS	_	_	E
+a.col1.3.1	giri3-ni-i3-sa6	giri3-ni-i3-sag9[1]	PN	_	_	E
+a.col2.1.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.col2.2.1	dumu	dumu[child]	N	_	_	E
+a.col2.2.2	he2-sa6-ge	he2-sag9-ge[1]	PN.GEN.ABS	_	_	E
+a.col2.3.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

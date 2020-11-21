@@ -1,0 +1,12 @@
+#new_text=P465387
+#source: transcription: CDLI (P465387), annotation: ETCSRI (Q001716)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col2.1'.1	nin9-kal-la	nin9-kal-la[1]	PN	_	_	E
+a.col2.2'.1	dumu	dumu[child]	N	_	_	E
+a.col2.2'.2	nibru{ki}	nibru{ki}[1]	SN.GEN	_	_	E
+a.col2.3'.1	ki-ag2-ga2-ni	ag2[measure]	NF.V.3-SG-H-POSS.ERG	_	_	E
+a.col2.4'.1	alan-na-ni	alan[statue]	N.3-SG-H-POSS.ABS	_	_	E
+a.col2.5'.1	mu-dim2	dim2[create]	VEN.3-SG-H-A.V.3-SG-P	_	_	E
+a.col2.6'.1	murgu	murgu[shoulder]	N	_	_	E
+a.col2.6'.2	szul-gi	szul-gi[1]	RN.GEN.ABS	_	_	E
+

@@ -1,0 +1,14 @@
+#new_text=P430577
+#source: transcription: CDLI (P430577), annotation: ETCSRI (Q004346)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.col1.2.1	nita	nita[male]	N	_	_	E
+a.col1.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.col1.3.1	lugal	lugal[king]	N	_	_	E
+a.col1.3.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN.GEN.ABS	_	_	E
+a.col2.1.1	ur-nigar{gar}	ur-nigar{gar}[4]	PN	_	_	E
+a.col2.2.1	dumu	dumu[child]	N	_	_	E
+a.col2.2.2	ti-ru	ti-ru[1]	PN	_	_	E
+a.col2.3.1	muhaldim	muhaldim[cook]	N.GEN.ABS	_	_	E
+a.col2.3.2	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

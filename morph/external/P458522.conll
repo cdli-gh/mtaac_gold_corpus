@@ -1,0 +1,11 @@
+#new_text=P458522
+#source: transcription: CDLI (P458522), annotation: ETCSRI (Q001742)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	lu2-giri17-zal	lu2-giri17-zal[1]	PN	_	_	E
+a.col1.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.col1.3.1	lagasz{ki}	lagasz{ki}[1]	SN.GEN.ABS	_	_	E
+a.col2.1.1	ab-ba-kal-la	ab-ba-kal-la[1]	PN	_	_	E
+a.col2.2.1	sanga	sagga[official]	N	_	_	E
+a.col2.2.2	uru11{ki}	urub{ki}[1]	SN.GEN.ABS	_	_	E
+a.col2.3.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

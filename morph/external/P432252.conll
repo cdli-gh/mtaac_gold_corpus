@@ -1,0 +1,13 @@
+#new_text=P432252
+#source: transcription: CDLI (P432252), annotation: ETCSRI (Q001773)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1'.1	...	?	?	_	_	E
+a.1'.2	x	_[_]	_	_	_	E
+a.1'.3	...	_[_]	_	_	_	E
+a.2'.1	nam-ti	nam-til3[life]	N	_	_	E
+a.3'.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.4'.1	nita	nita[male]	N	_	_	E
+a.4'.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.5'.1	lugal	lugal[king]	N	_	_	E
+a.5'.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+

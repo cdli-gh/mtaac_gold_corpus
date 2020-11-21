@@ -1,0 +1,36 @@
+#new_text=P465396
+#source: transcription: CDLI (P465396), annotation: ETCSRI (Q001990)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}en-lil2	{d}en-lil2[1]	DN	_	_	E
+a.1.2	lugal	lugal[king]	N	_	_	E
+a.1.3	kur-kur-ra	kur-kur[mountain]	N-RDP.GEN	_	_	E
+a.2.1	lugal-a-ni-ir	lugal[king]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.3.1	{d}en-lil2-ba-ni	{d}en-lil2-ba-ni[1]	RN	_	_	E
+a.4.1	lugal	lugal[king]	N	_	_	E
+a.4.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.4.3	lugal	lugal[king]	N	_	_	E
+a.4.4	i3-si-in{ki}-na	i3-si-in{ki}[1]	SN.GEN	_	_	E
+a.5.1	lugal	lugal[king]	N	_	_	E
+a.5.2	ki-en-gi	ki-en-gi[1]	GN	_	_	E
+a.5.3	ki-uri	ki-uri[1]	GN.GEN	_	_	E
+a.6.1	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.6.2	{d}en-lil2	{d}en-lil2[1]	DN	_	_	E
+a.7.1	u3	u3[and]	CNJ	_	_	E
+a.7.2	{d}nin-isin2{si}-na-ka-ke4	{d}nin-isin2{si}-na[1]	DN.GEN.ERG	_	_	E
+a.8.1	nig2	nig2[thing]	N	_	_	E
+a.8.2	...	_[_]	_	_	_	E
+a.1.1	zi	?	?	_	_	E
+a.1.2	NE	?	?	_	_	E
+a.1.3	{d}en-lil2	?	?	_	_	E
+a.2.1	zi	?	?	_	_	E
+a.2.2	NE	?	?	_	_	E
+a.2.3	gi	?	?	_	_	E
+a.3.1	zi	?	?	_	_	E
+a.3.2	NE	?	?	_	_	E
+a.3.3	gi	?	?	_	_	E
+a.4.1	zi	?	?	_	_	E
+a.4.2	NE	?	?	_	_	E
+a.4.3	gi	?	?	_	_	E
+a.5.1	{d}en-lil2	?	?	_	_	E
+a.5.2	in-TAR	?	?	_	_	E
+

@@ -1,0 +1,11 @@
+#new_text=P432117
+#source: transcription: CDLI (P432117), annotation: ETCSRI (Q001621)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}nin-sza3-ge-pa3-da	{d}nin-szag4-ge-pad3-da[1]	DN	_	_	E
+a.2.1	nin-a-ni	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.3.1	ur-{d}namma	ur-{d}namma[1]	RN	_	_	E
+a.4.1	lugal	lugal[king]	N	_	_	E
+a.4.2	uri5{ki}-ma-ke4	urim5{ki}[1]	SN.GEN.ERG	_	_	E
+a.5.1	e2-a-ni	e2[house]	N.3-SG-H-POSS.ABS	_	_	E
+a.6.1	mu-na-du3	du3[build]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

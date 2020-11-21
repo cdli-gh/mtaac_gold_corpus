@@ -1,0 +1,9 @@
+#new_text=P456696
+#source: transcription: CDLI (P456696), annotation: ETCSRI (Q001843)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	nin9-he2-li2-a	nin9-he2-li2-a[1]	PN	_	_	E
+a.2.1	dam	dam[spouse]	N	_	_	E
+a.2.2	a-a-kal-la	a-a-kal-la[1]	PN.GEN	_	_	E
+a.3.1	dumu	dumu[child]	N	_	_	E
+a.3.2	ur-{d}da-mu	ur-{d}da-mu[1]	PN.GEN.ABS	_	_	E
+

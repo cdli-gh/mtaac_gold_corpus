@@ -1,0 +1,17 @@
+#new_text=P432168
+#source: transcription: CDLI (P432168), annotation: ETCSRI (Q000960)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	szul-gi	szul-gi[1]	RN	_	_	E
+a.2.1	nita	nita[male]	N	_	_	E
+a.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.3.1	lugal	lugal[king]	N	_	_	E
+a.3.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.4.1	lugal	lugal[king]	N	_	_	E
+a.4.2	ki-en-gi	ki-en-gi[1]	GN	_	_	E
+a.4.3	ki-uri-ke4	ki-uri[1]	GN.GEN.ERG	_	_	E
+a.5.1	e2	e2[house]	N	_	_	E
+a.5.2	hur-sag	?	?	_	_	E
+a.6.1	e2	ki[place]	N.ABS	_	_	E
+a.6.2	ki-ag2-ga2-ni	ag2[measure]	NF.V.3-SG-H-POSS.ABS	_	_	E
+a.7.1	mu-du3	du3[build]	VEN.3-SG-H-A.V.3-SG-P	_	_	E
+

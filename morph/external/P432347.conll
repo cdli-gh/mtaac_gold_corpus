@@ -1,0 +1,13 @@
+#new_text=P432347
+#source: transcription: CDLI (P432347), annotation: ETCSRI (Q001900)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1'.1	numun-na-ni	numun[seed]	N.3-SG-H-POSS.ABS	_	_	E
+a.2'.1	he2-eb2-til-le	til[complete]	MOD1.FIN.3-SG-NH-P.V.3-SG-A	_	_	E
+a.3'.1	tukum-bi	tukum-bi[if]	CNJ	_	_	E
+a.4'.1	gu2-ne-sag-ga2	gu2-ne-sag-ga2[cupboard]	N.ABL	_	_	E
+a.5'.1	u4	?	?	_	_	E
+a.5'.2	ub-ta-e3	e3[leave]	ANT.3-NH.ABL.3-SG-H-A.V.3-SG-P	_	_	E
+a.6'.1	e2	e2[house]	N	_	_	E
+a.6'.2	nig2-gur11-ra	nig2-gur11[property]	N.GEN.L1	_	_	E
+a.7'.1	ib2-ku4-...	ku4-ku4[enter]	X	_	_	E
+

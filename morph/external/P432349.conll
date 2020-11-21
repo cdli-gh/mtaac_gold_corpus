@@ -1,0 +1,14 @@
+#new_text=P432349
+#source: transcription: CDLI (P432349), annotation: ETCSRI (Q001902)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1'.1	lugal	lugal[king]	N	_	_	E
+a.1'.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.2'.1	lugal	lugal[king]	N	_	_	E
+a.2'.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN.GEN.TERM	_	_	E
+a.3'.1	lugal-inim-gi-na	lugal-ka-gen6-na[2]	PN	_	_	E
+a.4'.1	dumu	dumu[child]	N	_	_	E
+a.4'.2	ur-{d}utu	ur-{d}utu[2]	PN.GEN	_	_	E
+a.5'.1	ARAD2-da-ne2	arad2[slave]	N.3-SG-H-POSS.ERG	_	_	E
+a.6'.1	a	a[water]	N.ABS	_	_	E
+a.6'.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

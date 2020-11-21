@@ -1,0 +1,15 @@
+#new_text=P432333
+#source: transcription: CDLI (P432333), annotation: ETCSRI (Q001887)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}nanna	{d}nanna[1]	DN	_	_	E
+a.2.1	dumu	dumu-sag[first-born]	N	_	_	E
+a.2.2	sag	?	?	_	_	E
+a.3.1	{d}en-lil2-la2	{d}en-lil2[1]	DN.GEN	_	_	E
+a.4.1	...	?	?	_	_	E
+a.4.2	x	_[_]	_	_	_	E
+a.5'.1	lugal	lugal[king]	N	_	_	E
+a.5'.2	uri5{ki}-ma-ke4	urim5{ki}[1]	SN.GEN.ERG	_	_	E
+a.6'.1	e2-kisz-nu-gal2-sze3	e2-kisz-nu-gal2[1]	TN.TERM	_	_	E
+a.7'.1	a	a[water]	N.ABS	_	_	E
+a.7'.2	mu-na-ru	ru[cvve]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

@@ -1,0 +1,10 @@
+#new_text=P456988
+#source: transcription: CDLI (P456988), annotation: ETCSRI (Q001724)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	tu-li2-id-{d}utu-szi	tu-li₂-id-UTU{ši}[1]	PN	_	_	E
+a.2.1	nin-dingir	eresz-digir[priestess]	N	_	_	E
+a.2.2	{d}nanna	{d}nanna[1]	DN.GEN.ABS	_	_	E
+a.3.1	ARAD2	?	?	_	_	E
+a.3.2	e2-gal-lim	arad₂-e₂-x-x-x[1]	PN.ABS	_	_	E
+a.4.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

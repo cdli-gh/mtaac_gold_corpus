@@ -1,0 +1,36 @@
+#new_text=P432294
+#source: transcription: CDLI (P432294), annotation: ETCSRI (Q001003)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}nanna	{d}nanna[1]	DN	_	_	E
+a.2.1	dumu	dumu-sag[first-born]	N	_	_	E
+a.2.2	sag	?	?	_	_	E
+a.3.1	{d}en-lil2-la2	{d}en-lil2[1]	DN.GEN	_	_	E
+a.4.1	lugal	lugal[king]	N	_	_	E
+a.4.2	ki-ag2-ga2-ni-ir	ag2[measure]	NF.V.3-SG-H-POSS.DAT-H	_	_	E
+a.5.1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	_	_	E
+a.6.1	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.6.2	{d}nanna	{d}nanna[1]	DN.GEN	_	_	E
+a.7.1	lugal	lugal[king]	N	_	_	E
+a.7.2	{d}en-lil2-le	{d}en-lil2[1]	DN.ERG	_	_	E
+a.8.1	sza3-ga-na	szag4[heart]	N.3-SG-H-POSS.L1	_	_	E
+a.9.1	in-pa3	pad3[find]	FIN.3-SG-H-A.V.3-SG-P	_	_	E
+a.10.1	sipa	sipad[shepherd]	N	_	_	E
+a.10.2	kalam-ma	kalam[land]	N.GEN	_	_	E
+a.11.1	u3	u3[and]	CNJ	_	_	E
+a.11.2	an	?	?	_	_	E
+a.11.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.11.4	limmu2-ba-sze3	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.TERM	_	_	E
+a.12.1	lugal	lugal[king]	N	_	_	E
+a.12.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.13.1	lugal	lugal[king]	N	_	_	E
+a.13.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.14.1	lugal	lugal[king]	N	_	_	E
+a.14.2	an	?	?	_	_	E
+a.14.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.14.4	limmu2-ba-ke4	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.ERG	_	_	E
+a.15.1	e2	e2[house]	N	_	_	E
+a.15.2	mu-ri-a-na-ba-ak	?	?	_	_	E
+a.16.1	e2	ki[place]	N.ABS	_	_	E
+a.16.2	ki-ag2-ga2-ni	ag2[measure]	NF.V.3-SG-H-POSS.ABS	_	_	E
+a.17.1	mu-na-du3	du3[build]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

@@ -1,0 +1,10 @@
+#new_text=P432302
+#source: transcription: CDLI (P432302), annotation: ETCSRI (Q001826)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	a-ab-ba-ba-asz2-ti	|A.AB.BA|-ba-aš₂-ti[1]	PN	_	_	E
+a.2.1	_lukur	lukur[priestess]	N	_	_	E
+a.2.2	ki-ag2_	ag2[measure]	NF.V	_	_	E
+a.3.1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	_	_	E
+a.4.1	_lugal_	lugal[king]	N	_	_	E
+a.4.2	uri5{ki}-ma-ka	urim5{ki}[1]	SN.GEN.GEN.ABS	_	_	E
+

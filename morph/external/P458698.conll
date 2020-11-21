@@ -1,0 +1,13 @@
+#new_text=P458698
+#source: transcription: CDLI (P458698), annotation: ETCSRI (Q005024)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	_	_	E
+a.col1.2.1	lugal	lugal[king]	N	_	_	E
+a.col1.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.col1.3.1	lugal	lugal[king]	N	_	_	E
+a.col1.3.2	uri5{ki}-ma-ke4	urim5{ki}[1]	SN.GEN.ERG	_	_	E
+a.col2.1.1	ur-sa6-ga	ur-sag9-ga[5]	PN	_	_	E
+a.col2.1.2	sukkal	sukkal[secretary]	N	_	_	E
+a.col2.2.1	ARAD2-da-ni-ir	arad2[slave]	N.3-SG-H-POSS.DAT.H	_	_	E
+a.col2.3.1	in-na-ba	ba[allot]	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

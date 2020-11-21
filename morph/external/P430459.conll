@@ -1,0 +1,9 @@
+#new_text=P430459
+#source: transcription: CDLI (P430459), annotation: ETCSRI (Q004331)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	szu-{d}iszkur	szu-{d}iszkur[2]	PN	_	_	E
+a.2.1	dumu	dumu[child]	N	_	_	E
+a.2.2	ha-la-asz-ti	ha-la-asz-ka[1]	PN.GEN	_	_	E
+a.3.1	gudu4	gudu4[priest]	N	_	_	E
+a.3.2	{d}szul-gi	{d}szul-gi[1]	RN.GEN.ABS	_	_	E
+

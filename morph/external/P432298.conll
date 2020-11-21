@@ -1,0 +1,9 @@
+#new_text=P432298
+#source: transcription: CDLI (P432298), annotation: ETCSRI (Q001822)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	_	_	E
+a.2.1	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.2.2	{d}en-lil2-la2	{d}en-lil2[1]	DN.GEN	_	_	E
+a.3.1	lugal	lugal[king]	N	_	_	E
+a.3.2	{d}en-lil2-le	{d}en-lil2[1]	DN.ERG	_	_	E
+

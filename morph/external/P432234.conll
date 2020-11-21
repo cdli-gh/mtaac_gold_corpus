@@ -1,0 +1,20 @@
+#new_text=P432234
+#source: transcription: CDLI (P432234), annotation: ETCSRI (Q001739)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}inanna	{d}inana[1]	DN	_	_	E
+a.2.1	{d}nin	{d}nin[lady]	N	_	_	E
+a.2.2	an-sze3	an[sky]	N.TERM	_	_	E
+a.2.3	la2-a	la2[hang]	NF.V.SUB	_	_	E
+a.3.1	nin	nin[lady]	N	_	_	E
+a.3.2	un-gal	UN-gal[ruler]	N	_	_	E
+a.4.1	dingir-re-ne	digir[deity]	N.PL.GEN	_	_	E
+a.5.1	nin-a-ni	nin[lady]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.6.1	nam-mah-ni-du10	nam-mah-ni-dug3[1]	PN	_	_	E
+a.7.1	dumu	dumu[child]	N	_	_	E
+a.7.2	lu2-giri17-zal	lu2-giri17-zal[1]	PN	_	_	E
+a.8.1	ensi2	ensi2[ruler]	N	_	_	E
+a.9.1	lagasz{ki}-ka-ke4	lagasz{ki}[1]	SN.GEN.GEN.ERG	_	_	E
+a.10.1	mu-du2	tud[bear]	VEN.3-SG-H-A.V.3-SG-P	_	_	E
+a.11.1	e2-a-ni	e2[house]	N.3-SG-H-POSS.ABS	_	_	E
+a.12.1	mu-na-du3	du3[build]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

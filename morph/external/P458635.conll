@@ -1,0 +1,16 @@
+#new_text=P458635
+#source: transcription: CDLI (P458635), annotation: ETCSRI (Q005001)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	_	_	E
+a.col1.2.1	dingir	digir[deity]	N	_	_	E
+a.col1.2.2	kalam-ma-na	kalam[land]	N.3-SG-H-POSS.GEN	_	_	E
+a.col1.3.1	lugal	lugal[king]	N	_	_	E
+a.col1.3.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.col1.4.1	lugal	lugal[king]	N	_	_	E
+a.col1.4.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.col2.1.1	{d}suen-ba-ni	{d}suen-ba-ni[1]	PN	_	_	E
+a.col2.2.1	muhaldim	muhaldim[cook]	N	_	_	E
+a.col2.3.1	dumu	dumu[child]	N	_	_	E
+a.col2.3.2	i-di3-a	i-ti-a[1]	PN.GEN.ABS	_	_	E
+a.col2.4.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

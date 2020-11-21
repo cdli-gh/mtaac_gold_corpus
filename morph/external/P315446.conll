@@ -1,0 +1,10 @@
+#new_text=P315446
+#source: transcription: CDLI (P315446), annotation: ETCSRI (Q004898)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+o.2.1	lugal	lugal[king]	N	_	_	E
+o.2.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+o.3.1	lu2	lu2[person]	N	_	_	E
+o.3.2	karkar{ki}	karkara{ki}[1]	SN.ABS	_	_	E
+o.4.1	in-du3-a	du3[build]	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	_	_	E
+

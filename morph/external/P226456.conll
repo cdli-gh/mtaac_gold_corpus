@@ -1,0 +1,12 @@
+#new_text=P226456
+#source: transcription: CDLI (P226456), annotation: ETCSRI (Q001838)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	da-da	da-da[1]	PN	_	_	E
+a.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.3.1	nibru{ki}	nibru{ki}[1]	SN.GEN.ABS	_	_	E
+a.4.1	{d}nanna-gal-zu	{d}nanna-gal-zu[1]	PN	_	_	E
+a.5.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.6.1	dumu	dumu[child]	N	_	_	E
+a.6.2	{d}en-lil2-dingir-zu	{d}en-lil2-digir-zu[1]	PN.GEN.ABS	_	_	E
+a.7.1	ARAD-zu	arad[slave]	N.2-SG-POSS.ABS	_	_	E
+

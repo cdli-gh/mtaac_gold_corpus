@@ -1,0 +1,20 @@
+#new_text=P461895
+#source: transcription: CDLI (P461895), annotation: ETCSRI (Q001796)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}amar-{d}suen	?	?	_	_	E
+a.2.1	nibru{ki}-a	?	?	_	_	E
+a.3.1	{d}en-lil2-le	?	?	_	_	E
+a.4.1	mu	?	?	_	_	E
+a.4.2	pa3-da	?	?	_	_	E
+a.5.1	sag-us2	sag-us2[constant]	NF.V	_	_	E
+a.6.1	e2	e2[house]	N	_	_	E
+a.6.2	{d}en-lil2-ka	{d}en-lil2[1]	DN.GEN.GEN	_	_	E
+a.7.1	lugal	lugal[king]	N	_	_	E
+a.7.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.8.1	lugal	lugal[king]	N	_	_	E
+a.8.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.9.1	lugal	lugal[king]	N	_	_	E
+a.9.2	an	?	?	_	_	E
+a.9.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.9.4	limmu2-ba	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.ERG	_	_	E
+

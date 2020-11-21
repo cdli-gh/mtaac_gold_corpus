@@ -1,0 +1,16 @@
+#new_text=P432306
+#source: transcription: CDLI (P432306), annotation: ETCSRI (Q001846)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}szara2	{d}szara2[1]	DN	_	_	E
+a.2.1	lugal-a-ni-ir	lugal[king]	N.3-SG-H-POSS.DAT-H	_	_	E
+a.3.1	nam-ti	nam-til3[life]	N	_	_	E
+a.4.1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	_	_	E
+a.5.1	lugal	lugal[king]	N	_	_	E
+a.5.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.6.1	lugal	lugal[king]	N	_	_	E
+a.6.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.7.1	lugal	lugal[king]	N	_	_	E
+a.7.2	an	?	?	_	_	E
+a.7.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.7.4	limmu2-ba-ka-sze3	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	_	_	E
+

@@ -1,0 +1,12 @@
+#new_text=P458296
+#source: transcription: CDLI (P458296), annotation: ETCSRI (Q004960)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	_	_	E
+a.2.1	lugal	lugal[king]	N	_	_	E
+a.2.2	uri5{ki}	urim5{ki}[1]	SN.GEN.ABS	_	_	E
+a.3.1	hu-ma-an-zi	hu-ma-an-zi[1]	PN	_	_	E
+a.4.1	nu-banda3	nu-banda3[overseer]	N	_	_	E
+a.4.2	e2	?	?	_	_	E
+a.4.3	...	_[_]	_	_	_	E
+a.5.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

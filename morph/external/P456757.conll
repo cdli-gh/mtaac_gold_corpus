@@ -1,0 +1,11 @@
+#new_text=P456757
+#source: transcription: CDLI (P456757), annotation: ETCSRI (Q001721)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	sza-at-{d}suen	sza-at-{d}suen[1]	PN	_	_	E
+a.2.1	dumu-munus	dumu-munus[daughter]	N	_	_	E
+a.2.2	lugal	lugal[king]	N.GEN.ABS	_	_	E
+a.3.1	a-a-zi-mu	a-a-zi-gu10[1]	PN.ABS	_	_	E
+a.4.1	lu2	?	?	_	_	E
+a.4.2	azlag2	{lu2}azlag2[fuller]	N.ABS	_	_	E
+a.4.3	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

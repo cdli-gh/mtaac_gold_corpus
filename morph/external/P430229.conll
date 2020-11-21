@@ -1,0 +1,10 @@
+#new_text=P430229
+#source: transcription: CDLI (P430229), annotation: ETCSRI (Q001710)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	_	_	E
+a.2.1	lukur	lukur[priestess]	N	_	_	E
+a.2.2	ki-ag2	ag2[measure]	NF.V	_	_	E
+a.2.3	lugal	lugal[king]	N.GEN.ABS	_	_	E
+a.3.1	in-zu-zu	in-zu-zu[1]	PN.ABS	_	_	E
+a.4.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

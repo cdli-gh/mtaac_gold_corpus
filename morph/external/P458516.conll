@@ -1,0 +1,10 @@
+#new_text=P458516
+#source: transcription: CDLI (P458516), annotation: ETCSRI (Q001735)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	i-tur2-dingir	i-tur₂-DIŊIR[1]	PN	_	_	E
+a.col1.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.col1.3.1	babila{ki}	|KAN₄.DIŊIR|{ki}[1]	SN.GEN.ABS	_	_	E
+a.col2.1.1	i-s,ur-dingir	i-ṣur-DIŊIR[1]	PN	_	_	E
+a.col2.2.1	dub-sar	dub-sar[scribe]	N.ABS	_	_	E
+a.col2.3.1	dumu-ni	dumu[child]	N.3-SG-H-POSS.ABS	_	_	E
+

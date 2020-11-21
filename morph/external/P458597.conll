@@ -1,0 +1,27 @@
+#new_text=P458597
+#source: transcription: CDLI (P458597), annotation: ETCSRI (Q001803)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	_	_	E
+a.col1.2.1	lugal	lugal[king]	N	_	_	E
+a.col1.2.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.col1.3.1	lugal	lugal[king]	N	_	_	E
+a.col1.3.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN	_	_	E
+a.col1.4.1	lugal	lugal[king]	N	_	_	E
+a.col1.4.2	an	?	?	_	_	E
+a.col1.4.3	ub-da	an-ub-da[quarter]	N	_	_	E
+a.col1.4.4	limmu2-ba	limmu2[four]	NF.V.3-SG-NH-POSS.GEN.ABS	_	_	E
+a.col2.1.1	lugal-me-lam2	lugal-me-lem4[1]	PN	_	_	E
+a.col2.2.1	ensi2	ensi2[ruler]	N	_	_	E
+a.col2.3.1	nibru{ki}	nibru{ki}[1]	SN.GEN	_	_	E
+a.col2.4.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.col2.4.2	za3-ga	zag[side]	N.GEN	_	_	E
+a.col2.5.1	dumu	dumu[child]	N	_	_	E
+a.col2.5.2	...-{d}en-lil2	x-{d}en-lil2[1]	PN	_	_	E
+a.col2.6.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.col2.6.2	ge6-par4	gi6-par3[cloister]	N	_	_	E
+a.col2.7.1	nibru{ki}-ka	nibru{ki}[1]	SN.GEN.GEN.ABS	_	_	E
+a.col2.8.1	ARAD2	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+a.col2.8.2	x	?	?	_	_	E
+a.col2.8.3	x	?	?	_	_	E
+a.col2.8.4	x	?	?	_	_	E
+

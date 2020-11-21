@@ -1,0 +1,14 @@
+#new_text=P461696
+#source: transcription: CDLI (P461696), annotation: ETCSRI (Q000939)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}nanna	{d}nanna[1]	DN	_	_	E
+a.2.1	amar	amar[young]	N	_	_	E
+a.2.2	banda3{da}	ban3-da[junior]	NF.V	_	_	E
+a.2.3	an-na	an[1]	DN.GEN	_	_	E
+a.3'.1	nita	nita[male]	N	_	_	E
+a.3'.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.4'.1	lugal	lugal[king]	N	_	_	E
+a.4'.2	uri5{ki}-ma-ke4	urim5{ki}[1]	SN.GEN.ERG	_	_	E
+a.5'.1	e2-temen-ni2-gur3-ni	e2-temen-ni2-guru3[1]	TN.3-SG-H-POSS.ABS	_	_	E
+a.6'.1	mu-na-du3	du3[build]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	E
+

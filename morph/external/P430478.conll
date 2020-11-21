@@ -1,0 +1,12 @@
+#new_text=P430478
+#source: transcription: CDLI (P430478), annotation: ETCSRI (Q004445)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	szu-{d}suen	{d}szu-{d}suen[1]	RN	_	_	E
+a.col1.2.1	szagina	szagina[general]	N	_	_	E
+a.col1.2.2	|BAD3.AN|{ki}	|BAD₃.AN.KI|[1]	SN.GEN.ABS	_	_	E
+a.col1.3.1	{d}szul-gi-i3-li2	{d}szul-gi-i3-li2[5]	PN	_	_	E
+a.col1.4.1	dub-sar	dub-sar[scribe]	N	_	_	E
+a.col2.1.1	dumu	_[_]	_	_	_	E
+a.col2.1.2	x-x-x	_[_]	_	_	_	E
+a.col2.2.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+

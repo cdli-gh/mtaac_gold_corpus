@@ -1,0 +1,14 @@
+#new_text=P458535
+#source: transcription: CDLI (P458535), annotation: ETCSRI (Q001700)
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	sza-at-{d}suen	a-ma-at-{d}suen[1]	PN	_	_	E
+a.col1.2.1	dam	dam[spouse]	N	_	_	E
+a.col1.2.2	{d}szul-gi	{d}szul-gi[1]	RN	_	_	E
+a.col1.3.1	nita	nita[male]	N	_	_	E
+a.col1.3.2	kal-ga	kalag[strong]	NF.V.SUB	_	_	E
+a.col1.4.1	lugal	lugal[king]	N	_	_	E
+a.col1.4.2	uri5{ki}-ma	urim5{ki}[1]	SN.GEN.ABS	_	_	E
+a.col2.1.1	it-ra-ak-i3-li2	it-ra-ak-i3-li2[1]	PN	_	_	E
+a.col2.2.1	ra2-gaba	ra2-gaba[rider]	N.ABS	_	_	E
+a.col2.3.1	ARAD2-zu	arad2[slave]	N.2-SG-POSS.ABS	_	_	E
+
