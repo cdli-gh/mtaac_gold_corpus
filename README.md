@@ -42,4 +42,4 @@ See https://cdli-gh.github.io/research_select.html
 2018/03/07 initial release
 
 ## TODO
-- `morph/external`: address minor tagset consistency issues in the ETSCRI conversion (e.g., `
+- `morph/external`: address minor tagset consistency issues in the ETSCRI conversion, e.g. `NF.V.SUB` should be `NF.V.PT`
